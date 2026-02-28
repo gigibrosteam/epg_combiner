@@ -3272,3 +3272,5 @@ http://e2.ddstream.info:6226/live?channelId=2226&deviceMac=00:1A:79:28:8a:42&sma
 #EXTINF:-1 tvg-id="2227" tvg-name="Russian Night" tvg-logo="/images/unknown.png" group-title="35. Odrasli +18 XXX",Russian Night
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 http://e2.ddstream.info:6227/live?channelId=2227&deviceMac=00:1A:79:28:8a:42&smart=1
+#EXTINF:-1 tvg-id="2227" tvg-name="The RIP" tvg-logo="https://www.google.com/imgres?q=the%20rip%20imdb&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BODVjYzk2MmQtZTRmMy00MjE4LWJlZmItY2NkYWRjZGE4YmVkXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ffr%2Ftitle%2Ftt32642706%2Fmediaviewer%2Frm3509302530%2F&docid=o-mM6wXQ6XPCoM&tbnid=1GHgrj6PpWKuIM&vet=12ahUKEwjd4uH4iP2SAxVtVPEDHSmaLjwQnPAOegQIHBAB..i&w=1000&h=1400&hcb=2&ved=2ahUKEwjd4uH4iP2SAxVtVPEDHSmaLjwQnPAOegQIHBAB" group-title="vod",The RIP
+http://terapija.club:80/movie/9ebe5cbe7e36a2a2/3872f42cc3811613/139872.mkv
