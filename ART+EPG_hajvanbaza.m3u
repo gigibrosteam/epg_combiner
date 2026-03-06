@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ivicazubovic-jpg/epg_combiner/gh-pages/epg_48h.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/gigibrosteam/epg_combiner/gh-pages/epg_48h.xml"
 #EXTINF:-1 tvg-id="809" tvg-name="INFO Kanal" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/809.png" group-title="SRPSKI ( SERBIA )",INFO Kanal
 http://hp1.phorious.art:15732/4c42041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748124197
 #EXTINF:-1 tvg-id="943" tvg-name="RTS 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/943.png" group-title="SRPSKI ( SERBIA )",RTS 1
@@ -2017,3 +2017,4 @@ http://s3.phorious.art:15728/4a46055a1f48440d58224246075327404e045f5948404b585b4
 http://s3.phorious.art:15728/4a46055f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42619537
 #EXTINF:-1 tvg-id="2049" tvg-name="Russian Night" tvg-logo="" group-title="Odrasli 18 XXX (ADULT + 18)",Russian Night
 http://s3.phorious.art:15728/4a46055e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42318938
+
