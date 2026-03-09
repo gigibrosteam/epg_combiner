@@ -1,128 +1,128 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/gigibrosteam/epg_combiner/gh-pages/epg_48h.xml"
 #EXTINF:-1 tvg-id="809" tvg-name="INFO Kanal" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/809.png" group-title="SRPSKI ( SERBIA )",INFO Kanal
-http://s7.phorious.art:15732/4c42041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748124197
+http://s5.phorious.art:15732/4c42041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748124197
 #EXTINF:-1 tvg-id="943" tvg-name="RTS 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/943.png" group-title="SRPSKI ( SERBIA )",RTS 1
 http://s6.phorious.art:15733/4b0807595949350d5b5342300f53504e4e075d1f494c024752404d1958524c5a0658550445005e524f440355997853
 #EXTINF:-1 tvg-id="663" tvg-name="RTS 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/663.png" group-title="SRPSKI ( SERBIA )",RTS 2
-http://s7.phorious.art:15732/4a0807595949350d5b5342300f53504e4e075d1f494c024752404d1958524c5a0658550445005e524f440353234409
+http://s5.phorious.art:15732/4a0807595949350d5b5342300f53504e4e075d1f494c024752404d1958524c5a0658550445005e524f440353234409
 #EXTINF:-1 tvg-id="1484" tvg-name="RTS 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1484.png" group-title="SRPSKI ( SERBIA )",RTS 3
-http://s7.phorious.art:15732/4a454b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d53293196
+http://s5.phorious.art:15732/4a454b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d53293196
 #EXTINF:-1 tvg-id="855" tvg-name="RTS Svet" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/rtshd.png" group-title="SRPSKI ( SERBIA )",RTS Svet
-http://s7.phorious.art:15732/494c051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743472499
+http://s5.phorious.art:15732/494c051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743472499
 #EXTINF:-1 tvg-id="638" tvg-name="PrvaTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/prva.png" group-title="SRPSKI ( SERBIA )",PrvaTV
 http://s6.phorious.art:15733/49444b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d55929363
 #EXTINF:-1 tvg-id="771" tvg-name="Pink TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/771.png" group-title="SRPSKI ( SERBIA )",Pink TV
 http://s6.phorious.art:15733/49464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d55721151
 #EXTINF:-1 tvg-id="981" tvg-name="Una TV Srbija" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/981.png" group-title="SRPSKI ( SERBIA )",Una TV Srbija
-http://s7.phorious.art:15732/4942025b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49100328
+http://s5.phorious.art:15732/4942025b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49100328
 #EXTINF:-1 tvg-id="690" tvg-name="N1 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/690.png" group-title="SRPSKI ( SERBIA )",N1 TV
 http://s6.phorious.art:15733/4a43061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746727604
 #EXTINF:-1 tvg-id="1839" tvg-name="Kurir TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1839.png" group-title="SRPSKI ( SERBIA )",Kurir TV HD
-http://s7.phorious.art:15732/49430f5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47433295
+http://s5.phorious.art:15732/49430f5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47433295
 #EXTINF:-1 tvg-id="1844" tvg-name="Tanjug TV HD *hevc*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1844.png" group-title="SRPSKI ( SERBIA )",Tanjug TV HD *hevc*
-http://s7.phorious.art:15732/49430e5d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42873573
+http://s5.phorious.art:15732/49430e5d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42873573
 #EXTINF:-1 tvg-id="1871" tvg-name="Blic TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1871.jpg" group-title="SRPSKI ( SERBIA )",Blic TV HD
-http://s7.phorious.art:15732/494d05581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46949168
+http://s5.phorious.art:15732/494d05581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46949168
 #EXTINF:-1 tvg-id="1509" tvg-name="TV K1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1509.png" group-title="SRPSKI ( SERBIA )",TV K1
-http://s7.phorious.art:15732/4e4c071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744399133
+http://s5.phorious.art:15732/4e4c071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744399133
 #EXTINF:-1 tvg-id="750" tvg-name="Insajder TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/750.jpg" group-title="SRPSKI ( SERBIA )",Insajder TV
-http://s7.phorious.art:15732/4941041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745460054
+http://s5.phorious.art:15732/4941041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745460054
 #EXTINF:-1 tvg-id="1909" tvg-name="Informer TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1909.jpg" group-title="SRPSKI ( SERBIA )",Informer TV HD
-http://s7.phorious.art:15732/494d03591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45559740
+http://s5.phorious.art:15732/494d03591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45559740
 #EXTINF:-1 tvg-id="897" tvg-name="Euronews Srbija" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/897.jpg" group-title="SRPSKI ( SERBIA )",Euronews Srbija
-http://s7.phorious.art:15732/4c4d071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741126457
+http://s5.phorious.art:15732/4c4d071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741126457
 #EXTINF:-1 tvg-id="2064" tvg-name="Russia Today Balkan" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2064.png" group-title="SRPSKI ( SERBIA )",Russia Today Balkan
-http://s7.phorious.art:15732/494302591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42337867
+http://s5.phorious.art:15732/494302591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42337867
 #EXTINF:-1 tvg-id="2107" tvg-name="Newsmax Balkan" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2107.png" group-title="SRPSKI ( SERBIA )",Newsmax Balkan
-http://s7.phorious.art:15732/494302581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47231792
+http://s5.phorious.art:15732/494302581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47231792
 #EXTINF:-1 tvg-id="907" tvg-name="B92" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/907.png" group-title="SRPSKI ( SERBIA )",B92
-http://s7.phorious.art:15732/4a404b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d52938373
+http://s5.phorious.art:15732/4a404b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d52938373
 #EXTINF:-1 tvg-id="1138" tvg-name="Nova TV S" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1138.png" group-title="SRPSKI ( SERBIA )",Nova TV S
-http://s7.phorious.art:15732/49470f5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43894768
+http://s5.phorious.art:15732/49470f5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43894768
 #EXTINF:-1 tvg-id="1647" tvg-name="Nova TV S." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1647.png" group-title="SRPSKI ( SERBIA )",Nova TV S.
-http://s7.phorious.art:15732/4e43001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749430911
+http://s5.phorious.art:15732/4e43001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749430911
 #EXTINF:-1 tvg-id="911" tvg-name="RedTV Hevc" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/911.jpg" group-title="SRPSKI ( SERBIA )",RedTV Hevc
-http://s7.phorious.art:15451/4940065f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c48599540
+http://s5.phorious.art:15451/4940065f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c48599540
 #EXTINF:-1 tvg-id="2051" tvg-name="Hype TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2051.png" group-title="SRPSKI ( SERBIA )",Hype TV
-http://s7.phorious.art:15732/4941045f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43802760
+http://s5.phorious.art:15732/4941045f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43802760
 #EXTINF:-1 tvg-id="651" tvg-name="Prva Plus" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/prvaplus.png" group-title="SRPSKI ( SERBIA )",Prva Plus
-http://s7.phorious.art:15732/49400e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747581334
+http://s5.phorious.art:15732/49400e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747581334
 #EXTINF:-1 tvg-id="1216" tvg-name="Prva Max" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1216.png" group-title="SRPSKI ( SERBIA )",Prva Max
-http://s7.phorious.art:15732/4d45061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746671223
+http://s5.phorious.art:15732/4d45061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746671223
 #EXTINF:-1 tvg-id="1566" tvg-name="Prva World" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1566.png" group-title="SRPSKI ( SERBIA )",Prva World
-http://s7.phorious.art:15732/494601591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41192058
+http://s5.phorious.art:15732/494601591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41192058
 #EXTINF:-1 tvg-id="980" tvg-name="Prva Life" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/980.jpg" group-title="SRPSKI ( SERBIA )",Prva Life
-http://s7.phorious.art:15732/4942025c1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49906009
+http://s5.phorious.art:15732/4942025c1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49906009
 #EXTINF:-1 tvg-id="978" tvg-name="Prva Kick" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/978.jpg" group-title="SRPSKI ( SERBIA )",Prva Kick
-http://s7.phorious.art:15732/4942025a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c48552368
+http://s5.phorious.art:15732/4942025a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c48552368
 #EXTINF:-1 tvg-id="979" tvg-name="Prva Files" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/979.jpg" group-title="SRPSKI ( SERBIA )",Prva Files
-http://s7.phorious.art:15732/4942025d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42635446
+http://s5.phorious.art:15732/4942025d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42635446
 #EXTINF:-1 tvg-id="608" tvg-name="Happy" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/608.png" group-title="SRPSKI ( SERBIA )",Happy
-http://s7.phorious.art:15732/49400f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741101435
+http://s5.phorious.art:15732/49400f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741101435
 #EXTINF:-1 tvg-id="1281" tvg-name="Happy Reality" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1281.jpg" group-title="SRPSKI ( SERBIA )",Happy Reality
-http://s7.phorious.art:15732/4945055f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47188113
+http://s5.phorious.art:15732/4945055f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47188113
 #EXTINF:-1 tvg-id="1850" tvg-name="Moj Happy Zivot" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1850.png" group-title="SRPSKI ( SERBIA )",Moj Happy Zivot
-http://s7.phorious.art:15732/494d07501f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44176194
+http://s5.phorious.art:15732/494d07501f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44176194
 #EXTINF:-1 tvg-id="1852" tvg-name="Moja Happy Zemlja" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1852.png" group-title="SRPSKI ( SERBIA )",Moja Happy Zemlja
-http://s7.phorious.art:15732/494d065b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45465349
+http://s5.phorious.art:15732/494d065b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45465349
 #EXTINF:-1 tvg-id="1853" tvg-name="Moja Happy Muzika" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1853.png" group-title="SRPSKI ( SERBIA )",Moja Happy Muzika
-http://s7.phorious.art:15732/494d06581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42289048
+http://s5.phorious.art:15732/494d06581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42289048
 #EXTINF:-1 tvg-id="826" tvg-name="RTRS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/rtrs.png" group-title="SRPSKI ( SERBIA )",RTRS
 http://s1.phorious.art:15721/49440e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741239621
 #EXTINF:-1 tvg-id="615" tvg-name="RTV 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/rtv1.png" group-title="SRPSKI ( SERBIA )",RTV 1
-http://s7.phorious.art:15732/49430f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748351338
+http://s5.phorious.art:15732/49430f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748351338
 #EXTINF:-1 tvg-id="689" tvg-name="RTV 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/rtv1.png" group-title="SRPSKI ( SERBIA )",RTV 2
-http://s7.phorious.art:15732/4b4d0e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747958752
+http://s5.phorious.art:15732/4b4d0e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747958752
 #EXTINF:-1 tvg-id="1210" tvg-name="STUDIO B" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1210.png" group-title="SRPSKI ( SERBIA )",STUDIO B
-http://s7.phorious.art:15732/4140051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744941691
+http://s5.phorious.art:15732/4140051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744941691
 #EXTINF:-1 tvg-id="668" tvg-name="KCN 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/kcn1.png" group-title="SRPSKI ( SERBIA )",KCN 1
-http://s7.phorious.art:15732/494c031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748761847
+http://s5.phorious.art:15732/494c031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748761847
 #EXTINF:-1 tvg-id="1495" tvg-name="RTS Drama" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1495.png" group-title="SRPSKI ( SERBIA )",RTS Drama
-http://s7.phorious.art:15732/4940045e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43453549
+http://s5.phorious.art:15732/4940045e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43453549
 #EXTINF:-1 tvg-id="1319" tvg-name="RTS Trezor" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1319.gif" group-title="SRPSKI ( SERBIA )",RTS Trezor
-http://s7.phorious.art:15732/4e464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d53917635
+http://s5.phorious.art:15732/4e464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d53917635
 #EXTINF:-1 tvg-id="1493" tvg-name="RTS Zivot" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1493.png" group-title="SRPSKI ( SERBIA )",RTS Zivot
-http://s7.phorious.art:15732/494505591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47359160
+http://s5.phorious.art:15732/494505591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47359160
 #EXTINF:-1 tvg-id="1277" tvg-name="RTS Kolo" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1277.gif" group-title="SRPSKI ( SERBIA )",RTS Kolo
-http://s7.phorious.art:15732/49400e581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41923841
+http://s5.phorious.art:15732/49400e581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41923841
 #EXTINF:-1 tvg-id="974" tvg-name="RTS Poletarac" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/974.jpg" group-title="SRPSKI ( SERBIA )",RTS Poletarac
-http://s7.phorious.art:15732/4942015f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43992100
+http://s5.phorious.art:15732/4942015f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43992100
 #EXTINF:-1 tvg-id="1491" tvg-name="Hram TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1491.jpg" group-title="SRPSKI ( SERBIA )",Hram TV
-http://s7.phorious.art:15732/4947015a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47379622
+http://s5.phorious.art:15732/4947015a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47379622
 #EXTINF:-1 tvg-id="2062" tvg-name="Blagoslov _TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2062.png" group-title="SRPSKI ( SERBIA )",Blagoslov _TV
-http://s7.phorious.art:15732/494103581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41735081
+http://s5.phorious.art:15732/494103581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41735081
 #EXTINF:-1 tvg-id="2063" tvg-name="Blagovesti TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2063.png" group-title="SRPSKI ( SERBIA )",Blagovesti TV
-http://s7.phorious.art:15732/4941035d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42191270
+http://s5.phorious.art:15732/4941035d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42191270
 #EXTINF:-1 tvg-id="1270" tvg-name="NASA TV - Timisoara" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1270.png" group-title="SRPSKI ( SERBIA )",NASA TV - Timisoara
-http://s7.phorious.art:15732/4941055f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41207175
+http://s5.phorious.art:15732/4941055f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41207175
 #EXTINF:-1 tvg-id="2109" tvg-name="KTV Zrenjanin" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2109.png" group-title="SRPSKI ( SERBIA )",KTV Zrenjanin
-http://s7.phorious.art:15732/494d025b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41166854
+http://s5.phorious.art:15732/494d025b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41166854
 #EXTINF:-1 tvg-id="607" tvg-name="RTV Novi Pazar" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/607.jpg" group-title="SRPSKI ( SERBIA )",RTV Novi Pazar
-http://s7.phorious.art:15732/4c4d001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749159519
+http://s5.phorious.art:15732/4c4d001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749159519
 #EXTINF:-1 tvg-id="773" tvg-name="Santos TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/773.jpg" group-title="SRPSKI ( SERBIA )",Santos TV
-http://s7.phorious.art:15732/49470f581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42377151
+http://s5.phorious.art:15732/49470f581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42377151
 #EXTINF:-1 tvg-id="1462" tvg-name="Sremska TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1462.jpg" group-title="SRPSKI ( SERBIA )",Sremska TV
 http://bk1.ddstream.info/nosignal/m5479499
 #EXTINF:-1 tvg-id="1631" tvg-name="TV Kladovo" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1631.jpg" group-title="SRPSKI ( SERBIA )",TV Kladovo
-http://s7.phorious.art:15732/4e42061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745558294
+http://s5.phorious.art:15732/4e42061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745558294
 #EXTINF:-1 tvg-id="1254" tvg-name="TV Petrovec" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1254.jpg" group-title="SRPSKI ( SERBIA )",TV Petrovec
 http://bk1.ddstream.info/nosignal/m5274503
 #EXTINF:-1 tvg-id="1372" tvg-name="TV Lav" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1372.png" group-title="SRPSKI ( SERBIA )",TV Lav
-http://s7.phorious.art:15732/49400e591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45561603
+http://s5.phorious.art:15732/49400e591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45561603
 #EXTINF:-1 tvg-id="1428" tvg-name="ISTOK TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1428.png" group-title="SRPSKI ( SERBIA )",ISTOK TV
-http://s7.phorious.art:15732/494000511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46590832
+http://s5.phorious.art:15732/494000511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46590832
 #EXTINF:-1 tvg-id="1680" tvg-name="Palma Plus" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1680.png" group-title="SRPSKI ( SERBIA )",Palma Plus
-http://s7.phorious.art:15732/49430f511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42800434
+http://s5.phorious.art:15732/49430f511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42800434
 #EXTINF:-1 tvg-id="1705" tvg-name="TV Jasenica" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1705.png" group-title="SRPSKI ( SERBIA )",TV Jasenica
-http://s7.phorious.art:15732/494101501f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45126873
+http://s5.phorious.art:15732/494101501f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45126873
 #EXTINF:-1 tvg-id="1706" tvg-name="TV Kanal M" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1706.jpg" group-title="SRPSKI ( SERBIA )",TV Kanal M
-http://s7.phorious.art:15732/4941005d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47521846
+http://s5.phorious.art:15732/4941005d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c47521846
 #EXTINF:-1 tvg-id="976" tvg-name="Belle Amie Nis" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/976.jpg" group-title="SRPSKI ( SERBIA )",Belle Amie Nis
-http://s7.phorious.art:15732/4945045a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44900014
+http://s5.phorious.art:15732/4945045a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44900014
 #EXTINF:-1 tvg-id="1748" tvg-name="TV Podrinje" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1748.jpg" group-title="SRPSKI ( SERBIA )",TV Podrinje
-http://s7.phorious.art:15732/494205591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41551012
+http://s5.phorious.art:15732/494205591f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41551012
 #EXTINF:-1 tvg-id="1857" tvg-name="Balkan TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1857.png" group-title="SRPSKI ( SERBIA )",Balkan TV
-http://s7.phorious.art:15732/494d065c1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44457533
+http://s5.phorious.art:15732/494d065c1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44457533
 #EXTINF:-1 tvg-id="1308" tvg-name="HRT 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1308.jpg" group-title="HRVATSKI ( CROATIA )",HRT 1
 http://s4.phorious.art:25733/4e414b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d53766331
 #EXTINF:-1 tvg-id="634" tvg-name="HRT 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/634.png" group-title="HRVATSKI ( CROATIA )",HRT 2
@@ -422,7 +422,7 @@ http://s4.phorious.art:9986/40464b59534245765351484e7351594b420d595704450f5c4d49
 #EXTINF:-1 tvg-id="956" tvg-name="Adria TV CG" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/956.jpg" group-title="CRNOGORSKI ( MONTENEGRO )",Adria TV CG
 http://s4.phorious.art:9986/494401511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c48502488
 #EXTINF:-1 tvg-id="807" tvg-name="Pink Media M" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/807.png" group-title="CRNOGORSKI ( MONTENEGRO )",Pink Media M
-http://s7.phorious.art:15451/4f4d4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d56294396
+http://s5.phorious.art:15451/4f4d4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d56294396
 #EXTINF:-1 tvg-id="1256" tvg-name="MNE Sport" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1256.png" group-title="CRNOGORSKI ( MONTENEGRO )",MNE Sport
 http://s4.phorious.art:9986/4942075d1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44204709
 #EXTINF:-1 tvg-id="1019" tvg-name="MNE Sport 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1019.jpg" group-title="CRNOGORSKI ( MONTENEGRO )",MNE Sport 2
@@ -460,7 +460,7 @@ http://s4.phorious.art:9986/4a4004591f48440d58224246075327404e045f5948404b585b4d
 #EXTINF:-1 tvg-id="2058" tvg-name="Teuta" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2058.jpg" group-title="CRNOGORSKI ( MONTENEGRO )",Teuta
 http://s4.phorious.art:9986/4a40045b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49771835
 #EXTINF:-1 tvg-id="1307" tvg-name="Blagoslov TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1307.png" group-title="CRNOGORSKI ( MONTENEGRO )",Blagoslov TV
-http://s7.phorious.art:15732/494103581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42656163
+http://s5.phorious.art:15732/494103581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42656163
 #EXTINF:-1 tvg-id="1381" tvg-name="Arena 1 Premium HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1381.png" group-title="SPORTSKI ( SPORT )",Arena 1 Premium HD
 http://s2.phorious.art:15724/494c045c1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43400890
 #EXTINF:-1 tvg-id="1382" tvg-name="Arena 2 Premium HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1382.png" group-title="SPORTSKI ( SPORT )",Arena 2 Premium HD
@@ -844,7 +844,7 @@ http://bk1.ddstream.info/nosignal/m5504340
 #EXTINF:-1 tvg-id="1065" tvg-name="Balkan Trip" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1065.png" group-title="DOKU. ( DOCUMENTARY )",Balkan Trip
 http://s3.phorious.art:15452/4144001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741932266
 #EXTINF:-1 tvg-id="661" tvg-name="Agro TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/661.png" group-title="DOKU. ( DOCUMENTARY )",Agro TV
-http://s7.phorious.art:15732/49470e5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45944036
+http://s5.phorious.art:15732/49470e5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45944036
 #EXTINF:-1 tvg-id="630" tvg-name="24 Kitchen" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/24.png" group-title="DOKU. ( DOCUMENTARY )",24 Kitchen
 http://s3.phorious.art:15452/49474b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51844600
 #EXTINF:-1 tvg-id="1063" tvg-name="Kitchen" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1063.jpg" group-title="DOKU. ( DOCUMENTARY )",Kitchen
@@ -868,91 +868,91 @@ http://s3.phorious.art:15452/494604591f48440d58224246075327404e045f5948404b585b4
 #EXTINF:-1 tvg-id="2054" tvg-name="PINK TV ." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2054.png" group-title="PINK MEDIA ( PINK SERBIA )",PINK TV .
 http://s9.phorious.art:15733/49464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d52785012
 #EXTINF:-1 tvg-id="1905" tvg-name="Pink Zadruga 1   hls" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1905.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Zadruga 1   hls
-http://s7.phorious.art:15451/4947035a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44447564
+http://s5.phorious.art:15451/4947035a1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44447564
 #EXTINF:-1 tvg-id="1745" tvg-name="Pink Zadruga 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1745.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Zadruga 2
-http://s7.phorious.art:15451/494207581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49458726
+http://s5.phorious.art:15451/494207581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49458726
 #EXTINF:-1 tvg-id="1661" tvg-name="Pink Zadruga 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1661.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Zadruga 3
-http://s7.phorious.art:15451/4f46031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741453620
+http://s5.phorious.art:15451/4f46031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741453620
 #EXTINF:-1 tvg-id="1229" tvg-name="Pink Zadruga 4" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1229.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Zadruga 4
-http://s7.phorious.art:15451/4f46001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744550335
+http://s5.phorious.art:15451/4f46001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744550335
 #EXTINF:-1 tvg-id="853" tvg-name="Narodna TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/853.jpg" group-title="PINK MEDIA ( PINK SERBIA )",Narodna TV HD
-http://s7.phorious.art:15451/4946011553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749434134
+http://s5.phorious.art:15451/4946011553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749434134
 #EXTINF:-1 tvg-id="761" tvg-name="Pink 2 RED" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pink2.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink 2 RED
-http://s7.phorious.art:15451/4940065f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42648029
+http://s5.phorious.art:15451/4940065f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42648029
 #EXTINF:-1 tvg-id="778" tvg-name="Pink VESTI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pink3.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink VESTI
-http://s7.phorious.art:15451/4a444b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d55290661
+http://s5.phorious.art:15451/4a444b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d55290661
 #EXTINF:-1 tvg-id="757" tvg-name="Pink Plus" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkplus.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Plus
-http://s7.phorious.art:15451/4b414b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d58113990
+http://s5.phorious.art:15451/4b414b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d58113990
 #EXTINF:-1 tvg-id="696" tvg-name="Pink Extra" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkextra.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Extra
-http://s7.phorious.art:15451/4b404b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d54740568
+http://s5.phorious.art:15451/4b404b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d54740568
 #EXTINF:-1 tvg-id="889" tvg-name="Pink World" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkworld.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink World
-http://s7.phorious.art:15451/4946041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747169854
+http://s5.phorious.art:15451/4946041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747169854
 #EXTINF:-1 tvg-id="793" tvg-name="Pink Premium" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkpremium.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Premium
-http://s7.phorious.art:15451/40434b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d57560002
+http://s5.phorious.art:15451/40434b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d57560002
 #EXTINF:-1 tvg-id="777" tvg-name="Pink Movies" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pink.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Movies
-http://s7.phorious.art:15451/4c4d061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749951406
+http://s5.phorious.art:15451/4c4d061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749951406
 #EXTINF:-1 tvg-id="635" tvg-name="Pink Film" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkfilm.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Film
-http://s7.phorious.art:15451/410807595949350d5b5342300f53504e4e075d1f494c024752404d1958524c5a0658550445005e524f440355863267
+http://s5.phorious.art:15451/410807595949350d5b5342300f53504e4e075d1f494c024752404d1958524c5a0658550445005e524f440355863267
 #EXTINF:-1 tvg-id="841" tvg-name="Pink Comedy" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkcomedy.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Comedy
-http://s7.phorious.art:15451/4a4c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d53623840
+http://s5.phorious.art:15451/4a4c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d53623840
 #EXTINF:-1 tvg-id="1189" tvg-name="Pink Family" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkkids.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Family
-http://s7.phorious.art:15451/49470f5e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44626508
+http://s5.phorious.art:15451/49470f5e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c44626508
 #EXTINF:-1 tvg-id="639" tvg-name="Pink crime  mistery" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkaction3.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink crime  mistery
-http://s7.phorious.art:15451/4945021553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743254764
+http://s5.phorious.art:15451/4945021553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743254764
 #EXTINF:-1 tvg-id="1231" tvg-name="Pink Action" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pink.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Action
-http://s7.phorious.art:15451/4b430e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746970868
+http://s5.phorious.art:15451/4b430e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746970868
 #EXTINF:-1 tvg-id="835" tvg-name="Pink THRILLER" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkaction2.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink THRILLER
-http://s7.phorious.art:15451/4945031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745943488
+http://s5.phorious.art:15451/4945031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745943488
 #EXTINF:-1 tvg-id="769" tvg-name="Pink romance" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkmovies2.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink romance
-http://s7.phorious.art:15451/4945011553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741299717
+http://s5.phorious.art:15451/4945011553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741299717
 #EXTINF:-1 tvg-id="662" tvg-name="Pink Sci-Fi Fantasy" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pink.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Sci-Fi Fantasy
-http://s7.phorious.art:15451/4c4d051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595742227790
+http://s5.phorious.art:15451/4c4d051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595742227790
 #EXTINF:-1 tvg-id="730" tvg-name="Pink World Cinema" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/730.jpg" group-title="PINK MEDIA ( PINK SERBIA )",Pink World Cinema
-http://s7.phorious.art:15451/4c410e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741858256
+http://s5.phorious.art:15451/4c410e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741858256
 #EXTINF:-1 tvg-id="652" tvg-name="Pink Serije" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/652.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Serije
-http://s7.phorious.art:15451/4c410f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747942885
+http://s5.phorious.art:15451/4c410f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747942885
 #EXTINF:-1 tvg-id="746" tvg-name="Pink Pedia" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkpedia.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Pedia
-http://s7.phorious.art:15451/4a464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d54936402
+http://s5.phorious.art:15451/4a464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d54936402
 #EXTINF:-1 tvg-id="794" tvg-name="Pink Western" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkwestern.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Western
-http://s7.phorious.art:15451/404c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d52390150
+http://s5.phorious.art:15451/404c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d52390150
 #EXTINF:-1 tvg-id="763" tvg-name="Pink Classic" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkclasik.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Classic
-http://s7.phorious.art:15451/49450e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743228242
+http://s5.phorious.art:15451/49450e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743228242
 #EXTINF:-1 tvg-id="833" tvg-name="Pink Horror" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkhoror.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Horror
-http://s7.phorious.art:15451/49450f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746297910
+http://s5.phorious.art:15451/49450f1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746297910
 #EXTINF:-1 tvg-id="890" tvg-name="Pink Soap" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinksoap.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Soap
-http://s7.phorious.art:15451/4946051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746575630
+http://s5.phorious.art:15451/4946051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746575630
 #EXTINF:-1 tvg-id="698" tvg-name="Pink Reality" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkreality.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Reality
-http://s7.phorious.art:15451/4946061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741407320
+http://s5.phorious.art:15451/4946061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741407320
 #EXTINF:-1 tvg-id="719" tvg-name="Pink Style" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkstyle.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Style
-http://s7.phorious.art:15451/4946021553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745323511
+http://s5.phorious.art:15451/4946021553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595745323511
 #EXTINF:-1 tvg-id="1703" tvg-name="Pink Lol" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1703.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Lol
-http://s7.phorious.art:15451/4941015f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41303106
+http://s5.phorious.art:15451/4941015f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c41303106
 #EXTINF:-1 tvg-id="847" tvg-name="Pink Zabava" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkzabava.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Zabava
-http://s7.phorious.art:15451/4946031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748757036
+http://s5.phorious.art:15451/4946031553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748757036
 #EXTINF:-1 tvg-id="1051" tvg-name="Pink Ha ha" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1051.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Ha ha
-http://s7.phorious.art:15451/49434b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51294862
+http://s5.phorious.art:15451/49434b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51294862
 #EXTINF:-1 tvg-id="756" tvg-name="Pink Kuvar" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/756.jpg" group-title="PINK MEDIA ( PINK SERBIA )",Pink Kuvar
-http://s7.phorious.art:15451/4c42061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744714845
+http://s5.phorious.art:15451/4c42061553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744714845
 #EXTINF:-1 tvg-id="715" tvg-name="Pink Fashion" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkfashion.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Fashion
-http://s7.phorious.art:15451/4946001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741573199
+http://s5.phorious.art:15451/4946001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741573199
 #EXTINF:-1 tvg-id="749" tvg-name="Pink Show" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/749.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Show
-http://s7.phorious.art:15451/4c42071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746808226
+http://s5.phorious.art:15451/4c42071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746808226
 #EXTINF:-1 tvg-id="687" tvg-name="Pink Super Kids" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/687.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Super Kids
-http://s7.phorious.art:15451/4c42051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743867274
+http://s5.phorious.art:15451/4c42051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743867274
 #EXTINF:-1 tvg-id="891" tvg-name="Pink Music" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/891.jpg" group-title="PINK MEDIA ( PINK SERBIA )",Pink Music
-http://s7.phorious.art:15451/41464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d57375121
+http://s5.phorious.art:15451/41464b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d57375121
 #EXTINF:-1 tvg-id="806" tvg-name="Pink Music 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/806.jpg" group-title="PINK MEDIA ( PINK SERBIA )",Pink Music 2
-http://s7.phorious.art:15451/4941071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743442091
+http://s5.phorious.art:15451/4941071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595743442091
 #EXTINF:-1 tvg-id="845" tvg-name="Pink Rock n Roll" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkrockenrol.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Rock n Roll
-http://s7.phorious.art:15451/414c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d56123759
+http://s5.phorious.art:15451/414c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d56123759
 #EXTINF:-1 tvg-id="882" tvg-name="Pink hits" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/882.jpg" group-title="PINK MEDIA ( PINK SERBIA )",Pink hits
-http://s7.phorious.art:15451/4941051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748487954
+http://s5.phorious.art:15451/4941051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595748487954
 #EXTINF:-1 tvg-id="817" tvg-name="Pink hits 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkmovies3.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink hits 2
-http://s7.phorious.art:15451/4945001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595742721244
+http://s5.phorious.art:15451/4945001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595742721244
 #EXTINF:-1 tvg-id="825" tvg-name="Pink Folk 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkfolk1.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Folk 1
-http://s7.phorious.art:15451/41474b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d59870274
+http://s5.phorious.art:15451/41474b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d59870274
 #EXTINF:-1 tvg-id="677" tvg-name="Pink Folk 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/pinkfolk2.png" group-title="PINK MEDIA ( PINK SERBIA )",Pink Folk 2
-http://s7.phorious.art:15451/41414b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51683425
+http://s5.phorious.art:15451/41414b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51683425
 #EXTINF:-1 tvg-id="1218" tvg-name="Folk Muzika" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1218.png" group-title="MUZICKI ( MUSIC )",Folk Muzika
 http://s3.phorious.art:9987/404d071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595744521701
 #EXTINF:-1 tvg-id="611" tvg-name="Grand TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/611.png" group-title="MUZICKI ( MUSIC )",Grand TV
@@ -970,7 +970,7 @@ http://s3.phorious.art:9987/4940051553484e0628594a440d2d5b42470153534c0806515656
 #EXTINF:-1 tvg-id="885" tvg-name="DM Sat" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/dmsat.png" group-title="MUZICKI ( MUSIC )",DM Sat
 http://s3.phorious.art:9987/4944051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741434678
 #EXTINF:-1 tvg-id="1282" tvg-name="LinkTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1282.png" group-title="MUZICKI ( MUSIC )",LinkTV
-http://s7.phorious.art:15732/494104511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46277000
+http://s5.phorious.art:15732/494104511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46277000
 #EXTINF:-1 tvg-id="1798" tvg-name="Boem Televizija" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1798.png" group-title="MUZICKI ( MUSIC )",Boem Televizija
 http://s3.phorious.art:9987/4b46041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595742791312
 #EXTINF:-1 tvg-id="738" tvg-name="Kafansko vece" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/738.png" group-title="MUZICKI ( MUSIC )",Kafansko vece
@@ -1016,7 +1016,7 @@ http://s3.phorious.art:9987/4f444b59534245765351484e7351594b420d595704450f5c4d49
 #EXTINF:-1 tvg-id="654" tvg-name="Jugoton" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/jugoton.png" group-title="MUZICKI ( MUSIC )",Jugoton
 http://s3.phorious.art:9987/4944071553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595746626655
 #EXTINF:-1 tvg-id="1070" tvg-name="Pink Roll" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1070.png" group-title="MUZICKI ( MUSIC )",Pink Roll
-http://s7.phorious.art:15451/414c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51368811
+http://s5.phorious.art:15451/414c4b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51368811
 #EXTINF:-1 tvg-id="1492" tvg-name="Hit TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1492.png" group-title="MUZICKI ( MUSIC )",Hit TV
 http://s3.phorious.art:9987/49440f511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49624722
 #EXTINF:-1 tvg-id="1444" tvg-name="Max Mix Music" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1444.png" group-title="MUZICKI ( MUSIC )",Max Mix Music
@@ -1336,7 +1336,7 @@ http://s3.phorious.art:15465/4a42041553484e0628594a440d2d5b42470153534c080651565
 #EXTINF:-1 tvg-id="2143" tvg-name="Kanal D 2 (ro)" tvg-logo="/images" group-title="ROMANIA ( ROMANIA )",Kanal D 2 (ro)
 http://s3.phorious.art:15465/4a40045e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49743446
 #EXTINF:-1 tvg-id="865" tvg-name="Victoria TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/865.png" group-title="ROMANIA ( ROMANIA )",Victoria TV
-http://s7.phorious.art:15732/4b420e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747715672
+http://s5.phorious.art:15732/4b420e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747715672
 #EXTINF:-1 tvg-id="2144" tvg-name="B1 (ro)" tvg-logo="/images" group-title="ROMANIA ( ROMANIA )",B1 (ro)
 http://s3.phorious.art:15465/4a4004511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46825315
 #EXTINF:-1 tvg-id="1405" tvg-name="Romania TV Int" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1405.jpg" group-title="ROMANIA ( ROMANIA )",Romania TV Int
