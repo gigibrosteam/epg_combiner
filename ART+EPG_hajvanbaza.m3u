@@ -42,7 +42,7 @@ http://s7.phorious.art:15732/49470f5f1f48440d58224246075327404e045f5948404b585b4
 #EXTINF:-1 tvg-id="1647" tvg-name="Nova TV S." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1647.png" group-title="SRPSKI ( SERBIA )",Nova TV S.
 http://s7.phorious.art:15732/4e43001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595749430911
 #EXTINF:-1 tvg-id="911" tvg-name="RedTV Hevc" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/911.jpg" group-title="SRPSKI ( SERBIA )",RedTV Hevc
-http://s7.phorious.art:15451/4940065f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c48599540
+http://s5.phorious.art:15451/4940065f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c48599540
 #EXTINF:-1 tvg-id="2051" tvg-name="Hype TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2051.png" group-title="SRPSKI ( SERBIA )",Hype TV
 http://s7.phorious.art:15732/4941045f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43802760
 #EXTINF:-1 tvg-id="651" tvg-name="Prva Plus" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/prvaplus.png" group-title="SRPSKI ( SERBIA )",Prva Plus
@@ -460,7 +460,7 @@ http://s4.phorious.art:9986/4a4004591f48440d58224246075327404e045f5948404b585b4d
 #EXTINF:-1 tvg-id="2058" tvg-name="Teuta" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2058.jpg" group-title="CRNOGORSKI ( MONTENEGRO )",Teuta
 http://s4.phorious.art:9986/4a40045b1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49771835
 #EXTINF:-1 tvg-id="1307" tvg-name="Blagoslov TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1307.png" group-title="CRNOGORSKI ( MONTENEGRO )",Blagoslov TV
-http://s5.phorious.art:15732/494103581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42656163
+http://s7.phorious.art:15732/494103581f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42656163
 #EXTINF:-1 tvg-id="1381" tvg-name="Arena 1 Premium HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1381.png" group-title="SPORTSKI ( SPORT )",Arena 1 Premium HD
 http://s2.phorious.art:15724/494c045c1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c43400890
 #EXTINF:-1 tvg-id="1382" tvg-name="Arena 2 Premium HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1382.png" group-title="SPORTSKI ( SPORT )",Arena 2 Premium HD
@@ -844,7 +844,7 @@ http://bk1.ddstream.info/nosignal/m5504340
 #EXTINF:-1 tvg-id="1065" tvg-name="Balkan Trip" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1065.png" group-title="DOKU. ( DOCUMENTARY )",Balkan Trip
 http://s3.phorious.art:15452/4144001553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741932266
 #EXTINF:-1 tvg-id="661" tvg-name="Agro TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/661.png" group-title="DOKU. ( DOCUMENTARY )",Agro TV
-http://s5.phorious.art:15732/49470e5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45944036
+http://s7.phorious.art:15732/49470e5f1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c45944036
 #EXTINF:-1 tvg-id="630" tvg-name="24 Kitchen" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/24.png" group-title="DOKU. ( DOCUMENTARY )",24 Kitchen
 http://s3.phorious.art:15452/49474b59534245765351484e7351594b420d595704450f5c4d494c0e475249401958524e08065e544943075d51844600
 #EXTINF:-1 tvg-id="1063" tvg-name="Kitchen" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1063.jpg" group-title="DOKU. ( DOCUMENTARY )",Kitchen
@@ -970,7 +970,7 @@ http://s3.phorious.art:9987/4940051553484e0628594a440d2d5b42470153534c0806515656
 #EXTINF:-1 tvg-id="885" tvg-name="DM Sat" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/dmsat.png" group-title="MUZICKI ( MUSIC )",DM Sat
 http://s3.phorious.art:9987/4944051553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595741434678
 #EXTINF:-1 tvg-id="1282" tvg-name="LinkTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1282.png" group-title="MUZICKI ( MUSIC )",LinkTV
-http://s5.phorious.art:15732/494104511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46277000
+http://s7.phorious.art:15732/494104511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46277000
 #EXTINF:-1 tvg-id="1798" tvg-name="Boem Televizija" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1798.png" group-title="MUZICKI ( MUSIC )",Boem Televizija
 http://s3.phorious.art:9987/4b46041553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595742791312
 #EXTINF:-1 tvg-id="738" tvg-name="Kafansko vece" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/738.png" group-title="MUZICKI ( MUSIC )",Kafansko vece
@@ -1336,7 +1336,7 @@ http://s3.phorious.art:15465/4a42041553484e0628594a440d2d5b42470153534c080651565
 #EXTINF:-1 tvg-id="2143" tvg-name="Kanal D 2 (ro)" tvg-logo="/images" group-title="ROMANIA ( ROMANIA )",Kanal D 2 (ro)
 http://s3.phorious.art:15465/4a40045e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c49743446
 #EXTINF:-1 tvg-id="865" tvg-name="Victoria TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/865.png" group-title="ROMANIA ( ROMANIA )",Victoria TV
-http://s5.phorious.art:15732/4b420e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747715672
+http://s7.phorious.art:15732/4b420e1553484e0628594a440d2d5b42470153534c0806515656450f504d494503475249424b58544f4500595747715672
 #EXTINF:-1 tvg-id="2144" tvg-name="B1 (ro)" tvg-logo="/images" group-title="ROMANIA ( ROMANIA )",B1 (ro)
 http://s3.phorious.art:15465/4a4004511f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c46825315
 #EXTINF:-1 tvg-id="1405" tvg-name="Romania TV Int" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1405.jpg" group-title="ROMANIA ( ROMANIA )",Romania TV Int
