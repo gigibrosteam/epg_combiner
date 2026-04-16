@@ -3263,7 +3263,7 @@ http://e2.ddstream.info:6226/live?channelId=2226&deviceMac=00:1A:79:28:8a:42&sma
 #EXTINF:-1 tvg-id="2227" tvg-name="Russian Night" tvg-logo="/images/unknown.png" group-title="35. Odrasli +18 XXX",Russian Night
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 http://e2.ddstream.info:6227/live?channelId=2227&deviceMac=00:1A:79:28:8a:42&smart=1
-#EXTINF:-1 tvg-id="" tvg-name="Svadba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWeAbZQGnsHEXpbrtVDczflZWVlHWTju6_Cg_C8wO114nxHp2qsY8-WERztnBevqUYW4dfd6kQWQl5EfpIsTqeOOzCbNb2j1NkOP1hhfY_A&s=10" group-title="35. Odrasli +18 XXX",Svadba
+#EXTINF:-1 tvg-id="" tvg-name="Svadba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWeAbZQGnsHEXpbrtVDczflZWVlHWTju6_Cg_C8wO114nxHp2qsY8-WERztnBevqUYW4dfd6kQWQl5EfpIsTqeOOzCbNb2j1NkOP1hhfY_A&s=10" group-title="Movies",Svadba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 https://drive.google.com/uc?export=download&id=1DJJA8yf-hVdhrp7hxBiYzxoMQxWTrZf7
 
