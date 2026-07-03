@@ -2018,4 +2018,5 @@ http://s3.phorious.art:15728/4a46055f1f48440d58224246075327404e045f5948404b585b4
 #EXTINF:-1 tvg-id="2049" tvg-name="Russian Night" tvg-logo="/images" group-title="Odrasli 18 XXX (ADULT + 18)",Russian Night
 http://s3.phorious.art:15728/4a46055e1f48440d58224246075327404e045f5948404b585b4d5a06515a5645065d4d49450115524f43065e534c42318938
 #EXTINF:-1 tvg-id="" tvg-name="Skakutavci" tvg-logo="/images" group-title="videoteka",Skakutavci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 http://77.81.121.199/media/PrischyVC6/00:1A:20:D8:36:04/11951.mp4
