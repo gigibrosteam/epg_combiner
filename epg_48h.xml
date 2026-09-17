@@ -9176,10 +9176,6 @@
 <title>Ime Naroda</title>
 <desc>Ime naroda</desc>
 </programme>
-<programme start="20260917174802 +0000" stop="20260917192259 +0000" channel="Mix Movies Western">
-<title>Breakheart Pass (1975)</title>
-<desc>Breakheart Pass (1975)</desc>
-</programme>
 <programme start="20260917192259 +0000" stop="20260917211302 +0000" channel="Mix Movies Western">
 <title>Deadwood The Movie (2019)</title>
 <desc>Deadwood The Movie (2019)</desc>
@@ -18228,6 +18224,10 @@
 <title>Mreza.me ®</title>
 <desc>Mreza.me</desc>
 </programme>
+<programme start="20260918212200 +0000" stop="20260918213000 +0000" channel="RTV CG 1">
+<title>Art vijesti ®</title>
+<desc>Art vijesti</desc>
+</programme>
 <programme start="20260917191500 +0000" stop="20260917194500 +0000" channel="RTCG Sat">
 <title>Trag - Iseljenicka prica Bedrija Gula ®</title>
 <desc>Trag - Iseljenicka prica Bedrija GulaTrag - Iseljenicka prica Bedrija Gula koji je kao desetogodisnjak napustio Crnu Goru sa porodicom i preslio se za Tursku.</desc>
@@ -25416,6 +25416,10 @@
 <title>FW - Dejan Despotovic, FW -BG 09</title>
 <desc>FW</desc>
 </programme>
+<programme start="20260918212400 +0000" stop="20260918212700 +0000" channel="Pink Fashion">
+<title>N sport, WINTER 08/09 - Beograd</title>
+<desc>N sport Pink Fashion</desc>
+</programme>
 <programme start="20260917180300 +0000" stop="20260917213000 +0000" channel="Pink Show">
 <title>Premijera Vikend specijal</title>
 <desc>PremijeraKolazna emisija koja ce svakog radnog dana na odredeni nacin prikazati zivote poznatih. U Premijeri cete imati priliku zaviriti u domove nasih poznatih, prvi cete saznati gdje su i sto rade, ali i njihove najintimnije ispovijesti. Bit cemo prvi koji ce pohoditi sva gradska dogadanja, pratiti ona poznata. Najgledaniji kratki format o slavnima, premijerna emisija vec dvije godine rusi rekorde gledanosti, a premijerne kamere uvijek su na pravom mjestu u pravo vrijeme. Ekipa emisije pripremila je...</desc>
@@ -27868,10 +27872,6 @@
 <title>Gumballov cudesni svijet 2, ep. 37.</title>
 <desc>The Amazing World of Gumball</desc>
 </programme>
-<programme start="20260917191800 +0000" stop="20260917192300 +0000" channel="Baby TV">
-<title>Gledaj sto sam pronasao, ep. 9.</title>
-<desc>Look What I FoundMalo dijete ulazi u sobu i otkriva kucanski predmet. Prica se odvija u sobi, ali i u djecakovoj masti, gdje se svaki predmet pretvara u nesto iznenadujuce i zabavno. Cipela se pretvara u automobil, komad papira se pretvara u avion i vise! Serija nam pokazuje kako interakcija s jednostavnim stvarima, uz djecju mastu, moze svakodnevni predmet pretvoriti u nesto vece od zivota!</desc>
-</programme>
 <programme start="20260917192300 +0000" stop="20260917192800 +0000" channel="Baby TV">
 <title>Gledaj sto sam pronasao, ep. 10.</title>
 <desc>Look What I FoundMalo dijete ulazi u sobu i otkriva kucanski predmet. Prica se odvija u sobi, ali i u djecakovoj masti, gdje se svaki predmet pretvara u nesto iznenadujuce i zabavno. Cipela se pretvara u automobil, komad papira se pretvara u avion i vise! Serija nam pokazuje kako interakcija s jednostavnim stvarima, uz djecju mastu, moze svakodnevni predmet pretvoriti u nesto vece od zivota!</desc>
@@ -29246,6 +29246,10 @@
 </programme>
 <programme start="20260918211900 +0000" stop="20260918212300 +0000" channel="Baby TV">
 <title>Zatvori oci, ep. 4.</title>
+<desc>Close Your Eyes</desc>
+</programme>
+<programme start="20260918212300 +0000" stop="20260918212800 +0000" channel="Baby TV">
+<title>Zatvori oci, ep. 5.</title>
 <desc>Close Your Eyes</desc>
 </programme>
 <programme start="20260917181500 +0000" stop="20260917201000 +0000" channel="Hitovci">
@@ -35240,6 +35244,10 @@
 <title>In Cold Light</title>
 <desc>Die junge Ava ist gerade aus dem Gefangnis entlassen worden und versucht, ihr Drogenimperium zuruckzuerobern. Stattdessen wird sie jedoch eines Mordes beschuldigt. Von der Polizei und einem Verbrecherboss gejagt, muss sie sich ihrem Vater stellen.</desc>
 </programme>
+<programme start="20260918212402 +0000" stop="20260918231854 +0000" channel="Cinema HD">
+<title>Black Phone 2</title>
+<desc>Vier Jahre nachdem Finn dem Kidnapper &quot;Der Greifer&quot; entkommen ist, bemuht er sich immer noch, dieses Trauma zu bewaltigen. Unterdessen erhalt seine Schwester Gwen in Albtraumen Anrufe vom schwarzen Telefon. In Visionen sieht sie immer wieder drei schrecklich zugerichtete Jungen im Bergcamp &quot;Alpine Lake&quot;. Beide machen sich auf nach Alpine Lake, um hinter das Ratsel der Visionen zu kommen, nur um dort erneut dem Greifer gegenuberzustehen, der seit seinem Tod noch machtiger geworden ist.</desc>
+</programme>
 <programme start="20260917190000 +0000" stop="20260917195000 +0000" channel="AXN White HD">
 <title>Professor T</title>
 <desc>Ein Glas Wein auf einem Empfang des Museums in Cambridge kostet einen Bibliothekar das Leben. 120 Gaste konnten das Getrank vergiftet haben. Professor T. engt den Kreis der Verdachtigen ein und konzentriert sich auf die Frauen als Tater.</desc>
@@ -37608,10 +37616,6 @@
 <title>Hours to Kill - Zeitachse des Todes</title>
 <desc>Der 27-jahrige Chemiestudent Jarrod Davidson wird in seiner Wohnung erschossen. Zunachst wird vermutet, er sei in Drogengeschafte verwickelt, doch die Ermittler decken einen Sorgerechtsstreit und ein Familienkomplott auf.</desc>
 </programme>
-<programme start="20260917185900 +0000" stop="20260917192400 +0000" channel="Animal Planet Nl">
-<title>iCarly</title>
-<desc>JeugdserieTiener Carly maakt haar eigen internetshow, samen met haar drie vrienden Freddy, Sam en Gibby. De show wordt uitgezonden vanuit een zelf gebouwde studio in het appartement waar zij samen met haar 29-jarige broer en voogd Spencer woont. Ook al maakt Carly een populaire internetshow, ze is niet op zoek naar bekendheid en roem. Graag wil zij een voorbeeld zijn voor kinderen en tieners. De show groeit uit tot een prominente internetshow, gevuld met grappige sketches, opmerkelijke recepten, talenten, creatieve probleem-oplossingen en te gekke dansen.</desc>
-</programme>
 <programme start="20260917192400 +0000" stop="20260917194900 +0000" channel="Animal Planet Nl">
 <title>iCarly</title>
 <desc>JeugdserieTiener Carly maakt haar eigen internetshow, samen met haar drie vrienden Freddy, Sam en Gibby. De show wordt uitgezonden vanuit een zelf gebouwde studio in het appartement waar zij samen met haar 29-jarige broer en voogd Spencer woont. Ook al maakt Carly een populaire internetshow, ze is niet op zoek naar bekendheid en roem. Graag wil zij een voorbeeld zijn voor kinderen en tieners. De show groeit uit tot een prominente internetshow, gevuld met grappige sketches, opmerkelijke recepten, talenten, creatieve probleem-oplossingen en te gekke dansen.</desc>
@@ -37907,6 +37911,10 @@
 <programme start="20260918205900 +0000" stop="20260918212300 +0000" channel="Animal Planet Nl">
 <title>Tales of the Teenage Mutant Ninja Turtles</title>
 <desc>AnimatieserieAlle dromen van Raph zijn uitgekomen wanneer hij tegen Rocksteady, Bebop en Mondo Gecko vecht in de ondergrondse Mutanten Battle Arena. Hij heeft niet door dat hij recht in de val is gelopen van Kitsune en haar Purple Dragons.</desc>
+</programme>
+<programme start="20260918212300 +0000" stop="20260918214700 +0000" channel="Animal Planet Nl">
+<title>SpongeBob SquarePants</title>
+<desc>AnimatieserieSpongeBob SquarePants is een gele spons Spongebob die diep in de oceaan woont in de onderwaterstad Bikini Bottom. Samen met zijn vriend, de roze zeester Patrick, beleeft hij de gekste en spannendste avonturen. Spongebob is altijd vrolijk en werkt als chef-kok in restaurant &apos;De Krokante Krab&apos; waar hij de beste hamburgers van de bodem van de zee maakt.</desc>
 </programme>
 <programme start="20260917183000 +0000" stop="20260917200000 +0000" channel="RTL4 NL">
 <title>Casa Di Beau</title>
@@ -42096,10 +42104,6 @@
 <title>Like a Loser</title>
 <desc>Nachdem er seinen Job als Musiker verloren hat, zieht Julian zuruck zu seiner Mutter ins Kinderzimmer. Dort kummert er sich um nichts, bis er zufallig seine Jugendliebe Marie trifft. Bei einem Abendessen hat sie uberraschende Neuigkeiten fur Julian.</desc>
 </programme>
-<programme start="20260917183800 +0000" stop="20260917192200 +0000" channel="Pink Media BH">
-<title>Oteta</title>
-<desc>EsaretPrica o Orhunu, koji zeli da osveti svoju sestru, i Hiri, koja je zarobljenica svoje savesti... Orhun je uspesan biznismen koji je odrastao u bogatoj porodici bez ljubavi zajedno sa svojom sestrom bliznakinjom Nihan, mladom sestrom Nursah i njihovom hladnom, udaljenom majkom Afife. Nihan je otisla da volonterski radi kao lekar u Eritreji, ali je odnedavno bilo nemoguce kontaktirati, a njena porodica je zabrinuta za nju. Dok trazi svoju sestru, nailazi na Hiru, siromasnu devojku koja zivi kao...</desc>
-</programme>
 <programme start="20260917192200 +0000" stop="20260917194200 +0000" channel="Pink Media BH">
 <title>SCENA</title>
 <desc>Info scenaEmisija na potpuno nov nacin predstavlja detalje iz zivota poznatih licnosti. Ovo je celebrity emisija kojoj ce ljudi verovati. Sve poznate licnosti imaju isti tretman, a mi cemo se truditi da u Info Sceni emitujemo iskljucivo stvari koje su istinite i bez trunke pristrasnosti. Zasticenih licnosti nece biti. Bicemo zestoki koliko to situacija dozvoljava. Vidimo se u Sceni!</desc>
@@ -44076,10 +44080,6 @@
 <title>So Long Marianne</title>
 <desc>Drama, Film ║ GR ║ 2020 ║ 16Dichter en romanschrijver Leonard Cohen reist naar het Griekse eiland Hydra om zijn roman te herschrijven. Op het eiland vindt hij zijn muze Marianne die hem aanmoedigt zijn poezie te zingen.Paul WiffenJosefine Frida PettersenJoe VetchSuzanne KendallDespina MirouAndreas MarianosShaylyn GibsonMJ LeeJoe RainbowTim Churchill.</desc>
 </programme>
-<programme start="20260917190746 +0000" stop="20260917192158 +0000" channel="Cartoonito DE">
-<title>Grizzy und die Lemminge</title>
-<desc>Die Lemminge spielen mit einem selbst gebauten Drachen. Als Grizzly bemerkt, dass die Barendame, in die er unsterblich verliebt ist, bei dem Himmelsschauspiel entzuckt zuschaut, fasst er einen Entschluss. Er will selbst einen Drachen bauen, der wesentlich besser ist als der Drachen der Lemminge.</desc>
-</programme>
 <programme start="20260917192158 +0000" stop="20260917192839 +0000" channel="Cartoonito DE">
 <title>Grizzy und die Lemminge</title>
 <desc>Grizzy kann die Lemminge austricksen und erwischt das letzte Glas Schokocreme. Zur Wiedergutmachung bietet er ihnen das Spielzeug an, das im Deckel steckt: eine kleine Flote. Als die Lemminge das Instrument zum ersten Mal ausprobieren, lahmt der schrille Ton alle, die sich nicht die Ohren zuhalten. Klar, dass die Lemminge nun eine Idee haben, wie sie an die Schokocreme kommen konnten.</desc>
@@ -45435,6 +45435,10 @@
 <programme start="20260918194813 +0000" stop="20260918212156 +0000" channel="Max Comedy">
 <title>Gail.Daughtry.And.The.Celebrity.Sex.Pass.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG - YTS.BZ]</title>
 <desc>Gail.Daughtry.And.The.Celebrity.Sex.Pass.2026.1080p.WEBRip.x264.AAC5.1-[YTS.GG - YTS.BZ]</desc>
+</programme>
+<programme start="20260918212156 +0000" stop="20260918231637 +0000" channel="Max Comedy">
+<title>Ricky Stanicky</title>
+<desc>Ricky Stanicky</desc>
 </programme>
 <programme start="20260917181708 +0000" stop="20260917195208 +0000" channel="Max HorroR">
 <title>Noc lovljenih</title>
