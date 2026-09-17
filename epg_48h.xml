@@ -3748,10 +3748,6 @@
 <channel id="RSI La 2 ch">
 <display-name>RSI La 2 (ch)</display-name>
 </channel>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 Tirol">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 Tirol">
 <title>konkret</title>
 <desc>A ║ 2026Vom Umgang mit digitalen Daten bis zur Warnung von Abzocke; vom kleinen Ärger bis zum großen Skandal: Konsumentenschutz wird in diesem Servicemagazin großgeschrieben. Neben den Verbraucherinformationen stehen Hintergründe, Fakten, Reportagen über Probleme der Zuschauerinnen und Zuschauer und bewährte Rubriken – wie &quot;Marvin gibt Antwort.</desc>
@@ -4024,10 +4020,6 @@
 <title>Sportski pregled</title>
 <desc>Sport</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 Steiermark">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 Steiermark">
 <title>konkret</title>
 <desc>A ║ 2026Vom Umgang mit digitalen Daten bis zur Warnung von Abzocke; vom kleinen Ärger bis zum großen Skandal: Konsumentenschutz wird in diesem Servicemagazin großgeschrieben. Neben den Verbraucherinformationen stehen Hintergründe, Fakten, Reportagen über Probleme der Zuschauerinnen und Zuschauer und bewährte Rubriken – wie &quot;Marvin gibt Antwort.</desc>
@@ -4276,10 +4268,6 @@
 <title>Die Chefin</title>
 <desc>Das Recht zu sterben ║ D ║ 2022Von Enno Reese Die Anästhesistin Sina Seibold wird vor der Klinik, in der sie arbeitet, überfallen und tödlich verletzt. Wegen ihres Engagements für Sterbehilfe war die Ärztin mehrfach Anfeindungen ausgesetzt. Zu jenen, die ihr deshalb kritisch gegenübergestanden sind, gehört auch der Pensionist Peter Menk. Seine Frau hat sich von Seibold in den Tod begleiten lassen. Auf einem Video ist zu sehen, wie er die Ärztin wütend beschimpft. Kommissarin Vera Lanz&apos; bezweifelt jedoch, dass der ältere Herr zu einem Mord imstande istMichael SchneiderKatharina BöhmJürgen TonkelJonathan HutterFranziska SingerSabrina CeesayWolfgang PreglerKarl KranzkowskiBarbara MelzlClaudia GrafAlessija LauseLilia HerrmannMagnús MariusonChristian HockenbrinkTatja Seibt.</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="Discovery NL">
-<title>Rust Valley Restorers</title>
-<desc>S5E3 ║ A Little Help from My Friends ║ Reality, Auto&apos;s ║ CA ║ 2023Mike roept de hulp in van zijn vriend Dave om het Field of Dreams te ontdoen van een met rommel volgestouwde schoolbus. Richard blaast de luxe van privé-treinwagons nieuw leven in met behulp van een oude trailer.Avery ShoafMike HallConnor Hall.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="Discovery NL">
 <title>Rust Valley Restorers</title>
 <desc>S5E4 ║ A Tale of Two Engines ║ Reality, Auto&apos;s ║ CA ║ 2023Mike neemt een zeldzame Hertz Shelby Mustang onder handen voor de broer van een vriend. De zwaar beschadigde auto is er misschien te slecht aan toe. Een dragrace tegen een andere garage mondt uit in een krachtmeting met een Chevelle.Avery ShoafMike HallConnor Hall.</desc>
@@ -4396,9 +4384,9 @@
 <title>The Repair Shop</title>
 <desc>S10E10 ║ Roller Skate Romance, Fergusons Record Player, Fire Engine ║ Doe Het Zelf, Kunstnijverheid ║ GB ║ 2022Deskundige vakmensen bundelen hun talenten om dierbare erfstukken en kostbaar antiek in hun oude glorie te herstellen. Met aandacht voor de emotionele waarde voor de eigenaren, worden de meest diverse stukken met passie en precisie gerestaureerd.Rich MerrittJay Blades.</desc>
 </programme>
-<programme start="20260917162500 +0000" stop="20260917163000 +0000" channel="Bibel TV De">
-<title>domradio.de - Christliche Nachrichten</title>
-<desc>Diese Sendung präsentiert christliche Nachrichten und Aktuelles aus der Kirche und aller Welt.</desc>
+<programme start="20260918183000 +0000" stop="20260918203000 +0000" channel="Discovery NL">
+<title>Gold Rush: Mine Rescue With Freddy &amp;amp; Juan</title>
+<desc>S6E4 ║ Million-Dollar Mine Mayhem ║ Reality ║ US ║ 2026Freddy en Juan helpen onervaren goudzoekers die een veelbelovende mijn hebben, maar kampen met een schuld van $ 1 miljoen en aanhoudende materiaalpech.Jeremy Weiss, Ruaridh ConnellanFreddy DodgeJuan Ibarra.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917171500 +0000" channel="Bibel TV De">
 <title>Avonlea - Das Mädchen aus der Stadt</title>
@@ -5680,10 +5668,6 @@
 <title>Wenn die Musi spielt</title>
 <desc>Stefanie Hertel und Marco Ventre präsentieren zahlreiche Hits am Hoferriegel und stimmen damit auf den Sommer ein. In diesem Jahr mit dabei: Alpenrebellen, Sašo Avsenik und seine Oberkrainer, Pietro Basile, Bernhard Brink, Julia Buchner, Draufgänger.</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="BR Fernsehen Sud HD">
-<title>Abendschau</title>
-<desc>Die Sendung zeigt aktuelle Berichte aus Bayern, Hintergründe zu brisanten Themen und Geschichten, die unter die Haut gehen. Außerdem werden aktuelle Ratgeber zu Kultur- und Musikveranstaltungen gezeigt sowie Gäste in das Studio eingeladen.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="BR Fernsehen Sud HD">
 <title>BR24</title>
 <desc>Die Sendung informiert über Nachrichten, Wetter, Sport und Verkehr in Bayern und der Umgebung.</desc>
@@ -5851,10 +5835,6 @@
 <programme start="20260918181500 +0000" stop="20260918190000 +0000" channel="BR Fernsehen Sud HD">
 <title>Hubert ohne Staller (147)</title>
 <desc>Hubert und Girwidz machen bei der Kontrolle eines voll besetzten Reisebusses einen grausigen Fund. Im Gepäckfach liegt der erschlagene Reiseleiter, der eigentlich die Touristen nach Neuschwanstein hätte begleiten sollen.</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="BR Fernsehen Nord">
-<title>Abendschau</title>
-<desc>Die Sendung zeigt aktuelle Berichte aus Bayern, Hintergründe zu brisanten Themen und Geschichten, die unter die Haut gehen. Außerdem werden aktuelle Ratgeber zu Kultur- und Musikveranstaltungen gezeigt sowie Gäste in das Studio eingeladen.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="BR Fernsehen Nord">
 <title>BR24</title>
@@ -6744,6 +6724,10 @@
 <title>Budva na pjeni od mora 3, ep. 11.</title>
 <desc>Budva na pjeni od mora</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918192000 +0000" channel="RTL Adria hevc">
+<title>Tunel 1, ep. 8.</title>
+<desc>Tunel</desc>
+</programme>
 <programme start="20260917160000 +0000" stop="20260917170000 +0000" channel="Sport Klub 1 HR FullHD hevc">
 <title>Bundesliga - Pregled</title>
 <desc>Uz sve ono što nam je Njemačka podarila kroz povijest ponosno stoji i Bundesliga. Najviši rang nogometnog natjecanja osnovanog 1963. godine broji 18 momčadi koje svakog kolovoza kreću u utrku za...</desc>
@@ -6875,10 +6859,6 @@
 <programme start="20260918174500 +0000" stop="20260918194000 +0000" channel="DMAX HD">
 <title>Airport Security: Europa</title>
 <desc>S1E1Gli agenti che lavorano ai confini dei paesi europei tentano di fermare l&apos;arrivo di droga, armi e terroristi sospetti. Il loro lavoro e&apos; individuare il pericolo.</desc>
-</programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 No">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 No">
 <title>konkret</title>
@@ -7128,10 +7108,6 @@
 <title>Die Chefin</title>
 <desc>Das Recht zu sterben ║ D ║ 2022Von Enno Reese Die Anästhesistin Sina Seibold wird vor der Klinik, in der sie arbeitet, überfallen und tödlich verletzt. Wegen ihres Engagements für Sterbehilfe war die Ärztin mehrfach Anfeindungen ausgesetzt. Zu jenen, die ihr deshalb kritisch gegenübergestanden sind, gehört auch der Pensionist Peter Menk. Seine Frau hat sich von Seibold in den Tod begleiten lassen. Auf einem Video ist zu sehen, wie er die Ärztin wütend beschimpft. Kommissarin Vera Lanz&apos; bezweifelt jedoch, dass der ältere Herr zu einem Mord imstande istMichael SchneiderKatharina BöhmJürgen TonkelJonathan HutterFranziska SingerSabrina CeesayWolfgang PreglerKarl KranzkowskiBarbara MelzlClaudia GrafAlessija LauseLilia HerrmannMagnús MariusonChristian HockenbrinkTatja Seibt.</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 Oberosterreich">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 Oberosterreich">
 <title>konkret</title>
 <desc>A ║ 2026Vom Umgang mit digitalen Daten bis zur Warnung von Abzocke; vom kleinen Ärger bis zum großen Skandal: Konsumentenschutz wird in diesem Servicemagazin großgeschrieben. Neben den Verbraucherinformationen stehen Hintergründe, Fakten, Reportagen über Probleme der Zuschauerinnen und Zuschauer und bewährte Rubriken – wie &quot;Marvin gibt Antwort.</desc>
@@ -7380,10 +7356,6 @@
 <title>Die Chefin</title>
 <desc>Das Recht zu sterben ║ D ║ 2022Von Enno Reese Die Anästhesistin Sina Seibold wird vor der Klinik, in der sie arbeitet, überfallen und tödlich verletzt. Wegen ihres Engagements für Sterbehilfe war die Ärztin mehrfach Anfeindungen ausgesetzt. Zu jenen, die ihr deshalb kritisch gegenübergestanden sind, gehört auch der Pensionist Peter Menk. Seine Frau hat sich von Seibold in den Tod begleiten lassen. Auf einem Video ist zu sehen, wie er die Ärztin wütend beschimpft. Kommissarin Vera Lanz&apos; bezweifelt jedoch, dass der ältere Herr zu einem Mord imstande istMichael SchneiderKatharina BöhmJürgen TonkelJonathan HutterFranziska SingerSabrina CeesayWolfgang PreglerKarl KranzkowskiBarbara MelzlClaudia GrafAlessija LauseLilia HerrmannMagnús MariusonChristian HockenbrinkTatja Seibt.</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 Burgenland">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 Burgenland">
 <title>konkret</title>
 <desc>A ║ 2026Vom Umgang mit digitalen Daten bis zur Warnung von Abzocke; vom kleinen Ärger bis zum großen Skandal: Konsumentenschutz wird in diesem Servicemagazin großgeschrieben. Neben den Verbraucherinformationen stehen Hintergründe, Fakten, Reportagen über Probleme der Zuschauerinnen und Zuschauer und bewährte Rubriken – wie &quot;Marvin gibt Antwort.</desc>
@@ -7631,10 +7603,6 @@
 <programme start="20260918181500 +0000" stop="20260918192000 +0000" channel="ORF 2 Burgenland">
 <title>Die Chefin</title>
 <desc>Das Recht zu sterben ║ D ║ 2022Von Enno Reese Die Anästhesistin Sina Seibold wird vor der Klinik, in der sie arbeitet, überfallen und tödlich verletzt. Wegen ihres Engagements für Sterbehilfe war die Ärztin mehrfach Anfeindungen ausgesetzt. Zu jenen, die ihr deshalb kritisch gegenübergestanden sind, gehört auch der Pensionist Peter Menk. Seine Frau hat sich von Seibold in den Tod begleiten lassen. Auf einem Video ist zu sehen, wie er die Ärztin wütend beschimpft. Kommissarin Vera Lanz&apos; bezweifelt jedoch, dass der ältere Herr zu einem Mord imstande istMichael SchneiderKatharina BöhmJürgen TonkelJonathan HutterFranziska SingerSabrina CeesayWolfgang PreglerKarl KranzkowskiBarbara MelzlClaudia GrafAlessija LauseLilia HerrmannMagnús MariusonChristian HockenbrinkTatja Seibt.</desc>
-</programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 Wien">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 Wien">
 <title>konkret</title>
@@ -8180,10 +8148,6 @@
 <title>Ugrožena vrsta</title>
 <desc>Espèces menacées</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Auto Motor und Sport TV">
-<title>1886 - Legenden der Autokultur</title>
-<desc>Wolfsburg ist untrennbar mit Volkswagen verbunden. Die Sendung zeigt die Geschichte der Verbindung.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Auto Motor und Sport TV">
 <title>FIA European Truck Racing Championship 2026</title>
 <desc>Ein Rückblick zeigt die Höhepunkte des vierten Rennens der Truck Europameisterschaft in Most.</desc>
@@ -8435,10 +8399,6 @@
 <programme start="20260918181500 +0000" stop="20260918184500 +0000" channel="Auto Motor und Sport TV">
 <title>Fast Lap</title>
 <desc>In dieser Sendung wird das neue Luxus-Automodell &quot;Audi RS6 Avant (C8)&quot; präsentiert.</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="RTV Niksic">
-<title>Vink</title>
-<desc>Pregled najvažnijih vijesti iz zemlje i svijeta! Pratite našu informativnu emisiju i saznajte koji su događaji obilježili dan za nama.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917163200 +0000" channel="RTV Niksic">
 <title>Meteo</title>
@@ -9072,10 +9032,6 @@
 <title>The Proof Is Out There: Military Mysteries</title>
 <desc>Ronnie und Rudy untersuchen das mysteriöse Verschwinden des Militärhelden Major Sam Logan. Seine Maschine stürzte über Nordkorea ab und er gilt offiziell als tot, doch hartnäckige Gerüchte deuten darauf hin, dass er den Absturz überlebt hat.</desc>
 </programme>
-<programme start="20260917162000 +0000" stop="20260917163000 +0000" channel="Minimax">
-<title>Sestre 4, ep. 6.</title>
-<desc>The SistersVendi i Marina su sestre koje se slažu kao rogovi u vreći i dele sve svoje male tajne. Ali vole i da zadirkuju jedna drugu i koriste svoju neiscrpnu energiju da naprave džumbus.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917164500 +0000" channel="Minimax">
 <title>Sestre 4, ep. 7.</title>
 <desc>The SistersVendi i Marina su sestre koje se slažu kao rogovi u vreći i dele sve svoje male tajne. Ali vole i da zadirkuju jedna drugu i koriste svoju neiscrpnu energiju da naprave džumbus.</desc>
@@ -9456,6 +9412,10 @@
 <title>Ulica zagonetki 1, ep. 18.</title>
 <desc>Mystery Lane</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918184000 +0000" channel="Minimax">
+<title>Alvin i veverice 3, ep. 4.</title>
+<desc>Alvinnn!!! and the Chipmunks</desc>
+</programme>
 <programme start="20260917160000 +0000" stop="20260917170000 +0000" channel="Super Star 2 TV">
 <title>Švindleri</title>
 <desc>Domaća, humoristička serija Švindleri donosi priču iz Palanke. Radnja serije smeštena je u tridesete godine dvadesetog veka, nakon što Državna lutrija Kraljevine Jugoslavije objavljuje da glavna nagrada u iznosu od milion dinara, odlazi upravo u ovu mirnu varošicu. Postavlja se pitanje ko je dobitnik. To pitanje uzburkaće doskora spokojan život u Palanci.</desc>
@@ -9748,10 +9708,6 @@
 <title>The Hitman s Bodyguard</title>
 <desc>The Hitman s Bodyguard</desc>
 </programme>
-<programme start="20260917162500 +0000" stop="20260917163000 +0000" channel="TV Vijesti">
-<title>Meteo put</title>
-<desc>Pratite detaljan pregled vremenske prognoze. Pogledajte najnovije meteorološke podatke o vremenskim uslovima i saznajte korisne informacije o vremenskim prilikama koje nas očekuju u narednom periodu.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170700 +0000" channel="TV Vijesti">
 <title>Vijesti</title>
 <desc>Najnovije vijesti iz Crne Gore, regiona i svijeta, aktuelne teme iz svijeta politike, ekonomije i društva.</desc>
@@ -9855,10 +9811,6 @@
 <programme start="20260918154000 +0000" stop="20260918180000 +0000" channel="STAR Movies">
 <title>Djevojka koja obećava</title>
 <desc>Promising Young Woman</desc>
-</programme>
-<programme start="20260917162900 +0000" stop="20260917163000 +0000" channel="Adria TV CG">
-<title>Vrijeme</title>
-<desc>Kratak informativni program u kome, uz vijesti, dobijate i informacije o vremenskoj prognozi i stanju u saobraćaju.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917172500 +0000" channel="Adria TV CG">
 <title>Junaci našeg doba</title>
@@ -11724,10 +11676,6 @@
 <title>Izložbe</title>
 <desc>Izložbi</desc>
 </programme>
-<programme start="20260917161500 +0000" stop="20260917163000 +0000" channel="N1 BiH">
-<title>Sportske vijesti</title>
-<desc>Pregled najaktuelnijih sportskih vijesti.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917164000 +0000" channel="N1 BiH">
 <title>Horizonti</title>
 <desc>Gledajte Horizonte, dnevne priče o zanimljivostima iz svijeta politike, biznisa, sporta, kulture, znanosti i zabave. &quot;Male&quot;, ali stvarne životne pozadine događaja i fenomena. &quot;Horizonti&quot; - korak dalje u svijet - priče koje proširuju vidike, koje gledateljima približavaju osobe, događaje i stvarnosti svijeta u kojem živimo.</desc>
@@ -12039,6 +11987,10 @@
 <programme start="20260918180000 +0000" stop="20260918183000 +0000" channel="TV 777">
 <title>Dnevnik čitanja</title>
 <desc>Gosti dnevnika čitanja dolaze iz različitih sfera javnog života, a sve ih spaja - ljubav prema knjizi. Kroz preporuku svojih omiljenih pet naslova, sagovornike upoznajemo na posve drugačiji način. Kroz ono šta čitaju, te kako pročitano doživljavaju, upoznajemo naše sagovornike u punoći njihove kompleksnosti. Bilo da ste ljubitelj dobre knjige ili samo dobrog razvogora, ova tridesetominutna forma nalazi način da zadovolji apetite publike različitih uzrasta i interesovanja.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918184500 +0000" channel="TV 777">
+<title>Od nas za vas</title>
+<desc>Prisjećamo vas na neka od najljepših djela crnogorske književnosti i stihove regionalne, evropske i svjetske poezije neprocjenjive vrijednosti. Uživajte slušajući nas.</desc>
 </programme>
 <programme start="20260917145816 +0000" stop="20260917165024 +0000" channel="MaX Krimi De">
 <title>Violent Ends</title>
@@ -12371,10 +12323,6 @@
 <programme start="20260918180500 +0000" stop="20260918185500 +0000" channel="RTS 1">
 <title>Okamova oštrica</title>
 <desc>Occam’s Razor</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="RTS 2">
-<title>Grozd</title>
-<desc>Serijal „Grozd&quot; predstavlja svojevrsnu razglednicu naših vinograda i podruma, porodične tradicije, turističkih i kulturnih potencijala.Autor emisije vodi gledaoce vinskim putevima Srbije i inostranstva, podseća na stare i autohtone sorte vinove loze i vina koja na prestižnim domaćim i međunarodnim takmičenjima osvajaju nagrade i poštovanje ljubitelja i znalaca „božanskog nektara&quot;.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="RTS 2">
 <title>Lov i ribolov</title>
@@ -13016,10 +12964,6 @@
 <title>Lagalica</title>
 <desc>Mališani uzrasta od 4 do 8 godina biće gosti Bojana Ivkovića u studiju i odgovaraće na mnoga zanimljiva pitanja!Type: Program; Genre: Emisija za decu; Cast: ; Director: ; Release Year: ; Mališani uzrasta od 4 do 8 godina biće gosti Bojana Ivkovića u studiju i odgovaraće na mnoga zanimljiva pitanja!</desc>
 </programme>
-<programme start="20260917154500 +0000" stop="20260917163000 +0000" channel="Pink TV">
-<title>Oteta</title>
-<desc>EsaretOrhun, the heir apparent of the Demirhanli family, will take their place on the screen with the vengeful love of Hira. Orhun, who punished the perpetrators, will now be guided by the fire of revenge in his heart.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="Pink TV">
 <title>Nacionalni dnevnik</title>
 <desc>Središnja informativna emisija Televizije Pink spoj je iskusnih urednika s tradicijom i mladih novinara koji prate duh vremena. Pobjednički tim kreira program svaki dan, 365 dana u godini, koji je prema agenciji Nielsen najgledaniji središnji informativni program od svih privatnih emitera u Srbiji.</desc>
@@ -13436,10 +13380,6 @@
 <title>Nedelja</title>
 <desc>Serija Nedelja</desc>
 </programme>
-<programme start="20260917162400 +0000" stop="20260917163000 +0000" channel="RTRS Plus">
-<title>TV kalendar</title>
-<desc>TV kalendar RTRSSaznajte godišnjice značajnih događaja kao i datume rođenja i smrti značajnih osoba koje su obilježile tok svjetske povijesti.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170300 +0000" channel="RTRS Plus">
 <title>Muzički program</title>
 <desc>Predahnite, opustite se i uživajte u muzičkom programu našeg kanala, uz numere koje smo odabrali za vas!</desc>
@@ -13700,10 +13640,6 @@
 <title>Nestale</title>
 <desc>Saknad</desc>
 </programme>
-<programme start="20260917161500 +0000" stop="20260917163000 +0000" channel="RTV 2">
-<title>Дньовнїк</title>
-<desc>Informativni program na ukrajinskom jeziku RT Vojvodine.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917164500 +0000" channel="RTV 2">
 <title>Telejurnal</title>
 <desc>Informativni program na rumunjskom jeziku.</desc>
@@ -13823,6 +13759,10 @@
 <programme start="20260918170000 +0000" stop="20260918173000 +0000" channel="RTV 2">
 <title>Híradó</title>
 <desc>Esti híradó</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918200000 +0000" channel="RTV 2">
+<title>Dobry večer Vojvodina</title>
+<desc>Dobrý večer Vojvodina</desc>
 </programme>
 <programme start="20260917161000 +0000" stop="20260917170000 +0000" channel="STUDIO B">
 <title>Savremena oftalmologija Sveti Vid</title>
@@ -14680,10 +14620,6 @@
 <title>Svečano otvorenje 56. Varaždinskih baroknih večeri, prijenos</title>
 <desc>56. Varaždinske barokne večeri</desc>
 </programme>
-<programme start="20260917162600 +0000" stop="20260917163000 +0000" channel="HRT 4">
-<title>Bez komentara</title>
-<desc>Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165300 +0000" channel="HRT 4">
 <title>Regionalni dnevnik</title>
 <desc>Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.</desc>
@@ -15307,10 +15243,6 @@
 <programme start="20260918181500 +0000" stop="20260918201000 +0000" channel="RTL">
 <title>Bourneov identitet</title>
 <desc>The Bourne Identity</desc>
-</programme>
-<programme start="20260917154500 +0000" stop="20260917163000 +0000" channel="RTL 2">
-<title>Zaboravljeni slučaj 1, ep. 2.</title>
-<desc>Cold CaseDetektivka Lilly Rush (Kathryn Morris) je jedina policajka Odjela za umorstva Philadelphije koja radi na zaboravljenim slučajevima - slučajevima koji nikad nisu riješeni. Tvrdoglava i snalažljiva Lilly Rush ponovno otvara slučajeve neriješenih umorstava koja su se zbila godinama, nekad i desetljećima ranije. U svojoj prijašnjoj karijeri, detektivka se proslavila koristeći svoje instinktivno razumijevanje kriminalnog uma kako bi riješila aktualne slučajeve ubojstava, ali sada je naišla na nove...</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917172000 +0000" channel="RTL 2">
 <title>Djevojke na zadatku 3, ep. 11.</title>
@@ -16140,10 +16072,6 @@
 <title>Dnevnik 2</title>
 <desc>Dnevnik BHT1</desc>
 </programme>
-<programme start="20260917161500 +0000" stop="20260917163000 +0000" channel="FTV">
-<title>Tragovima poznatih ljudi: Bato Čengić</title>
-<desc>Tragovima poznatih ljudiBato Čengić rođen je 1933. godine u Maglaju, a odrastao je u Sarajevu. Bio je jedan od najvažnijih filmskih i televizijskih autora u bivšoj Jugoslaviji, anjegov rad često je bio politički angažovan i estetski inovativan.Studirao je filozofiju, što je snažno uticalo na njegov umjetnički izraz.Radio je kao režiser na televiziji i filmu, često istražujući društvene teme.Njegovi filmovi pripadaju modernističkom i kritičkom talasu jugoslavenske kinematografije a najpoznatiji su „Slike iz života...</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="FTV">
 <title>Krah, ep. 2.</title>
 <desc>Little DisastersSerija &quot;Little Disasters&quot; usredotočena je na desetogodišnje prijateljstvo između Jess, Liz, Mel i Charlotte. Četiri žene povezale su se neočekivano - jedino što su u početku imale zajedničko bio je termin porođaja. Ipak, tijekom godina podržavale su se kroz sve izazove majčinstva. Kada savršena kućanica i majka Jess dovede svoju kćer u bolnicu s ozljedom glave koju ne zna objasniti, njezina bliska prijateljica i dežurna liječnica u hitnoj službi Liz mora odlučiti hoće li slučaj prijaviti...</desc>
@@ -16740,9 +16668,9 @@
 <title>VOA Connect 1, ep. 415.</title>
 <desc>VOA Connect</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="BN Televizija">
-<title>Danas u Srpskoj</title>
-<desc>Informativna emisija BN televizije o aktualnim događanjima u Republici Srpskoj.</desc>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="HTV 2">
+<title>Atlas</title>
+<desc>Atlas - 2026</desc>
 </programme>
 <programme start="20260917172000 +0000" stop="20260917173000 +0000" channel="BN Televizija">
 <title>Marketing</title>
@@ -16811,10 +16739,6 @@
 <programme start="20260918173000 +0000" stop="20260918180500 +0000" channel="BN Televizija">
 <title>Dnevnik 2</title>
 <desc>Dnevnik BN</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="BN Televizija 2">
-<title>Danas u Srpskoj</title>
-<desc>Informativna emisija BN televizije o aktualnim događanjima u Republici Srpskoj.</desc>
 </programme>
 <programme start="20260917173000 +0000" stop="20260917180500 +0000" channel="BN Televizija 2">
 <title>Dnevnik 2</title>
@@ -17316,10 +17240,6 @@
 <title>Hiking Šarafanje - Veliko Ruište Vrh Orlinka</title>
 <desc>Hiking</desc>
 </programme>
-<programme start="20260917162100 +0000" stop="20260917163000 +0000" channel="Tv Sarajevo">
-<title>Wild Manes</title>
-<desc>U animiranoj seriji ’Wild Manes’, kobila Cocoa i njezine prijateljice uče kako iz malih nesreća izvući najbolje i pritom otkrivaju važne životne lekcije. Svaki konj u ’Wild Manes’ ima svoj jedinstveni talent i osobnost, što ih čini posebnima i nezaboravnima. Kroz svaku epizodu serije, gledatelji prate smiješne i dirljive avanture koje jačaju prijateljstvo, podučavaju vrijednosti poput hrabrosti, solidarnosti i samopouzdanja te donose zabavu i inspiraciju za cijelu obitelj. ’Wild Manes’ spaja...</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Tv Sarajevo">
 <title>Dnevnik TVSA</title>
 <desc>DnevnikCentralna informativna emisija Dnevnik, svaki dan u 18.30, jedna je od najgledanijih.Fokusirani smo na tematske priloge iz Kantona Sarajevo, u centru pažnje su građani i njihovi svakodnevni problemi.</desc>
@@ -17459,10 +17379,6 @@
 <programme start="20260918180000 +0000" stop="20260918185000 +0000" channel="Tv Sarajevo">
 <title>Izbori 2026</title>
 <desc>Opći izbori u Bosni i Hercegovini</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="TV Vogosca BNV">
-<title>Večernji zikr</title>
-<desc>Potvrđena praksa Allahovog Poslanika, s.a.w.s., je bila da prije zalaska Sunca redovno prouči određene zikrove</desc>
 </programme>
 <programme start="20260917180000 +0000" stop="20260917184000 +0000" channel="TV Vogosca BNV">
 <title>Islam i život</title>
@@ -18140,6 +18056,10 @@
 <title>ALVINNN!!! und die Chipmunks</title>
 <desc>Nachdem Simon seinem Lehrer eine wütende E-Mail geschickt hat, möchte er dies gern ungeschehen machen.</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918184000 +0000" channel="Toggo Plus">
+<title>ALVINNN!!! und die Chipmunks</title>
+<desc>Theodore hat ein Problem damit, &quot;Nein&quot; zu sagen, was ihn oft in Schwierigkeiten bringt. Sein Freund Simon erfindet den &quot;Nein-Kumpel&quot;, um ihm beizubringen, wie man Grenzen setzt und für sich selbst einsteht.</desc>
+</programme>
 <programme start="20260917160000 +0000" stop="20260917180000 +0000" channel="Kanal 6 Travnik">
 <title>Kanal 6</title>
 <desc>Kanal 6 program.</desc>
@@ -18384,6 +18304,10 @@
 <title>Vreme ®</title>
 <desc>Vreme</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918184000 +0000" channel="SLO TV3">
+<title>Slovenska kronika s slovenskim znakovnim jezikom ®</title>
+<desc>Slovenska kronika</desc>
+</programme>
 <programme start="20260917154758 +0000" stop="20260917174147 +0000" channel="MAX HD 2 premium">
 <title>Juror 2 (2024)</title>
 <desc>Juror 2 (2024)</desc>
@@ -18527,10 +18451,6 @@
 <programme start="20260918180000 +0000" stop="20260918202500 +0000" channel="POP TV HD">
 <title>Moj lažni muž</title>
 <desc>Overboard</desc>
-</programme>
-<programme start="20260917155000 +0000" stop="20260917163000 +0000" channel="Kanal A">
-<title>Svet</title>
-<desc>Oddaja Svet je na programu vsak delovnik od ponedeljka do petka ob 17.55 in obravnava aktualne dogodke doma in po svetu, z vseh področij življenja. Pogosto prisluhnejo težavam gledalcev in jim poskušajo priskočiti na pomoč, predvsem pa vztrajno zahtevajo odgovore. Novice dneva so prikazane na raziskovalen, svojevrsten, neposreden in vsebinsko pester način.Voditelja: Nuša Lesar, Adi Omerović</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917182500 +0000" channel="Kanal A">
 <title>UŽIVO: EHF Liga prvakov: Celje Pivovarna Laško - Aalborg</title>
@@ -18864,10 +18784,6 @@
 <title>Rampage: Totalni kaos</title>
 <desc>Rampage</desc>
 </programme>
-<programme start="20260917161500 +0000" stop="20260917163000 +0000" channel="POP OTO">
-<title>Maša i medved 3, ep. 13.</title>
-<desc>Masha i MedvedMaša je nemirna djevojčica nepresušnog izvora energije – sve što vidi, ona to mora isprobati! Neopisivo je društvena i prema svima se ponaša kao da ih poznaje godinama. Njena znatiželja i kreativnost uzrokuje smiješne avanture, iako drugima katkada može uzrokovati nevolje. Medvjed je topla srca, a njegov tihi svijet okrenuo se naglavačke kada je Maša ušla u njegov život! Iako voli miran život, na njegovo iznenađenje uskoro otkriva da mu Maša nedostaje kada god mu nije blizu i jedva čeka...</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917164000 +0000" channel="POP OTO">
 <title>Mašine pesmice 1, ep. 13.</title>
 <desc>Otroci dobro vedo, da z Mašo nikoli ni dolgčas. Tokrat se bo odpravila v različne države sveta in tam prepevala pesmi, ki so značilne za te dežele. Seveda pa Maša ne bi bila Maša, če ne bi besedila prikrojila na svoj izviren in zabaven način. Obiskovala bo znane kraje držav in o njih zapela pesmico.</desc>
@@ -19116,10 +19032,6 @@
 <title>Bravo - Celje ®</title>
 <desc>Prva slovenska nogometna liga, trenutno zaradi sponzorskih razlogov imenovana Prva liga Telemach, krajše tudi 1.SNL, je najpomembnejše klubsko nogometno tekmovanje v Sloveniji. Med leti 1920 in do konca sezone 1990-91, je Slovenska Nogometna Liga bila manjša liga v Jugoslovanskem nogometnem sistemu. Prvič je bilo odigrano v sezoni 1991/92. Januarja 2002 je po sklepu izvršnega odbora NZS vse pristojnosti Prve lige prevzelo Združenje prvoligašev.</desc>
 </programme>
-<programme start="20260917144300 +0000" stop="20260917163100 +0000" channel="RedTV Hevc">
-<title>Sok od šljiva</title>
-<desc>Miki Rudinski je popularni DJ provincijske radio stanice, čiji se način rada često ne poklapa sa ustaljenim normama. Za svoj &quot;hepening u prirodi&quot; uspeo je da zainteresuje i &quot;Šljivo kombinat&quot;, najveću radnu organizaciju u mjestu. Na nesreću, datum održavanja njegovog &quot;hepeninga&quot; poklopio se sa danom proslave godišnjice osnivanja Kombinata, koji nije žalio truda ni novaca da to bude što svečanije. Zbog propagiranja svoje ideje preko radija Miki dolazi u sukob sa rukovodiocima koji ga...</desc>
-</programme>
 <programme start="20260917163100 +0000" stop="20260917180000 +0000" channel="RedTV Hevc">
 <title>Elita Pregled dana RED TV</title>
 <desc>ZadrugaKratki pregled najzanimljivijih dešavanja u Eliti prethodnog dana...</desc>
@@ -19204,10 +19116,6 @@
 <title>7 minuti zdravje, ep. 68. ®</title>
 <desc>7 minuti zdravje</desc>
 </programme>
-<programme start="20260917154500 +0000" stop="20260917163000 +0000" channel="MRT2">
-<title>Corporate</title>
-<desc>Crna, satirička radna komedija o Mattu i Jakeu, dva mlada menadžera na učenju koji su primorani raditi prljavi posao za veće face u Hampton DeVilleu, jednoj od najvećih svjetskih korporacija...</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917171500 +0000" channel="MRT2">
 <title>Дневник</title>
 <desc>Dnevnik 1</desc>
@@ -19287,10 +19195,6 @@
 <programme start="20260918090000 +0000" stop="20260918092500 +0000" channel="Telma">
 <title>BEKSTEJDž ®</title>
 <desc>Bekstejdž</desc>
-</programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="Alfa TV">
-<title>Plač violine</title>
-<desc>Dudaktan KalbeInspirirana istoimenom novelom poznatog turskog pisca Rešata Nurija Guntekina, ovaj novi hit s Dalekog istoka donosi nam priču o stalnoj borbi odanosti i ambicije, etike i ljubavi između dvoje mladih ljudi koji su slično odgajani, ali u različitim sredinama. Ovog proljeća gledatelje RTL Televizije očekuju nove dramatične peripetije kojima obiluje uzbudljiva turska dramska serija „Kismet&quot;. Svjetski poznati skladatelj, violinist i ponos čitave Turske, Husejin Kenan Gun (Burak hakki), vraća se s...</desc>
 </programme>
 <programme start="20260917181500 +0000" stop="20260917191500 +0000" channel="Alfa TV">
 <title>Provodadžija</title>
@@ -19595,10 +19499,6 @@
 <programme start="20260918165200 +0000" stop="20260918170000 +0000" channel="RTV CG 1">
 <title>Zumiranje ®</title>
 <desc>Zumiranje</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="RTCG Sat">
-<title>ART magazin ®</title>
-<desc>Art magazinTV format koji na otvoren i kritički način tretira položaj kulturnih stvaralaca i produkcije u polju kulturno-umjetničkog stvaralaštva. U okviru &quot;Art magazina&quot; emituju se hronike tradicionalnih festivala čiji su organizatori institucije kulture na državnom i lokalnom nivou, ali i relevantni akteri nezavisne umjetničke scene.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="RTCG Sat">
 <title>Feel alive nezavisna produkcija ®</title>
@@ -20104,6 +20004,10 @@
 <title>Engleska liga: The Big Interview</title>
 <desc>The Big Interview</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="Arena 1 Premium HD">
+<title>Engleska liga: The Big Interview</title>
+<desc>The Big Interview</desc>
+</programme>
 <programme start="20260917160000 +0000" stop="20260917164500 +0000" channel="Arena Sport 2 HD">
 <title>Sport Brothers League</title>
 <desc>Manifestacija posvećena promociji fudbala i zdravih životnih navika u organizaciji Sports Brothers League i FK Bežanija. Na turniru se takmiče deca starosti od 10 do 12 godina, a mališane očekuje i prigodan propratni progr</desc>
@@ -20160,6 +20064,10 @@
 <title>Fudbal - Španska liga: Betis - Getafe: Betis - Getafe</title>
 <desc>Primera ili popularno La Liga prva je španska fudbalska liga. Sa čak 22 osvojene titule prvaka Evrope španska Primera godinama se smatra najboljom evropskom fudbalskom ligom. Osnovana 1929. godine, Primera broji 20 ekipa koje u 38 kola sezone pokušavaju skupiti najveći broj bodova. To je najviše puta pošlo za rukom madridskom Realu dok je druga najuspešnija ekipa Barselona.</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918203000 +0000" channel="Arena Sport 2 HD">
+<title>Fudbal - Poljska liga: Wisla Krakow - Slask: Wisla Krakow - Slask</title>
+<desc>Ekstraklasa je najviša profesionalna fudbalska liga Poljske. Prva liga Poljske u fudbalu, osnovana je 1927. godine. Ovu ligu organizuje Fudbalski savez Poljske (PZPN). Trenutno, u ligi učestvuje 16 ekipa. Prvak direktno osvaja titulu poljskog šampiona. Broj ekipa se sa godinama menjao, 90-ih učestvovalo ih je 18, a 30-ih samo 10.</desc>
+</programme>
 <programme start="20260917151500 +0000" stop="20260917164500 +0000" channel="Arena 2 Premium HD">
 <title>EHF LIGA ŠAMPIONA: Vardar - Nantes, rukomet</title>
 <desc>EHF Liga prvaka za muškarce najvažnije je europsko klupsko rukometno natjecanje, koje svake godine organizira Europska rukometna federacija (EHF), a u kojem sudjeluju najjače momčadi iz cijele Europe. Turnir okuplja najbolje klubove iz vodećih rukometnih zemalja na temelju ljestvice EHF-ovih koeficijenata, dok se dodatna mjesta dodjeljuju prema kvalifikacijskim kriterijima i putem posebnih pozivnica. Natjecanje obuhvaća grupnu fazu, eliminacijske runde i završni turnir četiriju najboljih...</desc>
@@ -20179,10 +20087,6 @@
 <programme start="20260917230000 +0000" stop="20260918003000 +0000" channel="Arena 2 Premium HD">
 <title>EHF LIGA ŠAMPIONA: Porto - Partizan, rukomet</title>
 <desc>EHF Liga prvaka za muškarce najvažnije je europsko klupsko rukometno natjecanje, koje svake godine organizira Europska rukometna federacija (EHF), a u kojem sudjeluju najjače momčadi iz cijele Europe. Turnir okuplja najbolje klubove iz vodećih rukometnih zemalja na temelju ljestvice EHF-ovih koeficijenata, dok se dodatna mjesta dodjeljuju prema kvalifikacijskim kriterijima i putem posebnih pozivnica. Natjecanje obuhvaća grupnu fazu, eliminacijske runde i završni turnir četiriju najboljih...</desc>
-</programme>
-<programme start="20260917143000 +0000" stop="20260917163000 +0000" channel="Arena Sport 3 HD">
-<title>Fudbal - Francuska liga: Auxerre - Nice: Auxerre - Nice</title>
-<desc>Ligue 1 prva je francuska profesionalna fudbalska liga koja broji 20 ekipa u borbi za titulom prvaka Francuske. Osnovana je 1932. godine i smatra se jednom od najcenjenijih evropskih liga. Najtrofejniji klub s deset osvojenih titula je AS Sent Etjen ali Zeleni na novu titulu čekaju još od davne 1981. godine i vremena velikog Mišela Platinija.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Arena Sport 3 HD">
 <title>Fudbal: Francuska liga: Pregled 4. kola</title>
@@ -20355,6 +20259,10 @@
 <programme start="20260918180000 +0000" stop="20260918183000 +0000" channel="Arena Sport HD 1 HR">
 <title>ZVIŽDALJKA</title>
 <desc>Zviždaljka</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="Arena Sport HD 1 HR">
+<title>PREMIJERA: MI ŽIVIMO ZA NOGOMET</title>
+<desc>Mi živimo za nogomet</desc>
 </programme>
 <programme start="20260917160000 +0000" stop="20260917164500 +0000" channel="Arena Sport HD 2 HR">
 <title>PREMIJERA: SPORT BEZ GRANICA</title>
@@ -20619,10 +20527,6 @@
 <programme start="20260918180000 +0000" stop="20260918190000 +0000" channel="Eurosport 2 DE">
 <title>IFSC Sportklettern Weltcup</title>
 <desc>Gezeigt werden die Wettkämpfe in verschiedenen Disziplinen der WM im Sportklettern.</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Sport 1 De">
-<title>Pastewka</title>
-<desc>Nach Bastians missglückter Starthilfe bittet ihn Svenja, mit ihr zusammen seinen Bruder Hagen abzuholen, der einen Autounfall hatte. Doch die Fahrt wird zum Albtraum.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Sport 1 De">
 <title>45 - Die Fußball-Halbzeit auf SPORT1</title>
@@ -21652,6 +21556,10 @@
 <title>Pakao</title>
 <desc>Inferno</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918201500 +0000" channel="Cinemax 2">
+<title>Svjetlo u tami</title>
+<desc>I’m Beginning To See the Light</desc>
+</programme>
 <programme start="20260917160500 +0000" stop="20260917180000 +0000" channel="Cinestar Premiere 1">
 <title>Here</title>
 <desc>Pripremite se za putovanje kroz vrijeme i emocije koje će vas zadržati u mislima i nakon završetka filma. „Ovdje” će vas natjerati da razmislite o vlastitim iskustvima i važnosti obitelji, a očekuju se i nominiracije za ovogodišnje najprestižnije filmske nagrade!</desc>
@@ -21743,6 +21651,10 @@
 <programme start="20260918163000 +0000" stop="20260918183000 +0000" channel="Cinestar Premiere 2">
 <title>Posrednik</title>
 <desc>Relay</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918202000 +0000" channel="Cinestar Premiere 2">
+<title>Mrtvačka žica</title>
+<desc>Dead Man’s Wire</desc>
 </programme>
 <programme start="20260917161000 +0000" stop="20260917181500 +0000" channel="CineStar TV">
 <title>Nakon vjenčanja</title>
@@ -22555,10 +22467,6 @@
 <programme start="20260918180500 +0000" stop="20260918190000 +0000" channel="SciFi">
 <title>Čarobnice 1, ep. 20.</title>
 <desc>Charmed</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Discovery">
-<title>Kako se proizvode... 1, ep. 3.</title>
-<desc>How It’s MadeJoš više predmeta iz svakodnevnog života stavit ćemo pod mikroskop da bismo saznali kako se proizvode sok od jabuke, kozmetika i čelik.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Discovery">
 <title>Kako se proizvode... 24, ep. 6.</title>
@@ -23676,10 +23584,6 @@
 <title>Srodne duše (duhovi) 4, ep. 10.</title>
 <desc>Kindred Spirits</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="24 Kitchen">
-<title>Vrtna kuhinja Marcusa Wareinga 1, ep. 2.</title>
-<desc>Marcus Wareing’s Tales from a Kitchen GardenMarcus Wareing živi sporijim tempom života na svom malom imanju u Sussexu. Vraća se na svoje omiljeno mjesto u potrazi za savjetima o uzgoju povrća, a zatim pomaže farmerima pri spremanju sijena u bale.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="24 Kitchen">
 <title>Vrtna kuhinja Marcusa Wareinga 1, ep. 3.</title>
 <desc>Marcus Wareing’s Tales from a Kitchen GardenMarcus Wareing živi sporijim tempom života na svom malom imanju u Sussexu. U lovu je na savršene piliće, a zatim dobiva poduku za razvoj svog uzgajališta gljiva.</desc>
@@ -23880,9 +23784,9 @@
 <title>Najbolje iz doline Barossa s Justine Schofield 1, ep. 3.</title>
 <desc>Barossa Gourmet with Justine Schofield</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="E Entertainment TV">
-<title>WATCH WHAT HAPPENS LIVE 23, ep. 142.</title>
-<desc>Watch What Happens Live with Andy CohenIzvršni direktor mreže Bravo, Andy Cohen raspravlja o temama pop kulture sa slavnim osobama i osobama iz reality showa.</desc>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="24 Kitchen">
+<title>Najbolje iz doline Barossa s Justine Schofield 1, ep. 4.</title>
+<desc>Barossa Gourmet with Justine Schofield</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="E Entertainment TV">
 <title>Partnerice sportskih zvijezda Atlanta 1, ep. 6.</title>
@@ -23996,9 +23900,9 @@
 <title>Holivudski medij Tyler Henry 1, ep. 1.</title>
 <desc>Hollywood Medium</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="HGTV">
-<title>My Lottery Dream Home 18, ep. 4.</title>
-<desc>My Lottery Dream HomeNakon višemilijunskog dobitka na lutriji, ovi sretni ljudi sad traže dom iz snova.</desc>
+<programme start="20260918183000 +0000" stop="20260918193000 +0000" channel="E Entertainment TV">
+<title>Traljav posao 6, ep. 4.</title>
+<desc>Botched</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="HGTV">
 <title>My Lottery Dream Home 18, ep. 5.</title>
@@ -24412,6 +24316,10 @@
 <title>Lovac na ubojstva 6, ep. 7.</title>
 <desc>Homicide Hunter: Lt. Joe Kenda</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918191500 +0000" channel="Crime  Investigation">
+<title>Lovac na ubojstva 6, ep. 5.</title>
+<desc>Homicide Hunter: Lt. Joe Kenda</desc>
+</programme>
 <programme start="20260917160000 +0000" stop="20260917170000 +0000" channel="Discovery ID">
 <title>Noćna mora iz susjedstva 4, ep. 4.</title>
 <desc>Nightmare Next DoorNormalan život u mirnom gradu East Pointu naglo staje kada šest osoba postane nasumične mete tajanstvenog naoružanog napadača. Ali može li ga se uhvatiti na vrijeme?</desc>
@@ -24528,10 +24436,6 @@
 <title>Snimci iz istraga 3, ep. 3.</title>
 <desc>The Murder Tapes</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Lov i Ribolov">
-<title>Putevima Indokine</title>
-<desc>Putevima Indokine je putopisni televizijski serijal sniman u Vijetnamu, Kambodži i Tajlandu. Kroz serijal od 20 epizoda, Andrej Maričić će pokušati otkriti brojne tajne jugoistočne Azije.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Lov i Ribolov">
 <title>Dani ribolova</title>
 <desc>Emisija o ribolovu.</desc>
@@ -24644,10 +24548,6 @@
 <title>Lovački savjeti</title>
 <desc>Lovački saveti</desc>
 </programme>
-<programme start="20260917133500 +0000" stop="20260917163000 +0000" channel="Pink Plus">
-<title>Elita uživo</title>
-<desc>ZadrugaUživo dešavanja u &quot;Eliti&quot;</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="Pink Plus">
 <title>Nacionalni dnevnik u 18:30</title>
 <desc>Nacionalni dnevnikSredišnja informativna emisija Televizije Pink spoj je iskusnih urednika s tradicijom i mladih novinara koji prate duh vremena. Pobjednički tim kreira program svaki dan, 365 dana u godini, koji je prema agenciji Nielsen najgledaniji središnji informativni program od svih privatnih emitera u Srbiji.</desc>
@@ -24707,10 +24607,6 @@
 <programme start="20260918163000 +0000" stop="20260918173000 +0000" channel="Pink Plus">
 <title>Nacionalni dnevnik u 18:30</title>
 <desc>Nacionalni dnevnik</desc>
-</programme>
-<programme start="20260917144300 +0000" stop="20260917163100 +0000" channel="Pink 2 RED">
-<title>Sok od šljiva</title>
-<desc>Miki Rudinski je popularni DJ provincijske radio stanice, čiji se način rada često ne poklapa sa ustaljenim normama. Za svoj &quot;hepening u prirodi&quot; uspeo je da zainteresuje i &quot;Šljivo kombinat&quot;, najveću radnu organizaciju u mjestu. Na nesreću, datum održavanja njegovog &quot;hepeninga&quot; poklopio se sa danom proslave godišnjice osnivanja Kombinata, koji nije žalio truda ni novaca da to bude što svečanije. Zbog propagiranja svoje ideje preko radija Miki dolazi u sukob sa rukovodiocima koji ga...</desc>
 </programme>
 <programme start="20260917163100 +0000" stop="20260917180000 +0000" channel="Pink 2 RED">
 <title>Elita Pregled dana RED TV</title>
@@ -26000,10 +25896,6 @@
 <title>Pinkove zvezde all talent</title>
 <desc>Pinkove zvezde</desc>
 </programme>
-<programme start="20260917143000 +0000" stop="20260917163000 +0000" channel="Pink World">
-<title>World Otvoreni studio</title>
-<desc>Najnovije vijesti iz zemlje i svijeta, gosti u studiju koji govore o najaktualnijim događanjima kod nas i u svijetu...</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917183000 +0000" channel="Pink World">
 <title>Otvoreni studio plus</title>
 <desc>Najnovije vijesti iz zemlje i svijeta, gosti u studiju koji govore o najaktualnijim događanjima kod nas i u svijetu...</desc>
@@ -26219,10 +26111,6 @@
 <programme start="20260918182700 +0000" stop="20260918184000 +0000" channel="Pink Kuvar">
 <title>Časovi kulinarstva</title>
 <desc>Mountain Thyme Cookery School</desc>
-</programme>
-<programme start="20260917162800 +0000" stop="20260917163100 +0000" channel="Pink Fashion">
-<title>Designers at work - Ana Bogojevska - BG 09</title>
-<desc>Designers at workZavirite u svijet naših poznatih modnih dizajnera poput Zvonka Markovića, Ane Bogojevske, Larise Županjevac i mnogih drugih. Pridružite im se u njihovim kreativnim procesima, od samog dizajna do izlaska na modnu pistu.</desc>
 </programme>
 <programme start="20260917163100 +0000" stop="20260917163700 +0000" channel="Pink Fashion">
 <title>F Selection - Sorbino,SS,Italy - BG 09</title>
@@ -27820,10 +27708,6 @@
 <title>Ričijeve avanture ®</title>
 <desc>Ričijeve avanture</desc>
 </programme>
-<programme start="20260917154000 +0000" stop="20260917163000 +0000" channel="KidsPLUS">
-<title>Das Strafgericht</title>
-<desc>Beim &apos;Strafgericht&apos; wird hart verhandelt. Staatsanwaltschaft und Anwälte nehmen die Beteiligten in Kreuzverhören in die Mangel. Richter Wetzel muss in Fällen wie Diebstahl, Körperverletzung, Vergewaltigung, Mord u.v.m. Urteile sprechen.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917172500 +0000" channel="KidsPLUS">
 <title>Das Strafgericht</title>
 <desc>Beim &apos;Strafgericht&apos; wird hart verhandelt. Staatsanwaltschaft und Anwälte nehmen die Beteiligten in Kreuzverhören in die Mangel. Richter Wetzel muss in Fällen wie Diebstahl, Körperverletzung, Vergewaltigung, Mord u.v.m. Urteile sprechen.</desc>
@@ -27943,10 +27827,6 @@
 <programme start="20260918181500 +0000" stop="20260918190500 +0000" channel="KidsPLUS">
 <title>Der Lehrer</title>
 <desc>Nach dem Junggesellenabschied hat Stefan einen Filmriss. Auch Sievers und Michael können sich an nichts mehr erinnern. Ein Affe in Stefans Auto deutet allerdings darauf hin, dass es ein turbulenter Abend gewesen sein muss.</desc>
-</programme>
-<programme start="20260917162000 +0000" stop="20260917163000 +0000" channel="RTL Kockica">
-<title>Booba 1, ep. 34.</title>
-<desc>BoobaUpoznajte Boobu! On je sladak, razigran i znatiželjan, baš poput djeteta. Nitko ne zna odakle je ovo neobično dlakavo stvorenje stiglo ni koliko zapravo ima godina. Booba ne priča, ali sve svoje emocije uspješno izražava zvukovima i pokretima. Veseli Booba neprestano istražuje svijet oko sebe, a vode ga samo beskrajna pozitivna energija i veliko čuđenje zbog svih novih stvari koje pritom nauči. Svaki novi dan prilika je za novu pustolovinu i druženje s prijateljima, ali i za nove nevolje u...</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917164000 +0000" channel="RTL Kockica">
 <title>Super Wings 8, ep. 36.</title>
@@ -28359,10 +28239,6 @@
 <programme start="20260918175500 +0000" stop="20260918190000 +0000" channel="RTL Kockica">
 <title>Zvonili ste, milorde? 3, ep. 4.</title>
 <desc>You Rang M’Lord?</desc>
-</programme>
-<programme start="20260917162500 +0000" stop="20260917163000 +0000" channel="Cartoonito">
-<title>Novi Looney Tunes 1, ep. 33.</title>
-<desc>The Looney Tunes Show</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917163500 +0000" channel="Cartoonito">
 <title>Novi Looney Tunes 1, ep. 34.</title>
@@ -29159,10 +29035,6 @@
 <programme start="20260918181500 +0000" stop="20260918183500 +0000" channel="Nickelodeon hr">
 <title>Henry Opasan 5, ep. 9.</title>
 <desc>Henry Danger</desc>
-</programme>
-<programme start="20260917162000 +0000" stop="20260917163000 +0000" channel="Cartoon Network">
-<title>Običan crtić: Izgubljene snimke 1, ep. 4.</title>
-<desc>Regular ShowTajno drijemalište izaziva ogromne probleme.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917164000 +0000" channel="Cartoon Network">
 <title>Gumballov predivno pomaknuti svijet 2, ep. 3.</title>
@@ -31328,10 +31200,6 @@
 <title>Andreas Vitásek &amp;amp; Friends - Die Gala aus Güssing 2026</title>
 <desc>D ║ 2026Kabarett und Kleinkunst unter freiem Himmel: In dieser Neuproduktion versammelt sich zur Eröffnungsgala des Kultur Sommer Güssing alles, was Kabarett, Musik und gute Unterhaltung zu bieten haben. Mit dabei sind Intendant und Gastgeber Andreas Vitásek, Thomas Stipsits, Isabell Pannagl, Dirk Stermann, Christina Kiesler, Sebastian Humi, Christof Spörk und Barbara Eichberger. Für das musikalische Highlight sorgen &quot;Da Blechhauf&apos;n&quot;. Ein Fest, das Musik, Kabarett und Lebensfreude vereint.</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 HD">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 HD">
 <title>konkret</title>
 <desc>A ║ 2026Vom Umgang mit digitalen Daten bis zur Warnung von Abzocke; vom kleinen Ärger bis zum großen Skandal: Konsumentenschutz wird in diesem Servicemagazin großgeschrieben. Neben den Verbraucherinformationen stehen Hintergründe, Fakten, Reportagen über Probleme der Zuschauerinnen und Zuschauer und bewährte Rubriken – wie &quot;Marvin gibt Antwort.</desc>
@@ -32348,10 +32216,6 @@
 <title>The Voice of Germany</title>
 <desc>Hochkarätige Jurymitglieder suchen mit dem Rücken zur Bühne nach den besten Gesangstalenten. Die Expertenrunde entscheidet zunächst ausschließlich nach dem Gehör. Danach übernehmen die Coaches das intensive Training ihrer ausgewählten Talente.</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="RTL DE">
-<title>Explosiv - Das Magazin</title>
-<desc>Aktuell, mitreißend und gefährlich ehrlich - das ist Deutschlands beliebtestes tägliches Boulevard-Magazin. &quot;Explosiv&quot; präsentiert die Geschichten, die Deutschland bewegen und regelmäßig für öffentliche Diskussionen sorgen.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917164500 +0000" channel="RTL DE">
 <title>Exclusiv - Das Starmagazin</title>
 <desc>Wo ein roter Teppich ausgerollt wird, ist &quot;Exclusiv&quot; nicht weit. Täglich liefert Deutschlands erfolgreichstes Starmagazin die aktuellsten Promi-News, verrät die heißesten Gerüchte und gibt Einblicke in das Leben der Celebrities dieser Welt.</desc>
@@ -32459,10 +32323,6 @@
 <programme start="20260918174000 +0000" stop="20260918181500 +0000" channel="RTL DE">
 <title>Gute Zeiten, schlechte Zeiten</title>
 <desc>Katrin wahrt die Distanz, während Matilda mit einem Alleingang ihren Plan zu gefährden droht. Derweil fragt sich Toni, ob Berlin noch der richtige Ort für sie ist, da sie keine Familie mehr hat.</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="RTL De HD">
-<title>Explosiv - Das Magazin</title>
-<desc>Aktuell, mitreißend und gefährlich ehrlich - das ist Deutschlands beliebtestes tägliches Boulevard-Magazin. &quot;Explosiv&quot; präsentiert die Geschichten, die Deutschland bewegen und regelmäßig für öffentliche Diskussionen sorgen.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917164500 +0000" channel="RTL De HD">
 <title>Exclusiv - Das Starmagazin</title>
@@ -35380,10 +35240,6 @@
 <title>Heimatleuchten</title>
 <desc>Das Leben mit Reben - Mit Sarah Pernerstetter in Straß im Straßertale ║ A ║ 2026Im Straßertael dreht sich fast alles um den Wein - doch hinter den Reben verbirgt sich weit mehr als guter Geschmack. Sarah Pernerstetter besucht den Weinort Straß im Hochsommer, wenn der Jahrgang noch auf den Rebstöcken wächst und dennoch schon über seine Zukunft entschieden wird. Zwischen traditionsreichen Winzerfamilien, Kellergassen, Jagdrevieren und Dorfgeschichten erzählt der Film von Gemeinschaft und Konkurrenz, vom Loslassen und Weitergeben sowie von Menschen, deren Leben untrennbar mit ihrer Heimat verbunden ist. Ein stimmungsvolles Porträt eines Dorfes, das seinen Charakter aus Boden, Geschichte und Zusammenhalt schöpftDietrich Heller.</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="NTV">
-<title>Nachrichten</title>
-<desc>ntv informiert über die aktuellen Top-Themen des Tages. Die Nachrichten zeigt die wichtigsten Entwicklungen in der Welt, liefern Hintergründe und Einschätzungen von Politikern und Experten und fassen zusammen, was die Menschen bewegt.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917164000 +0000" channel="NTV">
 <title>ntv Wirtschaft</title>
 <desc>Die Sendung behandelt aktuelle Wirtschafts-, Verbraucher- und Finanzthemen, erklärt Hintergründe und ordnet Entwicklungen ein. Experten und Reporter aus Frankfurt und New York berichten über Trends und Bewegungen an den Finanzmärkten.</desc>
@@ -35755,10 +35611,6 @@
 <programme start="20260918180500 +0000" stop="20260918185000 +0000" channel="RTL Passion">
 <title>Anđeo osvete 1, ep. 135.</title>
 <desc>Santa diabla</desc>
-</programme>
-<programme start="20260917154500 +0000" stop="20260917163000 +0000" channel="3 Sat">
-<title>Welten-Saga II: Die Schätze Griechenlands und der Türkei</title>
-<desc>Diesmal begibt sich Christopher Clark auf die Suche nach den Spuren vergangener Reiche in Griechenland und der Türkei. Von Istanbul aus geht es nach Kappadokien, zu den Naturwundern von Pamukkale, weiter zur Insel Rhodos und zu den Meteora-Klöstern.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="3 Sat">
 <title>NANO: Regenwald Revival</title>
@@ -37307,10 +37159,6 @@
 <programme start="20260918150000 +0000" stop="20260918170000 +0000" channel="Deluxe Music De">
 <title>You Deluxe</title>
 <desc>YOU DELUXE</desc>
-</programme>
-<programme start="20260917144838 +0000" stop="20260917163117 +0000" channel="Cinema HD">
-<title>Ein Minecraft Film</title>
-<desc>Ein mysteriöses Portal zieht vier Außenseiter in die Überwelt, ein bizarres, kubisches Wunderland, das von der Fantasie lebt. Um wieder nach Hause zu kommen, müssen sich die vier auf eine magische Suche mit einem Crafter namens Steve begeben. Während sie gemeinsam Herausforderungen meistern, entdecken sie, dass allein ihre kreativen Fähigkeiten der Schlüssel zum Erfolg sind - das gilt sowohl für die Oberwelt als auch für ihre Heimatwelt.</desc>
 </programme>
 <programme start="20260917163117 +0000" stop="20260917180930 +0000" channel="Cinema HD">
 <title>In Cold Light</title>
@@ -39432,6 +39280,10 @@
 <title>Un tur culinar în Canada</title>
 <desc>Bucătarii Paul Rankin şi Nick Nairn pornesc într-o aventură culinară pe urmele scoţienilor din Ulster care au călătorit şi s-au stabilit în Canada.</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="TV paprika">
+<title>Un tur culinar în Canada</title>
+<desc>Bucătarii Paul Rankin şi Nick Nairn pornesc într-o aventură culinară pe urmele scoţienilor din Ulster care au călătorit şi s-au stabilit în Canada.</desc>
+</programme>
 <programme start="20260917154616 +0000" stop="20260917170127 +0000" channel="Mont kIDS">
 <title>The Princess and the Dragon (2017)</title>
 <desc>The Princess and the Dragon (2017)</desc>
@@ -39647,6 +39499,10 @@
 <programme start="20260918164000 +0000" stop="20260918183000 +0000" channel="Film1 Premiere NL">
 <title>Goodrich</title>
 <desc>Film, Komedie ║ US ║ 2024Kunsthandelaar Andy leert met behulp van zijn volwassen dochter Grace om een goede vader te zijn voor haar veel jongere halfbroertje en -zusje uit zijn tweede huwelijk. Stap voor stap ontwikkelt hij zich tot de vader die Grace nooit heeft gehad.Hallie Meyers-ShyerMichael KeatonMila KunisAndie MacDowellCarmen EjogoMichael UrieKevin PollakVivien Lyra BlairNico HiragaDanny DeferrariLaura Benanti.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918200500 +0000" channel="Film1 Premiere NL">
+<title>The Line</title>
+<desc>Film, Actie ║ MX ║ 2008 ║ 16Mark Shields arriveert in Tijuana om Pelon te doden, die de leiding heeft overgenomen van zijn zogenaamd stervende oom Salazar. Tijdens de operatie verliest hij zijn partner en merkt hij dat meerdere partijen hun eigen agenda volgen.James CottenRay LiottaAndy GarciaEsai MoralesArmand AssanteValerie CruzDanny TrejoBruce DavisonJoe MortonJordi VilasusoKevin Gage.</desc>
 </programme>
 <programme start="20260917162436 +0000" stop="20260917171521 +0000" channel="CrimeInvestigation HD">
 <title>Interview mit einem Mörder</title>
@@ -40080,10 +39936,6 @@
 <title>Henry Danger</title>
 <desc>JeugdserieDe dertienjarige Henry Hart ontmoet zijn superheld Captain Man en wordt zijn sidekick. Henry heeft beloofd om zijn nieuwe functie geheim te houden voor zijn familie en vrienden, waardoor hij een dubbelleven leidt.</desc>
 </programme>
-<programme start="20260917161500 +0000" stop="20260917163000 +0000" channel="RTL4 NL">
-<title>EditieNL</title>
-<desc>S14E260 ║ Aflevering 260 ║ Nieuws, Actualiteitenprogramma&apos;s ║ NL ║ 2023Journalistiek programma met een eigen kijk op het dagelijks nieuws.Margreet BeetsmaJetske SchrijverSteef Van StiphoutAnne van der MeerDaniel Godinho Veiga.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917163500 +0000" channel="RTL4 NL">
 <title>RTL Weer 18:30</title>
 <desc>Weer ║ NLEen uitgebreide blik op de actuele weerkaart. Met de weersverwachtingen op de korte en langere termijn in eigen land en in Europa.</desc>
@@ -40372,6 +40224,10 @@
 <title>De Pfaffs</title>
 <desc>S6E15 ║ Aflevering 15 ║ Reality, Entertainment ║ BE ║ 2008Realityserie over het dagelijks leven van legendarische ex-doelman Jean-Marie Pfaff, zijn vrouw Carmen en hun dochters Kelly, Debby en Lyndsey, die ook allemaal hun eigen gezinnen hebben.Jean-Marie PfaffKelly PfaffSam GoorisCarmen SethDebby PfaffLyndsey PfaffNicolas LiébaertDave VoldersKenji GoorisShania Gooris.</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918195500 +0000" channel="RTL5 NL">
+<title>De douane in actie</title>
+<desc>S1E1 ║ Aflevering 1 ║ Reality ║ NL ║ 2020 ║ 6Op Schiphol wordt een vliegtuig binnenstebuiten gekeerd tijdens een controle. Het werk van hondengeleider Lia en drugshond Pepsi wordt extra lastig gemaakt door recreatieve drugsgebruikers.</desc>
+</programme>
 <programme start="20260917160500 +0000" stop="20260917170000 +0000" channel="SBS6 NL">
 <title>LIVE: Nieuws van de Dag</title>
 <desc>S2026E181 ║ Aflevering 181 ║ Actualiteitenprogramma&apos;s ║ NL ║ 2026In dit opinie- en actualiteitenprogramma bespreken verslaggevers en opiniemakers van De Telegraaf en Hart van Nederland het nieuws waar Nederland over praat. Ze schuiven aan in de studio en doen liveverslag vanuit het land.Thomas van GroningenPim Sedee.</desc>
@@ -40536,9 +40392,9 @@
 <title>De Bondgenoten</title>
 <desc>S3E275 ║ Aflevering 275 ║ Reality Competitie ║ NL ║ 2025Een spelcyclus lang hebben de bondgenoten elkaar keihard nodig om kans te maken op honderdduizend euro. Maar laten ze elkaar aan het einde van de cyclus net zo hard weer vallen als ze er zelf vandoor kunnen gaan met de hoofdprijs?Jan Versteegh.</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="RTL7 NL">
-<title>Pawn Stars</title>
-<desc>S17E5 ║ Pawn V Ferrari ║ Reality, Veiling ║ US ║ 2019Corey en Chum bezoeken een showroom voor klassieke auto&apos;s om een Shelby Series 1 te zien. Een verkoper bezoekt de winkel met een klassiek Nintendo-videospel en Chum krijgt een gesigneerd Olympisch snowboard.Corey HarrisonRick HarrisonAustin Chumlee Russell.</desc>
+<programme start="20260918183000 +0000" stop="20260918193500 +0000" channel="SBS6 NL">
+<title>Grote Gezinnen, Grote Vakanties</title>
+<desc>S3E3 ║ Aflevering 3 ║ Reality, Reizen ║ NL ║ 2026Volg vijf grote gezinnen tijdens hun avontuurlijke vakanties over de grens. Van het maken van pasfoto&apos;s tot het navigeren door drukke campings: het is een uniek inkijkje in de uitdagingen én de bijzondere momenten van reizen met een groot gezin.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="RTL7 NL">
 <title>Pawn Stars</title>
@@ -40960,6 +40816,10 @@
 <title>The Big Bang Theory</title>
 <desc>S6E13 ║ The Bakersfield Expedition ║ Sitcoms ║ US ║ 2012Tijdens een roadtrip naar een stripboekconventie wordt Leonards auto gestolen, de jongens stranden onderweg allemaal verkleed als hun favoriete personages uit &apos;Star Trek&apos;.Mark CendrowskiJohnny GaleckiJim ParsonsKaley CuocoSimon HelbergKunal NayyarMelissa RauchMayim BialikKevin SussmanAngela SargeantMatt Battaglia.</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918192500 +0000" channel="Veronica NL">
+<title>Brandweer 010</title>
+<desc>S1E3 ║ Aflevering 3 ║ Reality ║ NL ║ 2026 ║ 9De brandweer Schiedam rukt uit voor een jongetje dat op het schoolplein bekneld is geraakt in een speeltoestel. De politie heeft geprobeerd het kind te bevrijden, maar de roestige schroeven geven niet mee. Kazerne Groene Tuin staat op het voetbalveld als ze worden gealarmeerd voor een vreemde lucht in een filiaal van Zeeman. Bevelvoerder Frank en zijn team speuren naar giftige stoffen en koolmonoxide. De C-ploeg Schiedam krijgt een melding van een woningbrand boven een winkelcentrum.</desc>
+</programme>
 <programme start="20260917210500 +0000" stop="20260917230500 +0000" channel="Planet 2 TV">
 <title>Tko ubija u Brokenwoodu?</title>
 <desc>The Brokenwood MysteriesRadnja serije smještena je u fiktivni gradić Brokenwood na Novom Zelandu koji broji 5000 stanovnika s trendom opadanja i to polaganog, jedan po jedan ili dva po dva, ovisno o tome koliko ih je taj tjedan ubijeno. Serija donosi svojevrstan odmak od mnogih drugih u kojima se zločini rješavaju forenzikom. Naime, u Brokenwoodu ubojstva su uvijek konkretna, motivi prepoznatljivi, a zaplete je moguće razriješiti ljudskim zaključivanjem prije nego li forenzičkim peripetijama. Glavni protagonisti...</desc>
@@ -41083,6 +40943,10 @@
 <programme start="20260918173000 +0000" stop="20260918183000 +0000" channel="Eurosport1 de">
 <title>FIA WEC ║ Lone Star Le Mans</title>
 <desc>Endurance Autoraces ║ HoogtepuntenVerslag van de Lone Star Le Mans.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918191500 +0000" channel="Eurosport1 de">
+<title>Giro d&apos;Abruzzo ║ Etappe 4</title>
+<desc>Wielrennen ║ Mannen</desc>
 </programme>
 <programme start="20260917161000 +0000" stop="20260917170400 +0000" channel="RTS Trezor">
 <title>Kad sam bio mali-Ljubivoje Ršumović</title>
@@ -41399,6 +41263,10 @@
 <programme start="20260918181500 +0000" stop="20260918183000 +0000" channel="tagesschau24 HD">
 <title>tagesschau24 TOP-THEMA</title>
 <desc>Aktuelle Ereignisse und zentrale politische sowie gesellschaftliche Entwicklungen stehen im Mittelpunkt der Berichterstattung. Fundierte Analysen, Live-Schalten zu Experten und detaillierte Hintergrundberichte beleuchten die Themen des Tages.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="tagesschau24 HD">
+<title>Kontraste</title>
+<desc>Das Politmagazin informiert über politische Entwicklungen, Ereignisse und Verhältnisse in Deutschland. Mit Neugierde und sorgfältiger Recherche bezieht das Magazin Stellung, bringt Gegensätze auf den Punkt und deckt Hintergründe auf.</desc>
 </programme>
 <programme start="20260917155025 +0000" stop="20260917173000 +0000" channel="Film Select 1 DE">
 <title>Mayday-info</title>
@@ -41732,6 +41600,10 @@
 <title>The Runner-info</title>
 <desc>A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family&apos;s valuables, and she is all that stands between them and their lives.</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918195550 +0000" channel="FILM Select 5 DE">
+<title>The Runner</title>
+<desc>A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family&apos;s valuables, and she is all that stands between them and their lives.</desc>
+</programme>
 <programme start="20260917153000 +0000" stop="20260917171246 +0000" channel="FILM Select 6 DE">
 <title>Coyote vs Acme</title>
 <desc>A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family&apos;s valuables, and she is all that stands between them and their lives.</desc>
@@ -41806,10 +41678,6 @@
 </programme>
 <programme start="20260918171246 +0000" stop="20260918170000 +0000" channel="FILM Select 6 DE">
 <title>Coyote vs Acme-info</title>
-<desc>A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family&apos;s valuables, and she is all that stands between them and their lives.</desc>
-</programme>
-<programme start="20260917160503 +0000" stop="20260917163000 +0000" channel="FILM Select 8 DE">
-<title>Mutiny-info</title>
 <desc>A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family&apos;s valuables, and she is all that stands between them and their lives.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917180503 +0000" channel="FILM Select 8 DE">
@@ -42208,6 +42076,10 @@
 <title>Tg1</title>
 <desc>2019</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918193000 +0000" channel="Rai Uno">
+<title>Affari tuoi</title>
+<desc>Puntata del 18/09/2026 ║ 2019Stefano De Martino conduce &quot;Affari tuoi&quot;: 20 concorrenti, uno per regione d&apos;Italia, sfidano la fortuna e il &quot;Dottore&quot; per trovare il pacco contenente 300.000 euro.</desc>
+</programme>
 <programme start="20260917161500 +0000" stop="20260917163500 +0000" channel="Rai Due">
 <title>Tg2</title>
 <desc>2019</desc>
@@ -42371,6 +42243,10 @@
 <programme start="20260918174300 +0000" stop="20260918183000 +0000" channel="Rai Due">
 <title>Blue Bloods</title>
 <desc>2019Mentre Erin si trova a dover indagare su alcuni colleghi, Danny e la sua partner si occupano sul misterioso furto della mitica Mustang del 1968 guidata da Steve McQueen nel film &quot;Bullit&quot;.... - 6^ stagione Con Tom Selleck, Bridget Moynahan, Donnie Wahlberg.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="Rai Due">
+<title>Tg2</title>
+<desc>2019</desc>
 </programme>
 <programme start="20260917150000 +0000" stop="20260917170000 +0000" channel="Rai Tre">
 <title>Geo</title>
@@ -42539,10 +42415,6 @@
 <programme start="20260918181000 +0000" stop="20260918184000 +0000" channel="Rai Tre">
 <title>Il Provinciale</title>
 <desc>Da Agropoli a Paestum: il mare della memoria - 18/09/2026 ║ 2019Da Agropoli a Paestum: il mare della memoria - 18/09/2026 ║ 2019</desc>
-</programme>
-<programme start="20260917162000 +0000" stop="20260917163000 +0000" channel="Italia 1">
-<title>Studio Aperto Live</title>
-<desc>Notizie (10&apos;)Notizie e approfondimenti in diretta sui temi di attualita&apos; quotidiani a cura della redazione giornalistica di Studio Aperto.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917165700 +0000" channel="Italia 1">
 <title>Studio Aperto</title>
@@ -42935,10 +42807,6 @@
 <programme start="20260918180100 +0000" stop="20260918183300 +0000" channel="Canale 5">
 <title>Tg5</title>
 <desc>Le notizie piu&apos; importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.</desc>
-</programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="La7">
-<title>La torre di Babele Doc</title>
-<desc>S1E120 ║ Città in Pericolo: Tokyo ║ 2025 ║ ITUn viaggio nella storia e nell&apos;oggi abbinato ad un ciclo di documentari che spaziano nel grande metronomo del tempo. Dalla Roma antica alle guerre contemporanee, dal grande romanzo della Bibbia alla riscoperta di Pompei e Atlantide e molto altro.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917180000 +0000" channel="La7">
 <title>Ignoto X: Dentro e oltre le storie di cronaca</title>
@@ -43376,10 +43244,6 @@
 <title>The mentalist</title>
 <desc>S1 Ep18 Patate rossastre Un uomo entra nella sede del CBI con una sacca contenente il cadavere di una donna, Mary Beth, sostenendo pero&apos; di trasportare un sacco di patate. Patrick si rende conto che l&apos;uomo e&apos; sotto ipnosi. Cosi&apos; la squadra inizia ad indagare e la pista seguita ben presto conduce alla sorella della vittima..</desc>
 </programme>
-<programme start="20260917135000 +0000" stop="20260917163000 +0000" channel="Rai Sport 1">
-<title>Europei di Pallavolo maschile</title>
-<desc>2019Pallavolo. Europeo maschile: Slovacchia-Grecia.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Rai Sport 1">
 <title>Memory - Rai Sport</title>
 <desc>2019</desc>
@@ -43635,6 +43499,10 @@
 <programme start="20260918175500 +0000" stop="20260918183000 +0000" channel="Boing">
 <title>Programmazione da definire</title>
 <desc>Altro, Intrattenimento ║ 2018I palinsesti sono in via di definizione da parte emittente.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918184000 +0000" channel="Boing">
+<title>Lo straordinario mondo di Gumball</title>
+<desc>S3 ║ Cartoni Animati, Animazione Famiglia ║ 2011 ║ 4,266 ║ Regno Unito,  GermaniaGumball e Darwin si chiedono qual e&apos; il senso della vita e interpellano tutti: da Larry ai genitori da Madre Natura fino ai pianeti ma la risposta piu&apos; profonda l&apos;avranno da Sussie.Mic Graves, Antoine PerezNicolas Cantu - Gumball Watterson (voice)Kyla Kowalewski - Anais Watterson (voice)Donielle T. Hansley Jr. - Darwin Watterson (voice)Christian J. Simon - Darwin Watterson (voice)Teresa Gallagher - Nicole Watterson / Penny Fitzgerald / Teri / Mrs. Robinson (voice)Dan Russell - Richard Watterson / Patrick Fitzgerald (voice)Kerry Shale - Larry Needlemeyer / Leslie / Bobert / Hector / Additional Voices (voice)Jacob Hopkins - Gumball Watterson (voice)Terrell Ransom Jr. - Darwin Watterson (voice)Logan Grove - Gumball Watterson (voice).</desc>
 </programme>
 <programme start="20260917160500 +0000" stop="20260917163500 +0000" channel="Nove">
 <title>Blaze e le mega macchine</title>
@@ -44156,9 +44024,9 @@
 <title>Batwheels</title>
 <desc>S2E16 ║ Una notte rumorosa ║ 2024 ║ 0+ ║ USBibi e le altre Batwheels aiutano Nightbike a non avere più paura dei rumori forti. Nel frattempo, Nightwing e Batgirl devono fare i conti con il Pinguino, che è intenzionato a rubare un carico prezioso.</desc>
 </programme>
-<programme start="20260917154500 +0000" stop="20260917163000 +0000" channel="ZDF Neo">
-<title>Suits</title>
-<desc>Die Verhandlungen über &quot;Pearson Darby&quot; gestalten sich komplizierter, als zunächst erwartet. Das liegt vor allem daran, dass ein alter Erzfeind auf der Bildfläche erscheint: Ava hat nämlich Travis Tanner als Anwalt engagiert, und der schafft es, Zwietracht zwischen Harvey und Scottie zu säen. Außerdem zeigt sich bald, dass Tanner noch ein Ass im Ärmel hat. Währenddessen erfährt Jessica von der Beziehung zwischen Mike und Rachel.</desc>
+<programme start="20260918183000 +0000" stop="20260918184500 +0000" channel="Nove">
+<title>Batwheels</title>
+<desc>S2E17 ║ Buff formato tascabile ║ 2024 ║ 0+ ║ USSentendosi insicuro delle proprie dimensioni dopo una partita a nascondino, Buff usa la cintura rimpicciolente appartenente ad Atom e si riduce accidentalmente alle dimensioni di un topo.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917172000 +0000" channel="ZDF Neo">
 <title>Bares für Rares</title>
@@ -44315,10 +44183,6 @@
 <programme start="20260918181500 +0000" stop="20260918190500 +0000" channel="ZDF Neo">
 <title>Death in Paradise</title>
 <desc>Als ein Spezialist für Bergungen auf See getötet wird, deuten alle Indizien auf einen einzigen Täter hin. Leider ist der Fall aber nicht so glasklar, wie es anfänglich scheint: Während der Ermittlungen stellt sich heraus, dass der Verdächtige ein wasserdichtes Alibi für den Tatzeitpunkt hat. Nun müssen Detective Inspector Humphrey Goodman und seine Leute den Fall noch einmal neu aufrollen. Derweil steht JP&apos;s Junggesellenabschied an.</desc>
-</programme>
-<programme start="20260917160800 +0000" stop="20260917163000 +0000" channel="Pink Media BH">
-<title>Elita uživo</title>
-<desc>ZadrugaUživo dešavanja u &quot;Eliti&quot;</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917163400 +0000" channel="Pink Media BH">
 <title>Infotop BH</title>
@@ -44771,6 +44635,10 @@
 <programme start="20260918164218 +0000" stop="20260918183106 +0000" channel="Max Action">
 <title>The Arctic Convoy</title>
 <desc>The Arctic Convoy</desc>
+</programme>
+<programme start="20260918183106 +0000" stop="20260918210306 +0000" channel="Max Action">
+<title>KILLHOUSE (2026)</title>
+<desc>KILLHOUSE (2026)</desc>
 </programme>
 <programme start="20260917154445 +0000" stop="20260917171325 +0000" channel="MAX HD 1 premium">
 <title>Johnny English Strikes Again</title>
@@ -46840,10 +46708,6 @@
 <title>Mr. Bean - Die Cartoon-Serie</title>
 <desc>Bean lebt in einer Wohnung seiner Vermieterin Mrs Wicket. Die Frau und ihre Katze mögen ihn nicht besonders. Der schräge Kerl hat nur seinen Teddy als ständigen Begleiter. Er findet für jedes Problem eine Lösung, die aber meist ungewöhnlich und manchmal völlig daneben ist. Er hat keinen Respekt und bringt sich selbst in schwierige Situationen. Beim Fahren gerät er oft mit einem blauen Auto auf drei Rädern in Konflikt. Er fährt es an, wirft es um oder schiebt es aus einer Park-Lücke. Beans Freundin hat auch einen Teddy. Sie spielt gern mit beiden Teddys. Sie ist die Einzige, die ihn ertragen kann.</desc>
 </programme>
-<programme start="20260917160500 +0000" stop="20260917163000 +0000" channel="RTL 8 Nl">
-<title>The Bold and the Beautiful</title>
-<desc>S39E227 ║ Aflevering 227 ║ Dramaseries, Soap ║ US ║ 2025De eerste ontmoeting tussen Katie en Dylan verloopt intens. Wyatt komt meer te weten over Wills mysterieuze logee. En Steffy biedt Carter een schouder om op te leunen.Katherine Kelly LangJacqueline MacInnes WoodThorsten KayeScott CliftonHeather TomDon DiamontDarin BrooksJohn McCookLawrence Saint-VictorKimberlin Brown.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="RTL 8 Nl">
 <title>The Bold And The Beautiful, The Beginning</title>
 <desc>S4E149 ║ Aflevering 149 ║ Dramaseries, Soap ║ US ║ 1990 ║ 9Klassieke soap die zich afspeelt in de glamoureuze wereld van de modescene in Los Angeles. De serie draait om de rijke en machtige familie Forrester. Hun bedrijf, Forrester Creations, is toonaangevend in de mode-industrie.Katherine Kelly LangJacqueline MacInnes WoodThorsten KayeScott CliftonHeather TomDon DiamontDarin BrooksJohn McCookLawrence Saint-VictorKimberlin Brown.</desc>
@@ -47323,10 +47187,6 @@
 <programme start="20260918181500 +0000" stop="20260918190000 +0000" channel="SR Fernsehen HD">
 <title>Expedition in die Heimat</title>
 <desc>Im Wald übernachten - und vielleicht in der Nähe die Wölfe heulen hören: SWR-Moderator Arndt Reisenbichler durchwandert den Nationalpark Hunsrück-Hochwald.</desc>
-</programme>
-<programme start="20260917162000 +0000" stop="20260917163000 +0000" channel="Nick Junior hr">
-<title>Rubble i ekipa 2, ep. 11.</title>
-<desc>Rubble &amp;amp; CrewGradonačelnica zamoli Rubblea i ekipu da naprave nešto posebno za njenog prijatelja gsp. Patkonju. Ali sprema se građevinska misterija...</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917165000 +0000" channel="Nick Junior hr">
 <title>Psići u ophodnji 11, ep. 13.</title>
@@ -48076,10 +47936,6 @@
 <title>Österreich unzensiert - Kurioser Alltag</title>
 <desc>Versteigerungen ║ A ║ 2026In Maishofen im Salzburger Land werden pro Jahr etwa 3000 Zuchtrinder versteigert. Doch wie läuft so eine Rinderversteigerung eigentlich ab? Die Käufer entscheiden jedenfalls nicht nur nach der Leistung, sondern auch nach dem Aussehen. Bei der Oldtimermesse in Salzburg findet indes eine Auktion so genannter klassischer Fahrzeuge statt. Spannung pur - denn hier wird live vor Ort, telefonisch und auch online mitgeboten.</desc>
 </programme>
-<programme start="20260917161500 +0000" stop="20260917163000 +0000" channel="Welt De">
-<title>Die Welt am Abend</title>
-<desc>Es wird eine Zusammenfassung der aktuellen News gezeigt und Interviews zu den Top-Themen geführt.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165500 +0000" channel="Welt De">
 <title>Die Welt am Abend</title>
 <desc>Es wird eine Zusammenfassung der aktuellen News gezeigt und Interviews zu den Top-Themen geführt.</desc>
@@ -48492,10 +48348,6 @@
 <title>Ghost Adventures</title>
 <desc>Zak und sein Team trotzen einem Schneesturm, um eine aggressive Präsenz auf einer verlassenen Ranch am Great Salt Lake in Utah zu konfrontieren. Unmarkierte Gräber und Gerüchte über einen Fluch werfen einen düsteren Schatten auf die Untersuchung.</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Krone TV">
-<title>Philipp bewegt</title>
-<desc>Die tägliche Bewegungseinheit auf krone.tv: Philipp Jelinek, der Vorturner der Nation, bringt Sie mit Schwung und genau den richtigen Übungen in den Tag.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917172500 +0000" channel="Krone TV">
 <title>Wa(h)re Kunst - Das Leben auf den Kunstmessen</title>
 <desc>Der Markt für zeitgenössische Kunst boomt weltweit. Auch in Österreich hat sich Contemporary Art als wesentlicher Bestandteil des Kunstmarktes neben der klassischen Moderne etabliert. Selbst kleine Galerien und Kunsthändler können vom Handel mit zeitgenössischer Kunst gut leben.</desc>
@@ -48852,10 +48704,6 @@
 <title>Medij 6, ep. 4.</title>
 <desc>Medium</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Phoenix TV De">
-<title>Aktuelle Reportage</title>
-<desc>Gezeigt werden Reportagen, die aktuelle politische und gesellschaftliche Ereignisse beleuchten.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917171500 +0000" channel="Phoenix TV De">
 <title>Magellans Reise um die Erde</title>
 <desc>Vor 500 Jahren setzen der portugiesische Kapitän Ferdinand Magellan und seine Männer zu einem der größten Seefahrt-Abenteuer der Geschichte. Ihre Weltumsegelung hatte damals eine vergleichbare Bedeutung wie die Raumfahrt im 20. Jahrhundert.</desc>
@@ -49084,6 +48932,10 @@
 <title>Dnevnik</title>
 <desc>Novinarski tim dosadašnjeg &quot;Pregleda dana&quot; prihvatio je novi izazov - da napravi Dnevnik u pola osam, koji će informisati građane o svim važnim temama sa tačnim i proverenim informacijama na svoj,...</desc>
 </programme>
+<programme start="20260918183000 +0000" stop="20260918193500 +0000" channel="Nova TV S">
+<title>Želite li da postanete milioner?</title>
+<desc>Pravila kviza ostaju nepromenjena. Učesnik koji sedne u &quot;vruću stolicu&quot; ima zadatak da tačno odgovori na 15 pitanja kako bi osvojio maksimalnu nagradu. Za svako pitanje su ponuđena četiri odgovora i...</desc>
+</programme>
 <programme start="20260917162126 +0000" stop="20260917171426 +0000" channel="20 Mediaset">
 <title>The Last Ship</title>
 <desc>S4E3 ║  Pane e circensi ║ Intrattenimento, FictionPane e circensi - Giorgio deve incontrarsi con Omar in Sardegna per comprare i semi immuni al virus. Sull&apos;isola arrivano anche gli uomini della Nathan James.</desc>
@@ -49200,10 +49052,6 @@
 <title>THE BIG BANG THEORY</title>
 <desc>S9E12 ║ La sublimazione della chiamata commerciale ║ Intrattenimento, FictionLa sublimazione della chiamata commerciale - Mentre Amy e&apos; a una conferenza, Sheldon e Raj scoprono un nuovo asteroide e discutono su come chiamarlo.</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="Prva Life">
-<title>Radna akcija</title>
-<desc>Radna akcija je emisija humanitarnog karaktera, koja je brzo osvojila srca gledalaca. Svaka nova epizoda emisije donosi nove priče i nove suze radosnice zbog porodica koje su uz pomoć ovog serijala dobile krov nad glavom kakav zaslužuju. To su porodice koje su živele u kućama jako lošeg stanja, ili imaju teške bolesnike, ili su pak prirodne nepogode uništile i oštetile njihove domove.</desc>
-</programme>
 <programme start="20260917173000 +0000" stop="20260917183000 +0000" channel="Prva Life">
 <title>Mala supruga</title>
 <desc>Branko je lekar u seoskom domu zdravlja koji se nađe u velikom problemu kada sazna da njegov brat duguje sto hiljada evra lokalnom zelenašu. Novac mu pozajmljuje Đurđica, mlada devojka zaljubljena u njega. Misteriozni čovek uskoro primorava Branka da oženi Đurđicu na šta on nerado pristane.</desc>
@@ -49295,6 +49143,10 @@
 <programme start="20260918173000 +0000" stop="20260918183000 +0000" channel="Prva Life">
 <title>Mala supruga</title>
 <desc>Branko je lekar u seoskom domu zdravlja koji se nađe u velikom problemu kada sazna da njegov brat duguje sto hiljada evra lokalnom zelenašu. Novac mu pozajmljuje Đurđica, mlada devojka zaljubljena u njega. Misteriozni čovek uskoro primorava Branka da oženi Đurđicu na šta on nerado pristane.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918193000 +0000" channel="Prva Life">
+<title>Tri muškarca i tetka</title>
+<desc>Pratimo život jedne porodice u kojoj glavnu reč vodi bogata tetka Milka, stari partijski kadar iz devedesetih, a u razne komične situacije upadaju njeni bratanci: šarmantan, ali neodgovoran ženskaroš Ljuba i smotani, ali odgovoran programer Joviša. U neuspešnim pokušajima da se osamostale i obogate, oni upadaju u razne peripetije, spletke, ljubavne i poslovne zamke, a sve se to odvija ili proživljava u Milkinoj buržujskoj kući.</desc>
 </programme>
 <programme start="20260917145500 +0000" stop="20260917170000 +0000" channel="Prva Kick">
 <title>Kartel</title>
@@ -49488,9 +49340,9 @@
 <title>150 minuta</title>
 <desc>Spoj aktuelnih vesti, zanimljivosti iz sveta poznatih, životnih tema o zdravlju, ishrani, lepoti, roditeljstvu, kulturi, čini okosnicu popodnevnog magazina 150 minuta. U studiju Prve televizije, voditelji emisije 150 minuta razgovaraju sa gostima o značajnim temama koje nam boje svakodnevicu, dok reporteri donose goruće priče sa terena. Radnim danima od 13.00 u studiju 150 minuta goste dočekuju voditelji Maja Jovanović, Miloš Urošević i Mira Lekić.?</desc>
 </programme>
-<programme start="20260917162000 +0000" stop="20260917163000 +0000" channel="Una TV Srbija">
-<title>Gradske priče</title>
-<desc>Ljudi okruženi bukom, žurbom, neprestanim zvonjenjem telefona, gužvom u saobraćaju i nervozom, kad-tad će poželeti da se vrate prirodi.Ljudi okruženi bukom, žurbom, neprestanim zvonjenjem telefona, gužvom u saobraćaju i nervozom, kad-tad će poželeti da se vrate prirodi.</desc>
+<programme start="20260918183000 +0000" stop="20260918191000 +0000" channel="Prva Files">
+<title>Mala supruga</title>
+<desc>Branko je lekar u seoskom domu zdravlja koji se nađe u velikom problemu kada sazna da njegov brat duguje sto hiljada evra lokalnom zelenašu. Novac mu pozajmljuje Đurđica, mlada devojka zaljubljena u njega. Misteriozni čovek uskoro primorava Branka da oženi Đurđicu na šta on nerado pristane.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Una TV Srbija">
 <title>Una Dan</title>
@@ -49823,6 +49675,10 @@
 <programme start="20260918160500 +0000" stop="20260918183000 +0000" channel="Cinestar Fantasy">
 <title>Različita</title>
 <desc>Divergent</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918203500 +0000" channel="Cinestar Fantasy">
+<title>Trilogija Različita: Pobunjena</title>
+<desc>The Divergent Series: Insurgent</desc>
 </programme>
 <programme start="20260917145000 +0000" stop="20260917171000 +0000" channel="Cinestar Action">
 <title>Snaga istine</title>
@@ -50492,10 +50348,6 @@
 <title>After Truth</title>
 <desc>USA ║ 2020Nach der Trennung von Hardin fühlt sich Tessa verletzt und enttäuscht. Sie möchte ihr Leben neu ordnen und beginn ein Praktikum bei einem Verlag. Dort trifft sie ihren neuen Kollegen Trevor Matthews, der freundlich und aufmerksam ist. Bald fühlt sie sich zu ihm hingezogen. Doch Hardin gibt nicht auf. Er entschuldigt sich für sein Verhalten. Tessa ist zwischen den beiden Männern hin- und hergerissen. Die Situation eskaliert, als ein Missverständnis zu einem Streit führt. Dann hat Tessa einen Auto-UnfallRoger KumbleJosephine LangfordHero Fiennes TiffinDylan SprouseSelma BlairCharlie WeberCandice AccolaLouise LombardShane Paul McGhieSamuel LarsenDylan ArnoldRob EstesInanna SarkisPia MiaKarimah WestbrookKhadijha Red ThunderBenjamin WeaverStefan RollinsJames H KeatingJon W. SparksJohn Jackson HunterGhevon SebastianDavin Allen GrindstaffClay NealMarisol CorreaMax RagoneAriel YasmineAshley LorenzoConstance PayneVince PisaniFeng Chao.</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="Oe24.TV">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="Oe24.TV">
 <title>konkret</title>
 <desc>A ║ 2026Vom Umgang mit digitalen Daten bis zur Warnung von Abzocke; vom kleinen Ärger bis zum großen Skandal: Konsumentenschutz wird in diesem Servicemagazin großgeschrieben. Neben den Verbraucherinformationen stehen Hintergründe, Fakten, Reportagen über Probleme der Zuschauerinnen und Zuschauer und bewährte Rubriken – wie &quot;Marvin gibt Antwort.</desc>
@@ -50928,10 +50780,6 @@
 <title>Japan - Kommt auf die Bucket List</title>
 <desc>Alte Tempelanlagen, moderne Wolkenkratzer und die vielfältige japanische Küche - eine Reise durch Japan steht für viele auf ihrer persönlichen Reise-Bucket List. Unterwegs mit dem Zug erleben die Filmemacher*innen Nina Heins und Felix Leichum das Land. In der Metropole der Superlative Tokio tauchen sie ein ins moderne Japan und erkunden in der alten Kaiserstadt Kyoto das genaue Gegenteil: alte Tempelanlagen und Schreine.</desc>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Arena Sport 6 HD">
-<title>Priča o svemu (pa i o sportu), ep. 35.</title>
-<desc>Priče o svemu (pa i o sportu)Priča o svemu, pa i o sportu je serijal razgovora Ane Franić sa legendama srpskog i regionalnog sporta. O tome kakvi su van terena i arena, šta ih je sport naučio, za šta ih je uskratio. Šta vole, kako provode vreme, na šta su ponosni, šta ih danas raduje ili plaši...</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="Arena Sport 6 HD">
 <title>Emisija: Sportske Igre Mladih, ep. 6.</title>
 <desc>Sportske igre mladih svim osnovnoškolcima i srednjoškolcima omogućuju sudjelovanje u organiziranim sportskim natjecanjima i drugim besplatnim aktivnostima tijekom ljeta.</desc>
@@ -51040,10 +50888,6 @@
 <title>NHL: Buffalo Sabres - Montreal Canadiens, G2, hokej</title>
 <desc>National Hockey League profesionalno je hokejaško natjecanje koje obuhvaća 25 američka i 7 kanadskih klubova. Jedno je od četiri velika sjevernoamerička natjecanja, a kakvoćom same igre daleko nadilazi sve ostale lige svijeta. Pobjedničkoj momčadi svake sezone uručuje se Stanleyjev kup, najstariji trofej sjevernoameričkog svijeta namijenjen osvajačima nekog tamošnjeg profesionalnog natjecanja.</desc>
 </programme>
-<programme start="20260917154000 +0000" stop="20260917163000 +0000" channel="RTL UP De">
-<title>Das Strafgericht</title>
-<desc>The criminal court was a court show in which fictional court cases in criminal matters were presented.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917172500 +0000" channel="RTL UP De">
 <title>Das Strafgericht</title>
 <desc>The criminal court was a court show in which fictional court cases in criminal matters were presented.</desc>
@@ -51083,10 +50927,6 @@
 <programme start="20260918181500 +0000" stop="20260918190500 +0000" channel="RTL UP De">
 <title>Der Lehrer 6, ep. 12.</title>
 <desc>Der Lehrer</desc>
-</programme>
-<programme start="20260917154300 +0000" stop="20260917163000 +0000" channel="n24 Doku TV">
-<title>Die Bundespolizei - Zu Wasser, zu Lande und in der Luft</title>
-<desc>Wir lernen über die Aufgabenbereiche der Bundespolizei: zum Beispiel den Grenz- und Küstenschutz mit dem Einsatzschiff BP82 Bamberg, den Einsatz von Spezialkräften sowie die Aufgaben der Bundespolizeidirektion Flughafen Frankfurt am Main.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917171800 +0000" channel="n24 Doku TV">
 <title>Bundespolizeidirektion Berlin - Einsatz Tag und Nacht</title>
@@ -51532,9 +51372,9 @@
 <title>Aviondžije 12, ep. 2. ®</title>
 <desc>Aviondžije</desc>
 </programme>
-<programme start="20260917154500 +0000" stop="20260917163000 +0000" channel="PINK TV .">
-<title>Oteta</title>
-<desc>EsaretOrhun, the heir apparent of the Demirhanli family, will take their place on the screen with the vengeful love of Hira. Orhun, who punished the perpetrators, will now be guided by the fire of revenge in his heart.</desc>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="Hype TV">
+<title>Aviondžije 12, ep. 3.</title>
+<desc>Aviondžije</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917173000 +0000" channel="PINK TV .">
 <title>Nacionalni dnevnik</title>
@@ -51896,10 +51736,6 @@
 <title>Bela lađa</title>
 <desc>Srećko Šojić je predsednik &quot;Stranke zdravog razuma&quot;, političar koji različitim mahinacijama i prevarama pokušava da pređe cenzus na izborima i na taj način dobije priliku da postane član vlade.Type: Serija; Genre: Tv-serijali; Cast: Ljiljana Dragutinović, Mina Lazarević, Nenad Jezdić, Predrag Smiljković; Season no.: ; Episode no.: ; Director: Mihailo Vukobratović; Release Year: ; Srećko Šojić je predsednik &quot;Stranke zdravog razuma&quot;, političar koji različitim mahinacijama i prevarama pokušava da pređe cenzus na izborima i na taj način dobije priliku da postane član vlade. Okružen je poslušnicima, a jedini ko se usuđuje da mu se ponekad suprotstavi je njegov batler Ćirko. Šojiću se putevi stalno ukrštaju sa Dimitrijem Pantićem i njegovom mnogobrojnom porodicom.</desc>
 </programme>
-<programme start="20260917161000 +0000" stop="20260917163000 +0000" channel="D 2">
-<title>Let’s go Ballin’: Episode 1</title>
-<desc>Let’s go Ballin’&quot;Let’s Go Ballin’&quot; is an exclusive docu-series on DAZN that focuses on the growth and success of women’s basketball in Germany. The show takes a close look at players, local leagues, and teams like ALBA Berlin, exploring how the sport is changing and preparing for the upcoming World Cup.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="D 2">
 <title>Darts Features: Club Profile 2022/2023</title>
 <desc>Darts FeaturesDarts Features: Club Profile 2022/2023</desc>
@@ -52219,6 +52055,10 @@
 <programme start="20260918180000 +0000" stop="20260918183000 +0000" channel="Arena 5 Premium HD">
 <title>Fudbal - Španska liga</title>
 <desc>Primera ili popularno La Liga prva je španska fudbalska liga. Sa čak 22 osvojene titule prvaka Evrope španska Primera godinama se smatra najboljom evropskom fudbalskom ligom. Osnovana 1929.Type: Program; Genre: Magazin; Cast: ; Director: ; Release Year: ; Primera ili popularno La Liga prva je španska fudbalska liga. Sa čak 22 osvojene titule prvaka Evrope španska Primera godinama se smatra najboljom evropskom fudbalskom ligom. Osnovana 1929. godine, Primera broji 20 ekipa koje u 38 kola sezone pokušavaju skupiti najveći broj bodova. To je najviše puta pošlo za rukom madridskom Realu dok je druga najuspešnija ekipa Barselona. Uz vrhunske ekipe špansku ligu krasi i izrazito tehnički mentalitet igre većine klubova sa ciljem za nadigravanjem protivnika.</desc>
+</programme>
+<programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="Arena 5 Premium HD">
+<title>Fudbal - Španska liga</title>
+<desc>Primera se godinama smatra najboljom evropskom fudbalskom ligom. Osnovana je 1929. godine te broji 20 ekipa u trci za prvakom Španije.Type: Program; Genre: Fudbal; Cast: ; Director: ; Release Year: ; Primera ili popularno La Liga prva je španska fudbalska liga. Sa čak 22 osvojene titule prvaka Evrope španska Primera godinama se smatra najboljom evropskom fudbalskom ligom. Osnovana 1929. godine, Primera broji 20 ekipa koje u 38 kola sezone pokušavaju skupiti najveći broj bodova. To je najviše puta pošlo za rukom madridskom Realu dok je druga najuspešnija ekipa Barselona. Uz vrhunske ekipe špansku ligu krasi i izrazito tehnički mentalitet igre većine klubova sa ciljem za nadigravanjem protivnika.</desc>
 </programme>
 <programme start="20260917153000 +0000" stop="20260917173000 +0000" channel="Arena 4 Premium HD">
 <title>Fudbal - Ruska liga</title>
@@ -52859,10 +52699,6 @@
 <programme start="20260918181500 +0000" stop="20260918184000 +0000" channel="Docubox HD">
 <title>Wow, I Never Knew That!, ep. 7.</title>
 <desc>Wow, I Never Knew That!</desc>
-</programme>
-<programme start="20260917162048 +0000" stop="20260917163131 +0000" channel="Nick Junior De">
-<title>Rubble &amp;amp; Crew</title>
-<desc>Die Bürgermeisterin Großherz möchte ihren guten Freund Erpelino mit etwas Besonderem überraschen. Dazu plant sie, mit den Baupfoten ein Sprungbrett zu bauen, doch plötzlich verschwindet das Baumaterial spurlos. Die Baupfoten gehen der Sache nach.</desc>
 </programme>
 <programme start="20260917163131 +0000" stop="20260917165315 +0000" channel="Nick Junior De">
 <title>PAW Patrol</title>
@@ -54784,10 +54620,6 @@
 <title>Raubtieren auf der Spur</title>
 <desc>Sean Duggan ist in Australien der sagenumwobenen Riesenechse Megalania auf der Spur. Das Tier ist eigentlich vor rund 45.000 Jahren ausgestorben. Doch könnte es sein, dass einige Exemplare dieser über sieben Meter langen Warane mit einem geschätzten Gewicht von einer Tonne und einem ausgeprägten Killerinstinkt tatsächlich überlebt haben? Sean will es herausfinden und die gewaltige Urzeitechse unbedingt persönlich kennenlernen.</desc>
 </programme>
-<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="ORF 2 Salzburg">
-<title>Studio 2</title>
-<desc>A ║ 2026&quot;Studio 2&quot; ist DIE TV-Illustrierte - aktuell, informativ und unterhaltsam. Das Service-Magazin beleuchtet Hintergründe zu aktuellen Ereignissen, unterstützt bei Alltagsfragen und blickt hinter die Kulissen von Kultur und Society. &quot;Studio 2&quot; bietet täglich die besten Tipps für Gesundheit, Lifestyle, Kulinarik und ein achtsames Leben. Durch die Sendung führen Barbara Karlich, Verena Hartlieb und Norbert Oberhauser.</desc>
-</programme>
 <programme start="20260917163000 +0000" stop="20260917165100 +0000" channel="ORF 2 Salzburg">
 <title>konkret</title>
 <desc>A ║ 2026Vom Umgang mit digitalen Daten bis zur Warnung von Abzocke; vom kleinen Ärger bis zum großen Skandal: Konsumentenschutz wird in diesem Servicemagazin großgeschrieben. Neben den Verbraucherinformationen stehen Hintergründe, Fakten, Reportagen über Probleme der Zuschauerinnen und Zuschauer und bewährte Rubriken – wie &quot;Marvin gibt Antwort.</desc>
@@ -55035,10 +54867,6 @@
 <programme start="20260918181500 +0000" stop="20260918192000 +0000" channel="ORF 2 Salzburg">
 <title>Die Chefin</title>
 <desc>Das Recht zu sterben ║ D ║ 2022Von Enno Reese Die Anästhesistin Sina Seibold wird vor der Klinik, in der sie arbeitet, überfallen und tödlich verletzt. Wegen ihres Engagements für Sterbehilfe war die Ärztin mehrfach Anfeindungen ausgesetzt. Zu jenen, die ihr deshalb kritisch gegenübergestanden sind, gehört auch der Pensionist Peter Menk. Seine Frau hat sich von Seibold in den Tod begleiten lassen. Auf einem Video ist zu sehen, wie er die Ärztin wütend beschimpft. Kommissarin Vera Lanz&apos; bezweifelt jedoch, dass der ältere Herr zu einem Mord imstande istMichael SchneiderKatharina BöhmJürgen TonkelJonathan HutterFranziska SingerSabrina CeesayWolfgang PreglerKarl KranzkowskiBarbara MelzlClaudia GrafAlessija LauseLilia HerrmannMagnús MariusonChristian HockenbrinkTatja Seibt.</desc>
-</programme>
-<programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="RTV BIR">
-<title>Dnevnik</title>
-<desc>Informativna emisija.</desc>
 </programme>
 <programme start="20260917163000 +0000" stop="20260917170000 +0000" channel="RTV BIR">
 <title>Omer</title>
