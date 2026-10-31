@@ -3703,9 +3703,6 @@
 <channel id="2277">
 <display-name>RSI La 2 (ch)</display-name>
 </channel>
-<programme start="20261031194000 +0000" stop="20261031200700 +0000" channel="1896">
-<title>Planet 18</title>
-</programme>
 <programme start="20261031200700 +0000" stop="20261101005300 +0000" channel="1896">
 <title>Mati!</title>
 </programme>
@@ -4503,10 +4500,6 @@
 <title>Ghosts Off Grid</title>
 <desc>S1E5 ║ McBeth House ║ Paranormaal ║ CA ║ 2024Johnny en Jordyn gaan terug naar McBeth House, waar hun fascinatie voor het paranormale begon. Buurtbewoners vertellen over het verleden van het pand.</desc>
 </programme>
-<programme start="20261031191500 +0000" stop="20261031200500 +0000" channel="1296">
-<title>The Chosen</title>
-<desc>Nach einem wundersamen Besuch im Haus von Simon verlassen Jesus und seine Schüler Kapernaum unter dem Druck der religiösen und römischen Behörden die Stadt. Jesus macht überraschend Halt am Jakobs Brunnen, wo er eine wichtige Begegnung hat.</desc>
-</programme>
 <programme start="20261031200500 +0000" stop="20261031211000 +0000" channel="1296">
 <title>The Chosen</title>
 <desc>Die Spannung unter den Jüngern nimmt zu, während sie sich mit der zunehmenden Berühmtheit Jesu in Samaria auseinandersetzen. Jesus tadelt Jakobus und Johannes wegen ihrer Vorurteile.</desc>
@@ -5062,6 +5055,10 @@
 <title>Die NDR Quizshow</title>
 <desc>Die Kandidaten beantworten knifflige Quizfragen über Norddeutschland.</desc>
 </programme>
+<programme start="20261101221000 +0000" stop="20261101225500 +0000" channel="1770">
+<title>extra 3</title>
+<desc>Die Themen sind &quot;Verliert Trump die Zwischenwahlen&quot; und &quot;CSU-Parteitag: Größenwahn mit Blasmusik&quot;.</desc>
+</programme>
 <programme start="20261031191500 +0000" stop="20261031204500 +0000" channel="1771">
 <title>Prange - Man ist ja Nachbar</title>
 <desc>Ralf Prange lebt sein ganzes Leben in derselben Wohnung in Hamburg. Dort ist er der arme Arsch, der immer die Pakete für alle annimmt. Doch Pranges Leben wird durch das Auftauchen der umwerfenden Paketzustellerin Dörte auf den Kopf gestellt.</desc>
@@ -5205,6 +5202,10 @@
 <programme start="20261101211000 +0000" stop="20261101221000 +0000" channel="1771">
 <title>Die NDR Quizshow</title>
 <desc>Die Kandidaten beantworten knifflige Quizfragen über Norddeutschland.</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101225500 +0000" channel="1771">
+<title>extra 3</title>
+<desc>Die Themen sind &quot;Verliert Trump die Zwischenwahlen&quot; und &quot;CSU-Parteitag: Größenwahn mit Blasmusik&quot;.</desc>
 </programme>
 <programme start="20261031191500 +0000" stop="20261031224800 +0000" channel="1769">
 <title>Die zehn Gebote</title>
@@ -7533,10 +7534,6 @@
 <title>Perla</title>
 <desc>A,SK ║ 2025Wien, die frühen 1980er Jahre. Perla, eine tschechoslowakische Dissidentin und alleinerziehende Mutter, lebt in einer Beziehung mit dem österreichischen Tibetologen Josef. Als sie einen Anruf ihrer todkranken Jugendliebe aus der Heimat bekommt, setzt sie nicht nur ihre neu aufgebaute Existenz, sondern auch ihre Freiheit aufs Spiel. In Zusammenarbeit mit dem ORF Film/FernsehabkommenAlexandra MakarováRebeka PolákováSimon SchwarzNoël CzuczorCarmen DiegoHilde DalikIvan RomančíkZuzana KonecnáIngrid TimkováIvan SándorBence HégliFrantišek BelešAsztalos Oliver.</desc>
 </programme>
-<programme start="20261031191500 +0000" stop="20261031200500 +0000" channel="1681">
-<title>Die Trump Show - Das Jahr nach der Wiederwahl</title>
-<desc>USA ║ 2026Im ersten Teil der dreiteiligen Doku steht die höchst turbulente und einst enge Beziehung zwischen Donald Trump und Elon Musk im Fokus. Wie die intensive Zusammenarbeit im Wahlkampf werden auch ihr öffentlicher Streit über einzelne Punkte von Donald Trumps Politik und die Jeffrey Epstein-Akten beleuchtet.</desc>
-</programme>
 <programme start="20261031200500 +0000" stop="20261031205500 +0000" channel="1681">
 <title>Die Trump Show - Das Jahr nach der Wiederwahl</title>
 <desc>USA ║ 2026Donald Trump verfolgt eine ehrgeizige Agenda zur Umgestaltung der Vereinigten Staaten von Amerika. Anscheinend hat er seine Lektionen gelernt und will sich jetzt durch nichts und niemanden aufhalten lassen. Dabei scheut er nicht davor zurück, demokratische Normen zu brechen, auf denen die USA gegründet worden sind.</desc>
@@ -7644,6 +7641,10 @@
 <programme start="20261101204500 +0000" stop="20261101220500 +0000" channel="1681">
 <title>Marika Lichter: Ich hab (k)ein Heimatland</title>
 <desc>A ║ 2026Publikumsliebling Marika Lichter begibt sich auf Spurensuche in die familiäre Vergangenheit, die mehr ist als nur persönliche Erörterung. Der außergewöhnliche Theaterabend ist eine Hommage an all die &quot;Vorhergegangenen.</desc>
+</programme>
+<programme start="20261101220500 +0000" stop="20261101235000 +0000" channel="1681">
+<title>Die Piefke Saga - Das Geschäft</title>
+<desc>Das Geschäft ║ A,D ║ 1990Das Geschäft ║ A,D ║ 1990</desc>
 </programme>
 <programme start="20261031190500 +0000" stop="20261031203000 +0000" channel="1683">
 <title>Alessandro Borghese: 4 ristoranti</title>
@@ -8797,6 +8798,10 @@
 <title>Terra X</title>
 <desc>Viele Rätsel der Vergangenheit sind bis heute noch chiffriert. So versuchen Wissenschaftler weiter herauszufinden, wie mit oft nur einfachen Mitteln komplizierte Bauwerke geschaffen wurden. Gerade Kulturen ohne Schrift sind schwer zu enträtseln.</desc>
 </programme>
+<programme start="20261101221000 +0000" stop="20261101225500 +0000" channel="1598">
+<title>Terra X</title>
+<desc>Dieses Mal begibt sich Harald Lesch auf die Spur längst vergessener Techniken und des sagenhaften Volkes der Amazonen. Denn schon vor 4.500 Jahren wurden in Ägypten die Pyramiden gebaut und in Südamerika erdbebensichere Gebäude.</desc>
+</programme>
 <programme start="20261031200132 +0000" stop="20261031204818 +0000" channel="1567">
 <title>Unglaubliche Entdeckungen mit Danny Trejo</title>
 <desc>Von unschätzbar wertvollen Schätzen, die in einer verlorenen Stadt gefunden wurden, bis hin zu einem alten Manuskript, das hinter einer Mauer versteckt ist, werden mysteriöse Geheimnisse in ungesehenen Kammern, Tunneln und Höhlen erkundet.</desc>
@@ -8932,10 +8937,6 @@
 <programme start="20261101213819 +0000" stop="20261101221541 +0000" channel="1567">
 <title>American Gold: Fünf Brüder auf Goldsuche</title>
 <desc>Mittlerweile fallen die Temperaturen in den zweistelligen Minusbereich, aber auch das kann die Dale-Brüder nicht aufhalten. Für diese Saison haben sie sich noch einige Ziele gesetzt, und um diese zu erreichen, bitten sie ihre Söhne um Hilfe.</desc>
-</programme>
-<programme start="20261031195500 +0000" stop="20261031201000 +0000" channel="1563">
-<title>Alvinnn!!! i veverice 1, ep. 31.</title>
-<desc>Alvinnn!!! and the ChipmunksRiječ je o animiranoj komediji o samohranom ocu Davidu Sevilleu koji je posvojio - tri vjeverka. Sinovi ga znaju izludjeti, posebno nestašni Alvin, pa se tako iz kuće često ori urlik AAAALVINEEEE!!!, no Davidova ljubav i posvećeno roditeljstvo nikada ne gube na snazi. Radnja je smještena u moderno doba i teme su vrlo aktualne - primjerice, Daveovi problemi s praćenjem moderne tehnologije i školsko nasilje, zatim vječna tema o tome kako nitko kao roditelj ne zna &quot;osramotiti&quot; dijete te kako i...</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031202000 +0000" channel="1563">
 <title>Garfild 3, ep. 3.</title>
@@ -9277,9 +9278,9 @@
 <title>Sestre 4, ep. 21.</title>
 <desc>The SistersVendi i Marina su sestre koje se slažu kao rogovi u vreći i dele sve svoje male tajne. Ali vole i da zadirkuju jedna drugu i koriste svoju neiscrpnu energiju da naprave džumbus.</desc>
 </programme>
-<programme start="20261031190000 +0000" stop="20261031200700 +0000" channel="1540">
-<title>Alapače</title>
-<desc>Alapače su humoristička serija koja kroz živopisne likove i prepoznatljive situacije donosi osmeh svim generacijama. Radnja se odvija u stambenoj zgradi i lokalnom kafiću, gde se životi stanara i gostiju prepliću u lavirintu nesporazuma, humorističnih zapleta i dirljivih trenutaka.</desc>
+<programme start="20261101221000 +0000" stop="20261101223000 +0000" channel="1563">
+<title>Zorro 1, ep. 13.</title>
+<desc>Zorro - The ChroniclesNaša nova serija predstavlja tinejdžera Don Dijega, koji se suočava sa najvećim životnim izazovom boreći se za pravdu protiv brojnih bezobzirnih tirana! Tako se rađa najpoznatiji maskirani heroj. Zoro jednostavno ismeva svoje protivnike učeći ih lekciji i potpisuje svoja dela zaštitnim znakom „Z“!</desc>
 </programme>
 <programme start="20261031200700 +0000" stop="20261031210000 +0000" channel="1540">
 <title>Dadilja sa sela</title>
@@ -11491,6 +11492,10 @@
 <title>Weihnachten wie im Bilderbuch</title>
 <desc>Die Veranstaltungsplanerin Celeste hat in der Vorweihnachtszeit alle Hände voll zu tun, um ihr Geschäft zu retten. Um ihrer Nichte trotzdem ein schönes Weihnachtsfest zu bescheren, braucht sie Hilfe. Celeste beschließt zur Verstärkung ein Kindermädchen zu engagieren. Zu ihrer Überraschung schickt ihr die Agentur einen männlichen Babysitter, der sich nicht nur als die perfekte Nanny erweist, sondern möglicherweise auch als idealer Partner für Celeste infrage kommen könnte.</desc>
 </programme>
+<programme start="20261101221005 +0000" stop="20261101233907 +0000" channel="1209">
+<title>Reiseziel Weihnachten</title>
+<desc>Als Bastian über die Feiertage nach Hause reist, erfährt er, dass sein Bruder mittlerweile mit seiner Ex-Partnerin zusammen ist. Doch das ist längst nicht alles: Auch seine Eltern bewahren ein großes Geheimnis. Bastian muss sich mit der unangenehmen Lage auseinandersetzen und entscheiden, wie er damit umgehen will. Während er versucht, den Frieden in der Familie zu bewahren, muss er grundlegende Werte hinterfragen.</desc>
+</programme>
 <programme start="20261031191500 +0000" stop="20261031204500 +0000" channel="1208">
 <title>Dracula - Die wahre Geschichte</title>
 <desc>Hinter der Romanfigur Dracula verbirgt sich ein echter Fürst, der blutrünstige Herrscher Vlad III. aus dem 15. Jahrhundert, der in der Walachei Angst und Schrecken verbreitete. Forschende untersuchen nun sein Leben zwischen Orient und Okzident.</desc>
@@ -11783,9 +11788,9 @@
 <title>Vrijeme je za goste ®</title>
 <desc>Vrijeme je za gosteTalk show, razgovari sa zanimljivim gostima iz svijeta glazbe, filma, kulture i drugih područja javnog života. Urednica i voditeljica: Snježana Delić</desc>
 </programme>
-<programme start="20261031190500 +0000" stop="20261031201000 +0000" channel="21">
-<title>Franc Kafka: Metamorfoza</title>
-<desc>Kafka, une métamorphoseScensko delo ,,Metamorfoze“ inspirisano je neverovatnim i mučnim avanturama nesrećnog Gregora Samse, velikog Franca Kafke. Umoran od uloge savršeno običnog čoveka, Gregor Samsa se jednog jutra budi preobražen u džinovsku bubašvabu. Međutim, njegova neverica, užas i razočaranje su kratkoročni. Nakon što konačno razume da više neće moći da odlazi na posao i obavlja uobičajeni život, on se predomišlja i prihvata nove uslove koje mu stvarnost nudi. I to bez mnogo buke. Tek tu počinje priča.</desc>
+<programme start="20261101221000 +0000" stop="20261101224500 +0000" channel="536">
+<title>Vremenska prognoza</title>
+<desc>Pratite informacije o najnovijim vremenskim uslovima za narednih nekoliko dana. Ovo su informacije prema zvaničnim meteorološkim podacima.</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031202000 +0000" channel="21">
 <title>Molijerove žene: Razboritost gospođe Žurden u komediji Građanin Plemić</title>
@@ -12605,6 +12610,10 @@
 <title>Die Unbekannte vom Hafen 25</title>
 <desc>Die Unbekannte vom Hafen 25</desc>
 </programme>
+<programme start="20261101220636 +0000" stop="20261102003349 +0000" channel="1349">
+<title>Disclosure Day - Der Tag der Wahrheit</title>
+<desc>Disclosure Day - Der Tag der Wahrheit</desc>
+</programme>
 <programme start="20261031183000 +0000" stop="20261031203000 +0000" channel="1356">
 <title>K?šarka - Prva liga Srbije (ž): Partizan - Crvena zvezda: Partizan - Crvena zvezda</title>
 <desc>Najviši samostalni klupski košarkaški rang ženske košarke pokrenut je kao i većina takmičenja u Srbiji 2006. godine nakon raspada zajednice Srbije i Crne Gore. Takmičenje se odvija u dva dela. Prvi deo je takozvani regularni deo u kojem se igra liga u kojoj svaka ekipa igra sa svakom i na temelju krajnjeg rezultata se određuje koje ekipe će ući u sledeću fazu plejof. Ponajbolja ženska košarka u ovom delu Evrope će vam sigurno privući pažnju! Nemojte nikako propustiti!</desc>
@@ -13378,10 +13387,6 @@
 <title>Love Island Adria</title>
 <desc>’Love Island Adria’ je regionalna verzija globalno popularnog reality i dating showa koji je osvojio milijune gledatelja diljem svijeta. Riječ je o formatu koji već godinama privlači publiku diljem svijeta, a sada dolazi i u Hrvatsku, ekskluzivno na platformu Voyo. U luksuznoj vili na egzotičnoj lokaciji, odabrani kandidati ulaze u potragu za ljubavlju, ali i borbu za glavnu nagradu. Mladi samci ulaze u luksuznu vilu gdje kroz odnose, izazove i svakodnevni život pokušavaju pronaći ljubav – i...</desc>
 </programme>
-<programme start="20261031191200 +0000" stop="20261031200800 +0000" channel="149">
-<title>Sinđelići</title>
-<desc>Lila (Snežana Bogdanović) je moderna, obrazovana žena koja napušta svoje rodno mesto i dolazi da živi u Beograd zbog svoje srednjoškolske ljubavi Sretena. Njih dvoje se sreću nakon mnogo godina. On je ostao udovac sa tri sina, a ona je razvedena i ima dve ćerke. Ljubav se odmah rasplamsala, pa odlučuju da se venčaju. Sreten je šaljivdžija, pre svega dobar čovek, zato ga Dobrila toliko i voli. Suvlasnik je malog restorana i trener nižerazrednog fudbalskog kluba.Ona pored ćerki ima i majku...</desc>
-</programme>
 <programme start="20261031200800 +0000" stop="20261031210600 +0000" channel="149">
 <title>Sinđelići</title>
 <desc>Lila (Snežana Bogdanović) je moderna, obrazovana žena koja napušta svoje rodno mesto i dolazi da živi u Beograd zbog svoje srednjoškolske ljubavi Sretena. Njih dvoje se sreću nakon mnogo godina. On je ostao udovac sa tri sina, a ona je razvedena i ima dve ćerke. Ljubav se odmah rasplamsala, pa odlučuju da se venčaju. Sreten je šaljivdžija, pre svega dobar čovek, zato ga Dobrila toliko i voli. Suvlasnik je malog restorana i trener nižerazrednog fudbalskog kluba.Ona pored ćerki ima i majku...</desc>
@@ -13469,10 +13474,6 @@
 <programme start="20261101220000 +0000" stop="20261102001000 +0000" channel="149">
 <title>Vincent i Roxxy</title>
 <desc>Vincent N RoxxyUsamljenik iz maloga grada i buntovna pankerica neočekivano se zaljube dok su prisiljeni na bijeg. Ubrzo otkriju da ih nasilje prati posvuda.</desc>
-</programme>
-<programme start="20261031191500 +0000" stop="20261031200500 +0000" channel="1711">
-<title>Private Practice</title>
-<desc>Während eines ganz normalen Hausbesuchs gerät Sam mitten in eine Geiselnahme. Pete und Addison gehen in ihrer Beziehung einen Schritt weiter, während Violet und Cooper eine Freundschaft mit gewissen Vorzügen beginnen.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031210000 +0000" channel="1711">
 <title>Private Practice</title>
@@ -14806,10 +14807,6 @@
 <programme start="20261101220400 +0000" stop="20261101232700 +0000" channel="399">
 <title>Vojvođanski simfonijski orkestar Đ. Verdi: Rekvijem</title>
 </programme>
-<programme start="20261031200000 +0000" stop="20261031201000 +0000" channel="942">
-<title>Vesti</title>
-<desc>Informativni program Studio B TV.</desc>
-</programme>
 <programme start="20261031201000 +0000" stop="20261031210000 +0000" channel="942">
 <title>Predvideti nepredvidivo</title>
 </programme>
@@ -15589,6 +15586,10 @@
 <programme start="20261101201700 +0000" stop="20261101221000 +0000" channel="65">
 <title>96 sati: U bijegu</title>
 <desc>Taken 3Miroljubivi obiteljski čovjek Bryan Mills (bivši agent zanimljive i bogate prošlosti) ne bježi više od najgorih zlikovaca današnjice, nego od ujedinjenih policijskih snaga Los Angelesa, CIA-je i FBI-ja. Njih će regrutirati Franck Dotzler nakon što Mills pobjegne tijekom uhićenja običnim murjacima. Naime, Bryanu je netko namjestio ubojstvo bivše supruge, a u opasnosti će se naći i njegova kćer Kim koja je sada uspješna studentica sveučilišta UCLA.</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101223500 +0000" channel="65">
+<title>Dnevnik 3</title>
+<desc>DnevnikNajnovije vijesti iz zemlje i svijeta te sažeta vremenska prognoza za sljedeći dan.</desc>
 </programme>
 <programme start="20261031200000 +0000" stop="20261031210400 +0000" channel="66">
 <title>Skandinavija sa Simonom Reeveom 1, ep. 2.</title>
@@ -16526,6 +16527,14 @@
 <title>#REPORTAŽE: KUD Bukovac</title>
 <desc>#REPORTAŽEIz emisije Kod nas doma donosimo reportaže o zanimljivim temama.</desc>
 </programme>
+<programme start="20261101220700 +0000" stop="20261101221000 +0000" channel="146">
+<title>Bez komentara</title>
+<desc>Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101222000 +0000" channel="146">
+<title>Vijesti na engleskom jeziku</title>
+<desc>Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.</desc>
+</programme>
 <programme start="20261031191500 +0000" stop="20261031212000 +0000" channel="64">
 <title>Pravednik 3: Konačno poglavlje</title>
 <desc>The Equalizer 3Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potlačene. Robert se u finalnom nastavku filma nalazi u južnoj Italiji gdje pokušava okrenuti leđa svojoj prošlosti, no, kad shvati da su ljudi s kojima se tamo zbližio pod jarmom lokalnog mafijaša McCall zna što mora učiniti pod svaku cijenu – spriječiti mafiju i spasiti svoje prijatelje…</desc>
@@ -17162,10 +17171,6 @@
 <title>Gospodin Savršeni: Australija 11, ep. 3.</title>
 <desc>Gospodin SavršeniPopularni reality show vodi gledatelje kroz romantične spojeve, izazove i ceremonije s ružama, u kojima se natjecateljice bore za pažnju i naklonost čak trojice Gospodina Savršenih! Svaka epizoda donosi nove zaplete, emotivne trenutke i drame dok se veza između Savršenih i natjecateljica razvija.</desc>
 </programme>
-<programme start="20261031192000 +0000" stop="20261031200500 +0000" channel="454">
-<title>Djevojke na zadatku 7, ep. 6.</title>
-<desc>Rizzoli &amp;amp; IslesJane i Maura moraju istražiti staru priču o duhovima kako bi riješile dvostruko ubojstvo u bolnici. Angela uvjerava Frankieja da prestane izbjegavati Kenta i prihvati njegov poziv na koncert.Kad biciklist strada u samozapaljenju, Maura dokaže da je to bilo ubojstvo. Jane je pozvana da predaje novacima FBI-a u Quanticu.</desc>
-</programme>
 <programme start="20261031200500 +0000" stop="20261031204500 +0000" channel="454">
 <title>Djevojke na zadatku 7, ep. 7.</title>
 <desc>Rizzoli &amp;amp; IslesKad biciklist strada u samozapaljenju, Maura dokaže da je to bilo ubojstvo. Jane je pozvana da predaje novacima FBI-a u Quanticu.</desc>
@@ -17281,6 +17286,10 @@
 <programme start="20261101212500 +0000" stop="20261101220500 +0000" channel="454">
 <title>Chicago P.D. 11, ep. 10.</title>
 <desc>Chicago P.D.Detektiv Hank Voight (Jason Beghe) vodi elitnu obavještajnujedinicu u 21. policijskom okrugu. Unatoč agresivnom ponašanju,spremnosti da zaobiđe pravila, prijeđe granicu i prekrši nečijaprava kako bi riješio zločin i ispravio nepravdu, zagonetninarednik Voight odan je policajcima i detektivima kojimazapovijeda te suosjeća sa žrtvama zločina koje njegova jedinicaistražuje. Prije nego što je preuzeo zapovjedništvo nadobavještajnim službama, Voight je radio u jedinici Odjela zasuzbijanje...</desc>
+</programme>
+<programme start="20261101220500 +0000" stop="20261101225000 +0000" channel="454">
+<title>Zaboravljeni slučaj 6, ep. 11.</title>
+<desc>Cold CaseLilly Rush i njena ekipa istražuju slučaj ubijene stjuardese, neriješen još iz šezdesetih godina prošlog stoljeća. Čini se kako je ubijena u svome naumu pokretanja sindikata stjuardesa naišla na mnogo neprijatelja, neke od njih čak i među svojim kolegicama</desc>
 </programme>
 <programme start="20261031190000 +0000" stop="20261031212000 +0000" channel="68">
 <title>Prvi vitez</title>
@@ -17536,9 +17545,9 @@
 <programme start="20261101185500 +0000" stop="20261101221000 +0000" channel="183">
 <title>Uhvati ritam uz Domagoja Rojka</title>
 </programme>
-<programme start="20261031192500 +0000" stop="20261031200500 +0000" channel="1127">
-<title>Veliki judi</title>
-<desc>Veliki ljudiobrazovna emisija</desc>
+<programme start="20261101221000 +0000" stop="20261101223000 +0000" channel="183">
+<title>Glazba</title>
+<desc>Glazbeni program.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031205000 +0000" channel="1127">
 <title>Na prvi črti</title>
@@ -18721,6 +18730,10 @@
 <title>Šesta brzina</title>
 <desc>Otvorena srca u odnosu sa mušterijama, automehaničar Života doživljava razne zgode. Neke su smiješne, neke su tužne, neke otkrivaju ljepotu, a neke ljudsku bijedu. Na kraju se i sam zapetlja, i ne bez gorčine, pokušava izmijeniti, namijeravajući da postane kao njegov kolega preko puta, koji se prilagodio današnjem vremenu: sa svakom strankom kratko i poslovno. Međutim, ljudima koji dolaze kod njega, potreban je takav kakav jest.</desc>
 </programme>
+<programme start="20261101220500 +0000" stop="20261101230000 +0000" channel="76">
+<title>Paparaco</title>
+<desc>Paparazzo lovProfesionalni paparazzi ovog rijaliti šou programa donose snimke koje su tokom proteklog perioda snimili širom Balkana.Paparazzo lov donosi sve aktuelnosti iz sveta porodičnih života poznatih ličnosti Balkana. Ekskluzivne snimke novih ljubavnih izbora na estradi koje drugi mediji do sada nisu otkrili, ali i naše video dokaze u vezi sa aktuelnim temama. Tu su i snimci napravljeni tokom leta na crnogorskom i hrvatskom primorju, kao i sve aktuelnosti koje su zabeležene u glavnom gradu Srbije...</desc>
+</programme>
 <programme start="20261031200000 +0000" stop="20261031230000 +0000" channel="514">
 <title>BN radio LIVE</title>
 <desc>BN RadioBN Radio je popularna radio emisija na BN muzičkom kanalu koja donosi najnovije hitove i uzbuđenje iz svijeta muzike.</desc>
@@ -19380,9 +19393,9 @@
 <title>U19 OMLADINSKA LIGA BIH - ČAPLJINA - STOLAC 21. KOLO</title>
 <desc>Premijer omladinska liga BiH U-19 je profesionalna nogometna liga u Bosni i Hercegovini za momčadi čiji igrači imaju 19 godina ili manje.</desc>
 </programme>
-<programme start="20261031190000 +0000" stop="20261031201000 +0000" channel="464">
-<title>Persona prva</title>
-<desc>Sahsiyet’Persona’ se bavi umirovljenim sudskim djelatnikom kojem je dijagnosticirana Alzheimerova bolest nakon čega on odlučuje ubiti kriminalce koji su se olako izvukli za zločine koje su počinili. Agâh (Haluk Bilginer) je drag čovjek, udovac koji živi jednostavnim životom, ali potajno gaji duboku ogorčenost prema određenim muškarcima koji su dobili malu ili nikakvu kaznu za zločine koje su počinili nad ženama. On zna za te slučajeve jer je 27 godina radio u sudnici u Istanbulu. Nakon što prihvati...</desc>
+<programme start="20261101220500 +0000" stop="20261101222000 +0000" channel="326">
+<title>Doživite Čaroliju - Dobrodošli u Mostar</title>
+<desc>Film pod nazivom ’’Doživite čaroliju-Dobrodošli u Mostar’’, koji je rađen za potrebe turističke promocije Grada Mostara u produkciji filmske kuće ZAP Mostar. Mostar je prikazan kao poželjna mediteransko turističko odredište koja se diči građevinama nastalim za vrijeme austro-ugarske i turske okupacije.</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031205500 +0000" channel="464">
 <title>Svjetla pozornice - Azmir Halilović (RTVTK)</title>
@@ -20141,9 +20154,6 @@
 <programme start="20261101203500 +0000" stop="20261101223000 +0000" channel="677">
 <title>TACKA PUCANJA</title>
 <desc>BOILING POINT</desc>
-</programme>
-<programme start="20261031200000 +0000" stop="20261031200500 +0000" channel="1389">
-<title>Marketing blok</title>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031215000 +0000" channel="1389">
 <title>Koncert za prijatelja</title>
@@ -20950,10 +20960,6 @@
 <title>Intervju</title>
 <desc>Pogovori z zanimivimi osebnostmi iz najrazličnejših področij.</desc>
 </programme>
-<programme start="20261031190000 +0000" stop="20261031200500 +0000" channel="308">
-<title>Elizabeth: Fashioning a Monarch ®</title>
-<desc>Elizabeth: Fashioning a MonarchFiona Bruce looks at the clothes worn by Her Majesty Queen Elizabeth II during her reign.</desc>
-</programme>
 <programme start="20261031200500 +0000" stop="20261031221000 +0000" channel="308">
 <title>Godzilla minus jedan ®</title>
 <desc>Gojira Mainasu WanIn postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.</desc>
@@ -21136,6 +21142,10 @@
 <programme start="20261101215500 +0000" stop="20261101220500 +0000" channel="309">
 <title>Zrcalo tedna ®</title>
 <desc>Zrcalo tednaRedna tedenska oddaja Zunanjepolitične redakcije, ki gledalcu ponuja pregled dogajanj po svetu v politiki, gospodarstvu in kulturi, ustvarjajo pa jo novinarke in novinarji Zunanjepolitične redakcije. Zrcalo vedno zrcali podobo sveta: tragično, veselo, zabavno.</desc>
+</programme>
+<programme start="20261101220500 +0000" stop="20261101222000 +0000" channel="309">
+<title>Politično s Tanjo Gobec ®</title>
+<desc>Politično s Tanjo GobecŽivimo čas množice informacij in dogodkov. Nekateri se izkažejo za muhe enodnevnice. Kaj pa v resnici zaznamuje teden ali kroji prihodnjega? V oddaji, ki se poglobi v bistvu stvari.</desc>
 </programme>
 <programme start="20261031184405 +0000" stop="20261031203243 +0000" channel="732">
 <title>Musik</title>
@@ -21505,10 +21515,6 @@
 <programme start="20261101204600 +0000" stop="20261102000600 +0000" channel="310">
 <title>Dobro jutro, Benedicte Stone</title>
 <desc>Rise and Shine, Benedict StoneNakon što su godinama pokušavali dobiti dijete, Benedict i supruga Emilia više ne žive zajedno, no njihova nećakinja Gemma želi ih ponovno zbližiti.</desc>
-</programme>
-<programme start="20261031194500 +0000" stop="20261031200500 +0000" channel="1561">
-<title>Danger Force</title>
-<desc>When Ray finds out that SW.A.G. is home to an annoying ghost from the 1920&apos;s, Danger Force steps into action by helping the ghost with her unfinished business so she will stop haunting their school.Type: Serija; Genre: Series; Cast: Cooper Barnes, Michael D. Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan, Timothy Brennen, Antonio D. C; Season no.: 1; Episode no.: 21; Director: Mike Caron, Evelyn Belasco, Adam Weissman; Release Year: 2021; When Ray finds out that SW.A.G. is home to an annoying ghost from the 1920&apos;s, Danger Force steps into action by helping the ghost with her unfinished business so she will stop haunting their school.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031203000 +0000" channel="1561">
 <title>iCarly</title>
@@ -22664,10 +22670,6 @@
 <title>Smrtonosni strojevi</title>
 <desc>Mortal EnginesTisuće godina nakon što su kataklizmički događaji izbrisali civilizaciju kakvu danas poznajemo, čovječanstvo se prilagodilo novonastalim uvjetima i razvio se novi način života. Gigantski mobilni gradovi sada haraju Zemljom u obliku smrtonosnih strojeva i gospodare manjim naseljima, osvajajući predio po predio. Tom Natsworthy, iz londonskog Lower Tier-a, uslijed susreta s opasnim bjeguncem Hesterom Shawom, nalazi se u borbi za vlastiti opstanak. Neočekivani dvojac čiji se putevi nikada nisu...</desc>
 </programme>
-<programme start="20261031184500 +0000" stop="20261031201000 +0000" channel="317">
-<title>Lorax: Zaštitnik šume</title>
-<desc>The LoraxMaštoviti svijet dr. Seussa oživljava kao nikad prije u ovoj vizualno spektakularnoj 3D avanturi tvoraca „Kako je Gru ukrao mjesec“. 12-godišnji Ted učinit će sve kako bi pronašao pravo živo stablo Truffula te tako impresionirao djevojku svojih snova. Kad krene na put, Ted otkrije nevjerojatnu priču o Loraxu, mrzovoljnom, ali šarmantnom stvorenju i glasnogovorniku drveća. Uz glasovne talente Dannyja DeVita, Eda Helmsa, Zaca Efrona, Taylor Swift, Roba Rigglea, Jenny Slate i Betty White,...</desc>
-</programme>
 <programme start="20261031201000 +0000" stop="20261031202500 +0000" channel="317">
 <title>Maša i medved 3, ep. 4.</title>
 <desc>Masha i MedvedMaša je nemirna djevojčica nepresušnog izvora energije – sve što vidi, ona to mora isprobati! Neopisivo je društvena i prema svima se ponaša kao da ih poznaje godinama. Njena znatiželja i kreativnost uzrokuje smiješne avanture, iako drugima katkada može uzrokovati nevolje. Medvjed je topla srca, a njegov tihi svijet okrenuo se naglavačke kada je Maša ušla u njegov život! Iako voli miran život, na njegovo iznenađenje uskoro otkriva da mu Maša nedostaje kada god mu nije blizu i jedva čeka...</desc>
@@ -23185,6 +23187,9 @@
 </programme>
 <programme start="20261101212500 +0000" stop="20261101221000 +0000" channel="49">
 <title>Ženski muabeti, ep. 5. ®</title>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101225000 +0000" channel="49">
+<title>Džez Fabrika Festival 2024 ®</title>
 </programme>
 <programme start="20261031200000 +0000" stop="20261031203200 +0000" channel="535">
 <title>Podcast Aulos</title>
@@ -24091,9 +24096,9 @@
 <title>Turistički puls ®</title>
 <desc>Turistički pulsDinamični informativni magazin koji prati aktuelne trendove, manifestacije i skrivene destinacije širom zemlje i svijeta.</desc>
 </programme>
-<programme start="20261031194000 +0000" stop="20261031200500 +0000" channel="421">
-<title>Pansion na zelenoj plaži ®</title>
-<desc>Pansion na zelenoj plažiPriča o prvom hotelu na crnogorskom primorju kojeg je osnovao oficir iz Budimpešte 1902. godine. Konjički oficir Antal Mađar je zbog zdravstvenog stanja dobio preporuku da se preseli negdje sa pogodnijom klimom. U Zelenici je kupio imanje i sagradio vilu. Ubrzo je uvidio da bi se od toga mogao razviti i posao. Zaslužan je i za izgradnju pruge do Zelenike, nakon čega su stranci mogli dolaziti na odmor. Pored turističkog potencijala, pruga je Zeleniku učinila i velikom izvoznom lukom, odakle su...</desc>
+<programme start="20261101221000 +0000" stop="20261101230000 +0000" channel="294">
+<title>Agrosaznanje ®</title>
+<desc>AgrosaznanjeEmisija o selu i poljoprivredi. Afirmativo, ali i problemski pratimo dešavanja u agroprivredi. Govorimo o mjerama države za razvoj poljoprivrede, kreditnim linijama za poljoprivrednike, mogućnostima njihovog udruživanja, te problemima...Emisija je na programu nedjeljom, od 12:05 sati na TVCG 1.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031203500 +0000" channel="421">
 <title>Zapis ®</title>
@@ -26317,6 +26322,10 @@
 <programme start="20261101203300 +0000" stop="20261101220700 +0000" channel="86">
 <title>Zvijer iznutra</title>
 <desc>The Beast WithinZa Emmy nominirani Kit Harington glumi u ovom trileru o desetogodišnjoj djevojčici koja počinje preispitivati svoj neobičan život u utvrđenom obiteljskom kompleksu. Otkriva da se jedanput na mjesec njezin otac pretvara u čudovište, ali roditelji je na kraju uvjere da se nema čega bojati. Kad čudovište pobjegne, mora se suočiti s realnošću onoga što njezin otac zapravo jest i donijeti odluku kakvu njezina majka nikada ne bi mogla.</desc>
+</programme>
+<programme start="20261101220700 +0000" stop="20261101235700 +0000" channel="86">
+<title>Ledena cesta: Osveta</title>
+<desc>Ice Road: VengeanceMike McCann, vozač kamiona na ledenoj cesti, ispuni posljednju želju svog pokojnog brata te otputuje u Nepal kako bi rasuo njegov pepeo na Mt. Everestu. U prepunom turističkom autobusu koji na visini od 3600 m prelazi smrtonosni teren zloglasne Ceste u nebo, Mike i njegov planinski vodič susreću skupinu plaćenika i moraju se boriti da spase sebe, autobus pun nevinih putnika i dom lokalnih seljana.</desc>
 </programme>
 <programme start="20261031200000 +0000" stop="20261031204700 +0000" channel="120">
 <title>Odmrzavanje 3, ep. 1.</title>
@@ -30622,6 +30631,10 @@
 <title>Ogi Radivojević - Zig do ziga</title>
 <desc>Ogi RadivojevićUživajte u hitovima Ogi Radivojevića.</desc>
 </programme>
+<programme start="20261101220800 +0000" stop="20261101221200 +0000" channel="34">
+<title>Nataša Bekvalac - Dobro moje</title>
+<desc>Nataša BekvalacUživajte u popularnim hitovima.</desc>
+</programme>
 <programme start="20261031190100 +0000" stop="20261031212000 +0000" channel="87">
 <title>Beskonačni</title>
 <desc>InfiniteSvakodnevicu Evana McCauleyja (Mark Wahlberg) progone vještine koje nikada nije naučio i sjećanja na mjesta koja nikada nije posjetio. Evana, koji je na rubu živčanog sloma, traži tajna skupina koja se naziva &quot;Beskonačni&quot;, otkrivajući mu da su njegova sjećanja možda stvarna - ali su iz više prošlih života. Beskonačni dovode Evana u njihov neobičan svijet, gdje nekolicina nadarenih dobiva mogućnost ponovnog rođenja sa svojim sjećanjima i znanjem nakupljenim stoljećima. S kritičnim tajnama...</desc>
@@ -32402,6 +32415,10 @@
 <title>Da pređemo na ti</title>
 <desc>One privlače pažnju gledalaca … Poznate ličnosti prikazuju u novom svetlu, na jedan neuobičajen i zabavan način. Obrađuju teme o kojima mnogi ne pričaju, zaviruju u svet mode, muzike, filma. I u ovoj sezoni emisije Da predjemo na ti biće šest rubrika, gost u studiju i dve teme koje su direktno vezane za samog gosta, a novina koju su nam pripremile Ivana i Aleksandra u ovoj zabavnoj emisiji, su prilozi iz inostranstva koji govore tome kako žive naše poznate ličnosti i šta rade u slobodno vreme...</desc>
 </programme>
+<programme start="20261101221000 +0000" stop="20261101225800 +0000" channel="124">
+<title>VIP room</title>
+<desc>Najveća studijska scena ikada napravljena na ovim prostorima, najveći svetlosni park ikada upotrebljen za jedan šou, najveći broj statista u publici! A na sceni najveće zvezde Balkana izvode svoje najnovije numere sa vrhunskom koreografijom. Pored toga, autori su pripremili i niz zanimljvih rubrika. Deo emisije je i Chek IN - igrani program u kojem učestvuju četiri mlade glumice. A na sceni će defilovati i zvanično najlepše devojke beogradskih klubova koje će birati tri najbolja frajera grada.</desc>
+</programme>
 <programme start="20261031193000 +0000" stop="20261031212600 +0000" channel="123">
 <title>Otvoreni studio - World</title>
 <desc>Najnovije vijesti iz zemlje i svijeta, gosti u studiju koji govore o najaktualnijim događanjima kod nas i u svijetu...</desc>
@@ -32457,10 +32474,6 @@
 <programme start="20261101214300 +0000" stop="20261101234500 +0000" channel="123">
 <title>World Otvoreni studio</title>
 <desc>Najnovije vijesti iz zemlje i svijeta, gosti u studiju koji govore o najaktualnijim događanjima kod nas i u svijetu...</desc>
-</programme>
-<programme start="20261031194600 +0000" stop="20261031200600 +0000" channel="461">
-<title>Putovanje kroz Italiju sa Frančeskom</title>
-<desc>An Italian journeyKulinarska emisija o italijanskoj kuhinji.</desc>
 </programme>
 <programme start="20261031200600 +0000" stop="20261031201200 +0000" channel="461">
 <title>Carob masterclass</title>
@@ -32730,13 +32743,9 @@
 <title>Putovanje kroz Italiju sa Frančeskom</title>
 <desc>An Italian journeyKulinarska emisija o italijanskoj kuhinji.</desc>
 </programme>
-<programme start="20261031194500 +0000" stop="20261031200700 +0000" channel="127">
-<title>FW XYZ Premium Fashion Store+Nagrade BG 2014</title>
-<desc>FWFashion Week je događaj u modnoj industriji, koji traje otprilike tjedan dana, gdje modni dizajneri, brendovi ili &quot;kuće&quot; prikazuju svoje najnovije kolekcije na modnim revijama kupcima i medijima. Ovi događaji utječu na nadolazeće modne trendove za tekuću i nadolazeću sezonu. Održavaju se u svjetskim modnim prijestolnicama — kronološkim redom, New Yorku, Londonu, Milanu i Parizu, ili &quot;Velikoj četvorci&quot;, s iznimnim modnim naslijeđem, strukturiranom organizacijom i najpriznatijim modnim...</desc>
-</programme>
-<programme start="20261031200700 +0000" stop="20261031201000 +0000" channel="127">
-<title>FW - Tijana Pavlov - BG 08</title>
-<desc>FWFashion Week je događaj u modnoj industriji, koji traje otprilike tjedan dana, gdje modni dizajneri, brendovi ili &quot;kuće&quot; prikazuju svoje najnovije kolekcije na modnim revijama kupcima i medijima. Ovi događaji utječu na nadolazeće modne trendove za tekuću i nadolazeću sezonu. Održavaju se u svjetskim modnim prijestolnicama — kronološkim redom, New Yorku, Londonu, Milanu i Parizu, ili &quot;Velikoj četvorci&quot;, s iznimnim modnim naslijeđem, strukturiranom organizacijom i najpriznatijim modnim...</desc>
+<programme start="20261101221000 +0000" stop="20261101222000 +0000" channel="461">
+<title>Putovanje kroz Italiju sa Frančeskom</title>
+<desc>An Italian journeyKulinarska emisija o italijanskoj kuhinji.</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031202000 +0000" channel="127">
 <title>FW Draž BG 2014</title>
@@ -33618,6 +33627,14 @@
 <title>Šopingholičarke</title>
 <desc>Šoping holičarkeShopping, to je ono što najviše voli ženski dio populacije! U ovom natjecateljskom reality show programu, s budžetom od 50.000 dinara, za mjesto pobjednika borit će se dvije djevojke ili žene koje će od dobivenog novca morati kupiti kompletan outfit. Natjecateljice će se predstaviti publici i žiriju koji će, osim što će saznati više o njima, moći vidjeti i što sve natjecateljice imaju u svojim ormarima, dok će članovi žirija komentirati odjevne predmete...</desc>
 </programme>
+<programme start="20261101220600 +0000" stop="20261101221000 +0000" channel="127">
+<title>CAP - Ani Ani, SS - ZG 09</title>
+<desc>CAPCro-a-Porter je pokrenut zbog potrebe tržišta za kvalitetnom promocijom domaće mode, a paralelno s tim odvijao se i veliki razvoj hrvatske medijske scene. Mijenjajući se poput mode, ovaj je projekt postavio temelje modne scene u Hrvatskoj i ujedno joj se prilagodio, izrastajući u jedan od vodećih medijskih projekata u Hrvatskoj. Mnogi modni dizajneri, kako odjeće tako i obuće, ovim su projektom zakoračili u modnu javnost i ostali mu vjerni svih ovih godina.</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101221100 +0000" channel="127">
+<title>FVT - Party club Mystic - Novi Sad 2009</title>
+<desc>FVT</desc>
+</programme>
 <programme start="20261031191700 +0000" stop="20261031211800 +0000" channel="460">
 <title>Ami g show</title>
 <desc>Ami G showPrvi late night show u Srbiji! Smijeh do suza... Šarmanti Ognjen Amidžić uvijek uz najaktualnije goste u studiju. Moderan večernji show dovodi najpopularnije osobe iz svih dijelova života, pričaju o onome što javno inače ne spominju. Očekuju ih svakakva iznenađenja i situacije.</desc>
@@ -34218,6 +34235,10 @@
 <title>Marketing</title>
 <desc>Marketing BN Music televizije</desc>
 </programme>
+<programme start="20261101220500 +0000" stop="20261101225500 +0000" channel="142">
+<title>Turbo folk narodna muzika</title>
+<desc>Turbo folkTurbo folk je popularna TV emisija na BN muzičkom kanalu koja donosi najnovije hitove i uzbuđenje iz svijeta turbo folka.</desc>
+</programme>
 <programme start="20261031190000 +0000" stop="20261031201500 +0000" channel="102">
 <title>Emisija Veče sa…</title>
 <desc>Veče sa...Intervjui sa muzičarima.</desc>
@@ -34290,6 +34311,10 @@
 <title>Muzički program SMS CHAT</title>
 <desc>Pošaljite nam SMS-om vaše želje, čestitke i pozdrave.</desc>
 </programme>
+<programme start="20261101221000 +0000" stop="20261101221500 +0000" channel="102">
+<title>Estradne vesti</title>
+<desc>Najnovije vesti sa estrade.</desc>
+</programme>
 <programme start="20261031182000 +0000" stop="20261101000000 +0000" channel="97">
 <title>BALKAN PARTY</title>
 <desc>Balkan PartySelection from the best Balkan hits for your party.</desc>
@@ -34347,10 +34372,6 @@
 <programme start="20261101180000 +0000" stop="20261102000000 +0000" channel="97">
 <title>BALKAN PARTY</title>
 <desc>Balkan PartySelection from the best Balkan hits for your party.</desc>
-</programme>
-<programme start="20261031200000 +0000" stop="20261031200500 +0000" channel="70">
-<title>24 SATA VIJESTI</title>
-<desc>24 sata vijestiInformativna emisija koja donosi novosti iz svijeta glazbe. Uključuje premijere videospotova, najave novih singlova i albuma, intervjue s glazbenicima, reportaže i izvještaje s koncerata i promocija. Prati sve novosti i događanja bez obzira na glazbene žanrove.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031230000 +0000" channel="70">
 <title>CMC Party</title>
@@ -34627,10 +34648,6 @@
 </programme>
 <programme start="20261101203000 +0000" stop="20261101225900 +0000" channel="515">
 <title>Veče uz izvornu muziku</title>
-</programme>
-<programme start="20261031191500 +0000" stop="20261031200500 +0000" channel="493">
-<title>Medicopter 117 - Jedes Leben zählt</title>
-<desc>Beim Moto-Cross überredet Bernd Maurer seine Frau Kathrin zu einem gewagten Sprung, bei dem sie verunglückt. Bernd nimmt ihr den Helm ab und bricht ihr dadurch das Genick. Doch er gibt dem Rettungsteam die Schuld an Kathrins Lähmung.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031210000 +0000" channel="493">
 <title>Medicopter 117 - Jedes Leben zählt</title>
@@ -35139,9 +35156,9 @@
 <title>Naša mala klinika 1, ep. 51.</title>
 <desc>Naša mala klinikaKultna nagrađivana humoristična serija jedna je od najgledanijih u svom žanru i modernoj TV povijesti. Likovi koje je iznjedrila „Naša mala klinika“ nasmijavaju sve generacije pred malim ekranima. Serija na duhovit način govori o zgodama i nezgodama u jednoj vrlo osebujnoj klinici.</desc>
 </programme>
-<programme start="20261031195500 +0000" stop="20261031201000 +0000" channel="180">
-<title>Grizli i plavi glodavci 4, ep. 65.</title>
-<desc>Grizzy et les LemmingsVelik je kao medo, snažan kao medo, pametan… kao medo. Ni jedna se životinja ne suprotstavlja Grizliju. Osim leminga…</desc>
+<programme start="20261101220500 +0000" stop="20261101222500 +0000" channel="71">
+<title>Talking Tom Heroes: Superjunaci 1, ep. 28. ®</title>
+<desc>Talking Tom Heroes: Suddenly SuperČetiri sasvim obična prijatelja u Peak Cityju preko noći postaju superheroji! Sve započne kada Talking Tom,Talking Angela, Talking Ben i Talking Hank naiđu na tajanstveni uređaj koji im daje izvanredne moći, pretvarajući ih u tim neočekivanih heroja!</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031202000 +0000" channel="180">
 <title>Grizli i plavi glodavci 4, ep. 66.</title>
@@ -35651,9 +35668,9 @@
 <title>Zekoslav Mrkva i građevinci 1, ep. 23.</title>
 <desc>Bugs Bunny BuildersZekoslav Mrkva i Zečica Lola u građevinskom poduzeću ACME upravljaju ekipom graditelja koji, ruku na srce, ne bi smjeli biti ni blizu gradilišta.</desc>
 </programme>
-<programme start="20261031194500 +0000" stop="20261031200500 +0000" channel="280">
-<title>Opasne snage 1, ep. 21.</title>
-<desc>Danger ForceRay sazna da je škola ukleta. Ona je dom duhu iz 1920. godine. Kako bi duh prestao opsjedati školu, Opasne snage odluče mu pomoći s njegovim nedovršenim poslom.</desc>
+<programme start="20261101221000 +0000" stop="20261101222000 +0000" channel="180">
+<title>Zekoslav Mrkva i građevinci 1, ep. 24.</title>
+<desc>Bugs Bunny BuildersZekoslav Mrkva i Zečica Lola u građevinskom poduzeću ACME upravljaju ekipom graditelja koji, ruku na srce, ne bi smjeli biti ni blizu gradilišta.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031203000 +0000" channel="280">
 <title>iCarly 1, ep. 14.</title>
@@ -35902,10 +35919,6 @@
 <programme start="20261101215000 +0000" stop="20261101221500 +0000" channel="280">
 <title>Priče o Teenage Mutant Ninja Kornjačama 1, ep. 6.</title>
 <desc>Tales of the Teenage Mutant Ninja TurtlesKroz borbu Kornjače dolaze i do Bishop, ali ona je spremna za njih... vrijeme je za MEHA - BISHOP! No kada se Mehazoidi otmu kontroli, mogu li Kornjače spasiti čovječanstvo?</desc>
-</programme>
-<programme start="20261031182000 +0000" stop="20261031200500 +0000" channel="405">
-<title>LEGO Scooby-Doo i Crni Vitez</title>
-<desc>LEGO Scooby-Doo! Knight Time TerrorThe Scooby Gang go to the grand reopening of Grimsly Mansion and find themselves in a mystery to find a lost treasure.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031201500 +0000" channel="405">
 <title>Gumballov čudesni svijet 4, ep. 29.</title>
@@ -36379,9 +36392,9 @@
 <title>Vrijeme je za avanturu 1, ep. 5.</title>
 <desc>Adventure TimeFinna i Jakea otme Ledeni kralj!</desc>
 </programme>
-<programme start="20261031200300 +0000" stop="20261031200900 +0000" channel="1047">
-<title>Billy Bam Bam, ep. 8.</title>
-<desc>Billy BamBamBilly i Bam Bam zabavljaju se u igraonici ili parku. Tamo uživaju igrajući se zajedno. Ponekad se i prepiru, ali se brzo pomire.</desc>
+<programme start="20261101220500 +0000" stop="20261101222000 +0000" channel="405">
+<title>Vrijeme je za avanturu 1, ep. 6.</title>
+<desc>Adventure TimeKad se ljubazna Surlica pridruži Finnu i Jakeu u plemenitom zadatku i potrazi za kristalnom jabukom, Finn smatra da nema sve odlike junakinje.</desc>
 </programme>
 <programme start="20261031200900 +0000" stop="20261031201200 +0000" channel="1047">
 <title>Mala grupa, ep. 1.</title>
@@ -37939,6 +37952,10 @@
 <title>Zatvori oči, ep. 19.</title>
 <desc>Close Your EyesClose your eyes, sit back, and relax. It’s time to go to bed.</desc>
 </programme>
+<programme start="20261101220700 +0000" stop="20261101221100 +0000" channel="1047">
+<title>Zatvori oči, ep. 20.</title>
+<desc>Close Your EyesClose your eyes, sit back, and relax. It’s time to go to bed.</desc>
+</programme>
 <programme start="20261031191500 +0000" stop="20261031211000 +0000" channel="106">
 <title>Maskenbal</title>
 <desc>Emisija u kojoj mališani mogu biti sve što požele! Oni su toga naravno i svjesni i zato i učestvuju u ovoj odličnoj dvosatnoj zabavi za sve uzraste!</desc>
@@ -38310,6 +38327,10 @@
 <programme start="20261101214000 +0000" stop="20261101221000 +0000" channel="106">
 <title>Hayatovci</title>
 <desc>Ovo je emisija uz koju su odrastale generacije mališana. Hayatovac, Lela, Lilo, ali i Lina Malina i Dodi vode vas u uzbudljivi svijet Hayatovaca, Mnogo spoznaja, zabave, super gostiju, u omiljenoj dječijoj emisji ikada - HAYATOVCI!</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101223500 +0000" channel="106">
+<title>Moj ljubimac</title>
+<desc>„Moj ljubimac“ je emisija edukativno zabavnog karaktera i želi predstaviti ljubimce kao ravnopravne članove porodice, te educirati vlasnike o pravilnom držanju i njezi životinja. Sagovornici su veterinari, groomeri, treneri pasa, psiholozi i ostali experti vezani uz životinje</desc>
 </programme>
 <programme start="20261031191500 +0000" stop="20261031222500 +0000" channel="1094">
 <title>Klein gegen Groß - Das unglaubliche Duell</title>
@@ -40981,6 +41002,10 @@
 <title>Rosamunde Pilcher: Herzensfragen</title>
 <desc>Die junge Witwe Lady Nicole Sherberton kümmert sich seit dem Tod ihres Mannes um ihre liebenswerte, aber eigenwillige Schwiegermutter. Es wird allgemein erwartet, dass Captain Gregory Armitage, der beste Freund von Lady Nics verstorbenem Mann, nach Ablauf des Trauerjahres um ihre Hand anhalten wird. Doch dann verliebt sie sich in den neuen Chauffeur und ehemaligen Marine-Offizier Duncan Fraser. Das gefällt ihrer Schwiegermutter überhaupt nicht.</desc>
 </programme>
+<programme start="20261101221000 +0000" stop="20261101225500 +0000" channel="954">
+<title>Klimawechsel</title>
+<desc>Désirée Disches Kunst wird mal wieder von einem Galeristen abgelehnt. Als ihr Freund Ronnie ihr den gemeinsamen Sohn Lakshmi zum Stillen ins Lehrerzimmer bringt, nutzt er die Gelegenheit, um bei ihren Kolleginnen für seinen Hormon-Yoga-Kurs zu werben. Bei Beate Busch springt prompt der Funke über. Sportlehrer Kurt Arndt bringt seine Frau Angelika in eine peinliche Situation. Der Einzige, von dem Angelika sich verstanden fühlt, ist ihr türkischstämmiger Kollege Fatih.</desc>
+</programme>
 <programme start="20261031191500 +0000" stop="20261031201449 +0000" channel="167">
 <title>Notaufnahme: Samstagnacht</title>
 <desc>Der Rettungsdienst hat in Berlin einen Betrunkenen auf einem Supermarktparkplatz aufgelesen. Der Mann spricht nur Russisch und sein Zustand verschlechtert sich zusehends. Im Bundeswehrkrankenhaus droht ein multiples Organversagen.</desc>
@@ -41080,10 +41105,6 @@
 <programme start="20261101211518 +0000" stop="20261101221524 +0000" channel="167">
 <title>In the Eye of the Storm: Chasers</title>
 <desc>In South Dakota, nahe der Kleinstadt Gary, haben Sturmjäger einen spektakulären Tornado im Visier. Der Wirbelsturm verändert ständig seine Form und lässt sich kilometerweit verfolgen.</desc>
-</programme>
-<programme start="20261031191500 +0000" stop="20261031201000 +0000" channel="1216">
-<title>Black Panthers</title>
-<desc>Im Jahr 1966 treibt Polizeigewalt Aktivisten zur bewaffneten Selbstverteidigung gegen Unterdrückung.</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031210500 +0000" channel="1216">
 <title>Black Panthers</title>
@@ -41777,6 +41798,10 @@
 <title>Mein Leben mit 300 kg: Das Wiedersehen</title>
 <desc>Angel hat extrem abgenommen, doch sie leidet nun unter starken Knieschmerzen, die ihr Leben sehr einschränken. Sie benötigt sogar eine Rundumversorgung. Doch eine Knie-OP kann erst vorgenommen werden, wenn Angel unter 90 Kilo wiegt.</desc>
 </programme>
+<programme start="20261101220744 +0000" stop="20261101230757 +0000" channel="472">
+<title>My Strange Addiction</title>
+<desc>Tyler liebt Thunfisch so sehr, dass er seit fünf Jahren süchtig nach dem Geruch und Geschmack der Fischkonserven ist. Der Junggeselle verlässt nie das Haus ohne eine Konserve in der Tasche. Auch beim Date bringt Tyler seiner Angebeteten ein Geschenk mit - wird diese deshalb die Flucht ergreifen?</desc>
+</programme>
 <programme start="20261031191500 +0000" stop="20261031211000 +0000" channel="1206">
 <title>Geostorm</title>
 <desc>USA ║ 2017USA ║ 2017</desc>
@@ -41916,10 +41941,6 @@
 <programme start="20261101205000 +0000" stop="20261101223000 +0000" channel="1206">
 <title>Die Wand (Director&apos;s Cut)</title>
 <desc>D ║ 2026D ║ 2026</desc>
-</programme>
-<programme start="20261031200000 +0000" stop="20261031200500 +0000" channel="155">
-<title>Nachrichten</title>
-<desc>ntv informiert über die aktuellen Top-Themen des Tages. Die Nachrichten zeigt die wichtigsten Entwicklungen in der Welt, liefern Hintergründe und Einschätzungen von Politikern und Experten und fassen zusammen, was die Menschen bewegt.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031210000 +0000" channel="155">
 <title>Lost Places - Mysteriöse Inseln</title>
@@ -42252,6 +42273,10 @@
 <programme start="20261101213000 +0000" stop="20261101221000 +0000" channel="420">
 <title>Ako voliš 1, ep. 33.</title>
 <desc>Ya Çok SeversenNakon majčine smrti Ates (Kerem Bursin) poslan je u internat iz kojeg se nikada nije vratio kući jer tamo nikome ne vjeruje. U isto vrijeme, Leyla (Hafsanur Sancaktutan) nikada nije upoznala svoju obitelj i preživljava varajući ljude. Što će se dogoditi kada se njihovi putevi sretnu? Nakon očeve smrti Ates se vraća kući iz inozemstva kako bi preuzeo skrbništvo nad svojom braćom i sestrama. Tada upoznaje Leylu koja traži svoju obitelj. Njih dvoje, svatko s vlastitim teretom prošlosti,...</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101225500 +0000" channel="420">
+<title>Tri sestre 2, ep. 19. ®</title>
+<desc>Üç Kiz KardesJednom davno u prekrasnoj zemlji živjele su sestre Türkan (Özgü Kaya), Dönüş (Almila Ada) i Derya (Melisa Berberoğlu) s ocem Sadıkom (Reha Özcan) i majkom Nesrin (Iclal Aydin). Bila je to skladna i bliska obitelj. Nesrin (Iclal Aydin) i Sadik (Reha Ozcan) bili su u braku 25 godina. Bio je to sretan život u malom gradu na obali Egejskog mora. No tako bajkovito djetinjstvo nije ih pripremilo na tmurnu realnost, koja ih je čekala iza ugla s odrastanjem.</desc>
 </programme>
 <programme start="20261031191500 +0000" stop="20261031201500 +0000" channel="156">
 <title>Ulrich Tukur &amp;amp; Die Rhythmus Boys</title>
@@ -42791,10 +42816,6 @@
 <programme start="20261101205500 +0000" stop="20261101224000 +0000" channel="157">
 <title>A Christmas Post - Die vergessenen Weihnachtswünsche</title>
 <desc>In Oak Creek entdeckt Noah Harrington bei Bauarbeiten alte Briefe an den Weihnachtsmann. Gemeinsam mit der Historikerin Tessa Findlay versucht er, die Weihnachtswünsche zu erfüllen, was zu einer unerwarteten Romanze führt.</desc>
-</programme>
-<programme start="20261031194047 +0000" stop="20261031200631 +0000" channel="169">
-<title>Futurama</title>
-<desc>Fry bringt einen Achtziger-Jahre-Yuppie zur Firma, der Professor Farnsworths Chefsessel übernimmt. Anfangs sind die Mitarbeiter empört, doch der Wert der Firma steigt so hoch, dass das Team zu potenziellen Millionären wird.</desc>
 </programme>
 <programme start="20261031200631 +0000" stop="20261031204252 +0000" channel="169">
 <title>Little Britain</title>
@@ -43474,10 +43495,6 @@
 <programme start="20261101213453 +0000" stop="20261101231004 +0000" channel="477">
 <title>Baba Yaga</title>
 <desc>Baba Yaga</desc>
-</programme>
-<programme start="20261031190843 +0000" stop="20261031200506 +0000" channel="964">
-<title>War</title>
-<desc>Das Schiedsverfahren wird fortgesetzt. Beide Parteien sollen sich auf eine Summe einigen, die Carla erhalten soll. Doch die Vorstellungen liegen sehr weit auseinander.</desc>
 </programme>
 <programme start="20261031200506 +0000" stop="20261031210404 +0000" channel="964">
 <title>His Dark Materials</title>
@@ -46711,10 +46728,6 @@
 <title>Meet, Marry, Murder - Tödliche Ehe</title>
 <desc>Als Dan erschossen aufgefunden wurde, empfinden Freunde und Ermittler gleichermaßen Mitgefühl für die trauernde Ehefrau. Sie ist durch den Verlust ihres Partners, mit dem sie 25 Jahre lang zusammen gewesen war, am Boden zerstört. Doch dieses Mitgefühl weicht bald dem Verdacht, als eine Spur von Beweisen direkt auf Nancy hinzudeuten beginnt.</desc>
 </programme>
-<programme start="20261031194300 +0000" stop="20261031201000 +0000" channel="1377">
-<title>Danger Force</title>
-<desc>JeugdserieCaptain Man heeft een nieuwe groep superhelden hulpjes; Danger Force. Captain Man en Schwoz maken een nepschool om de kinderen op te leiden om hun onbedwingbare superkrachten om de misdaad te bestrijden.</desc>
-</programme>
 <programme start="20261031201000 +0000" stop="20261031203500 +0000" channel="1377">
 <title>iCarly</title>
 <desc>JeugdserieTiener Carly maakt haar eigen internetshow, samen met haar drie vrienden Freddy, Sam en Gibby. De show wordt uitgezonden vanuit een zelf gebouwde studio in het appartement waar zij samen met haar 29-jarige broer en voogd Spencer woont. Ook al maakt Carly een populaire internetshow, ze is niet op zoek naar bekendheid en roem. Graag wil zij een voorbeeld zijn voor kinderen en tieners. De show groeit uit tot een prominente internetshow, gevuld met grappige sketches, opmerkelijke recepten, talenten, creatieve probleem-oplossingen en te gekke dansen.</desc>
@@ -47555,10 +47568,6 @@
 <title>Candyman</title>
 <desc>Film, Horror ║ AU ║ 2021 ║ 16Anthony is een kunstenaar die samen met zijn vriendin in het gegentrificeerde Cabrini in Chicago woont. Hij ontmoet de veteraan die hem een legende van Candyman vertelt. Candyman is een moordenaar die verschijnt als je zijn naam vijf keer voor een spiegel uitspreekt. Anthony wil dit verhaal gebruiken voor een kunstproject, maar door dieper in het verleden te duiken krijgt zijn onderzoek een gewelddadige keerzijde, en brengt hij zijn eigen mentale gezondheid in gevaar.Nia DaCostaYahya Abdul-Mateen IITeyonah ParrisNathan Stewart-JarrettColman DomingoKyle KaminskyVanessa WilliamsTony ToddBrian KingMiriam MossRebecca Spence.</desc>
 </programme>
-<programme start="20261031190000 +0000" stop="20261031200600 +0000" channel="917">
-<title>The Grand Tour</title>
-<desc>S5E1 ║ A Scandi Flick ║ Auto&apos;s, Entertainment ║ GB ║ 2022 ║ 9Jeremy, Richard en James gaan naar de Scandinavische poolcirkel. De jongens rijden in rallyauto&apos;s en gaan op een avontuur vol catastrofes, waarbij ze onderzeeërbases uit de Koude Oorlog, bevroren racebanen op een meer en chaos in skiresorts bezoeken.Phil ChurchwardJeremy ClarksonRichard HammondJames May.</desc>
-</programme>
 <programme start="20261031200600 +0000" stop="20261031214800 +0000" channel="917">
 <title>Top Gear</title>
 <desc>S14E6 ║ Bolivia Special ║ Auto&apos;s, Komedie ║ GB ║ 2009Hammond, May en Clarkson rijden vanuit het Boliviaanse regenwoud naar de grens met Chili.Nigel SimpkissJeremy ClarksonRichard HammondJames MayThe Stig.</desc>
@@ -47839,9 +47848,6 @@
 <title>FBI: Most Wanted</title>
 <desc>S6E14 ║ 100% ║ Misdaaddrama, Actie ║ US ║ 2024 ║ 12De Fugitive Task Force van de FBI heeft als taak beruchte misdadigers die op de FBI lijst van gezochte criminelen staan op te sporen. De doorgewinterde agent Jess LaCroix leidt het getalenteerde team dat fungeert als een mobiele undercovereenheid.Ken GirottiDylan McDermottRoxy SternbergKeisha Castle-HughesEdwin HodgeShantel VanSanten.</desc>
 </programme>
-<programme start="20261031194000 +0000" stop="20261031200700 +0000" channel="910">
-<title>Planet 18</title>
-</programme>
 <programme start="20261031200700 +0000" stop="20261101005300 +0000" channel="910">
 <title>Mati!</title>
 </programme>
@@ -48001,10 +48007,6 @@
 <programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="1109">
 <title>Trofee Veldrijden ║ Oudenaarde</title>
 <desc>Veldrijden ║ VrouwenVerslag van de Koppenbergcross in Oudenaarde, die al sinds 1999 op 1 november wordt verreden.</desc>
-</programme>
-<programme start="20261031194000 +0000" stop="20261031200600 +0000" channel="62">
-<title>Link (Svetolik Mitić)-Mir braćo,mir</title>
-<desc>Link</desc>
 </programme>
 <programme start="20261031200600 +0000" stop="20261031202500 +0000" channel="62">
 <title>Trezor-TV kritičar,majstor na više tabli</title>
@@ -48213,6 +48215,10 @@
 <programme start="20261101210000 +0000" stop="20261101220800 +0000" channel="62">
 <title>Vreme televizije-Kontakt program</title>
 <desc>Vreme televizije&quot;Vreme televizije&quot;, dokumentarni serijal Redakcije trezora RTS-a, čiji je autor Bojana Andrić. Serijal, koji je prvobitno emitovan u preko stotinu epizoda, na detaljan i analitičan način istražuje istoriju, razvoj i uticaj televizije kao medija i kulturnog fenomena na ovim prostorima. Kroz obiman arhivski materijal i svedočenja ključnih aktera, serijal daje hronološki presek rada Televizije Beograd i RTS-a, obuhvatajući sve segmente programa – od Dramskog, Muzičkog i Obrazovnog programa do...</desc>
+</programme>
+<programme start="20261101220800 +0000" stop="20261101225100 +0000" channel="62">
+<title>Astor Pjacola u Beogradu</title>
+<desc>Veliki majstor tanga i vrhunski inovator ovog žanra, Astor Pjacola, ovu igru je „ukrao&quot; od umornih plesača, pospanih bandoneonista i nostalgičnih parodista i poveo je na svetsku turneju, kroz hrabru odiseju eksperimentisanja i oživljavanja. U duhovnom smislu, Pjacola je tango vratio u Arabal, graničnu zonu u kojoj se Buenos Ajres gubi u pampasima i gde su u sudaru evropske, afričke i kreolske kulture stvoreni tango i milonge.</desc>
 </programme>
 <programme start="20261031200200 +0000" stop="20261031213200 +0000" channel="953">
 <title>Die 30 schönsten Berliner U-Bahnhöfe</title>
@@ -48456,10 +48462,6 @@
 </programme>
 <programme start="20261101220000 +0000" stop="20261101235025 +0000" channel="828">
 <title>Mayday</title>
-<desc>A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family&apos;s valuables, and she is all that stands between them and their lives.</desc>
-</programme>
-<programme start="20261031180000 +0000" stop="20261031201008 +0000" channel="829">
-<title>Practical Magic 2</title>
 <desc>A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family&apos;s valuables, and she is all that stands between them and their lives.</desc>
 </programme>
 <programme start="20261031200000 +0000" stop="20261031221008 +0000" channel="829">
@@ -50070,10 +50072,6 @@
 <title>House of Trump: Epstein Story</title>
 <desc>2026 ║ IT</desc>
 </programme>
-<programme start="20261031183500 +0000" stop="20261031201000 +0000" channel="1063">
-<title>Gli infedeli</title>
-<desc>FILM COMMEDIA - Italia, terzo millennio. Cinque episodi sulla vita amorosa dei maschi italiani: bugie, tradimenti e peripezie, alla ricerca della passione. Remake de &quot;Gli infedeli&quot; (2012).. di Stefano Mordini con Riccardo Scamarcio, Valerio Mastandrea, Massimiliano Gallo, Laura Chiatti 2020 ITA - PROGRAMMA ADATTO AL SOLO PUBBLICO ADULTO.</desc>
-</programme>
 <programme start="20261031201000 +0000" stop="20261031232500 +0000" channel="1063">
 <title>Il Gattopardo</title>
 <desc>FILM DRAMMATICO - Sicilia, 1860. Il nobile Don Fabrizio affronta la realtà dell&apos;Italia unita. Dal romanzo di Tomasi di Lampedusa. Palma d&apos;Oro 1963. Un David e due Grolle d&apos;Oro 1963. Tre Nastri d&apos;Argento 1964. Versione restaurata.. di Luchino Visconti con Burt Lancaster, Claudia Cardinale, Alain Delon 1963 ITA.</desc>
@@ -50137,10 +50135,6 @@
 <programme start="20261101215500 +0000" stop="20261102000000 +0000" channel="1063">
 <title>Khartoum</title>
 <desc>FILM GUERRA - Nordafrica, 1883. Il generale inglese Gordon viene inviato in Sudan per difendere la città di Khartoum dall&apos;invasione dell&apos;esercito musulmano, guidato dal leader messianico Muhammad Ahmed. Una candidatura agli Oscar 1967.. di Basil Dearden con Charlton Heston, Laurence Oliver 1966 GBR.</desc>
-</programme>
-<programme start="20261031194400 +0000" stop="20261031201000 +0000" channel="1064">
-<title>I simpson</title>
-<desc>S13 Ep22 Il nuovo distintivo di papa&apos; A Springfield c&apos;e&apos; un&apos;ondata di caldo soffocante e la centrale elettrica e&apos; sotto sforzo per l&apos;eccessivo uso di condizionatori d&apos;aria. Ad Homer viene la geniale idea di dare alla famiglia un senso di frescura psicologica attivando un Babbo Natale elettronico che causa un blackout in tutta la citta&apos;. Questo da&apos; origine a saccheggi e tumulti. Rientrata l&apos;emergenza elettica, la cittadinanza lamenta la passivita&apos; della forza di polizia. A Homer viene l&apos;idea di creare un servizio privato di vigilanza che in seguito sostituira&apos; la polizia vera e propria. Papa&apos; Simpson arresta il capo mafia Tony Ciccone e la sua gang, ma una volta rimessi in liberta&apos; questi minacciano di morte il neo vigilante. Homer chiede aiuto alla cittadinanza ma tutti rispondono &quot;picche&quot; e deluso affronta i suoi assassini da solo; sul piu&apos; bello viene pero&apos; inaspettatamente salvato da &quot;un angelo custode&quot;..</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031221500 +0000" channel="1064">
 <title>Hallowevm14</title>
@@ -50485,6 +50479,10 @@
 <title>Maigret e la finestra aperta</title>
 <desc>Regia di P. Granier Deferre; FRA 2001 Il commissario Maigret, accompagnato dall&apos;ispettore Lachenal, si reca nell&apos;ufficio di Oscar Laget, un finanziere disonesto, per arrestarlo. Ma arrivati sul luogo trovano Laget apparentemente suicida. Questa morte insospettisce immediatamente il commissario; dopotutto Laget con un buon avvocato avrebbe potuto sfuggire ad una pesante pena. Da qui la convinzione che si tratti di un omicidio camuffato.</desc>
 </programme>
+<programme start="20261101221000 +0000" stop="20261101234000 +0000" channel="1069">
+<title>Poirot e la strage degli innocenti</title>
+<desc>Regia di C. Palmer; GBR 2011 Ariadne Oliver, un&apos;amica di Poirot, partecipa alla festa di Halloween in un villaggio di campagna, durante la quale una ragazza racconta ai presenti di come le capito&apos; di essere testimone casuale di un omicidio, diversi anni addietro. La sera stessa, la giovane viene ritrovata priva di vita, annegata in un barile d&apos;acqua. Su richiesta di Ariadne, il celebre ispettore giunge al villaggio per indagare. Con David Suchet.</desc>
+</programme>
 <programme start="20261031200000 +0000" stop="20261031220000 +0000" channel="1542">
 <title>Lega Pallavolo Serie A Femminile: Reale Mutua Fenera Chieri 76 - Laica Cioccolato UYBA Busto Arsizio</title>
 <desc>2026Dal PalaFenera di Chieri, Italia.</desc>
@@ -50568,9 +50566,6 @@
 <programme start="20261101215000 +0000" stop="20261101224000 +0000" channel="1542">
 <title>Giochi Olimpici Giovanili 2026: 1a giornata</title>
 <desc>2026Da Dakar, Senegal.</desc>
-</programme>
-<programme start="20261031194500 +0000" stop="20261031200500 +0000" channel="1058">
-<title>Adventure Time</title>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031203000 +0000" channel="1058">
 <title>Captain Tsubasa</title>
@@ -50876,6 +50871,9 @@
 <title>Lo straordinario mondo di Gumball</title>
 </programme>
 <programme start="20261101215500 +0000" stop="20261101220500 +0000" channel="1058">
+<title>Lo straordinario mondo di Gumball</title>
+</programme>
+<programme start="20261101220500 +0000" stop="20261101222000 +0000" channel="1058">
 <title>Lo straordinario mondo di Gumball</title>
 </programme>
 <programme start="20261031200000 +0000" stop="20261031201500 +0000" channel="1059">
@@ -51409,6 +51407,10 @@
 <programme start="20261101215000 +0000" stop="20261101220500 +0000" channel="1059">
 <title>Dino Ranch</title>
 <desc>Cambio di programma ║ 2022 ║ 0+ ║ CARomper è nervosa perché suo fratello Stomper è di nuovo scappato dal Ranch. Jon parte alla sua ricerca, ma è così desideroso di fare un buon lavoro che non riesce a capire che un dinosauro ha bisogno del suo aiuto.Ava Ro Scott Gorman Athena Karkanis Jacob Mazeral Tyler James Nathan Deven Christian Mack Jayd Deroché.</desc>
+</programme>
+<programme start="20261101220500 +0000" stop="20261101221500 +0000" channel="1059">
+<title>Dino Ranch</title>
+<desc>Il ponte di Miguel ║ 2022 ║ 0+ ║ CAI Dino Rancher costruiscono un ponte per permettere ai dinosauri di attraversare la Gola del Ruggito, ma Zampa Tonante continua a distruggerlo per aiutare alcuni dinosauri selvaggi.Ava Ro Scott Gorman Athena Karkanis Jacob Mazeral Tyler James Nathan Deven Christian Mack Jayd Deroché.</desc>
 </programme>
 <programme start="20261031191500 +0000" stop="20261031205000 +0000" channel="1792">
 <title>Haben Sie das von den Morgans gehört?</title>
@@ -52654,6 +52656,10 @@
 <title>Pozorište u kući, ep. 26.</title>
 <desc>Pozorište u kućiTelevizijska serija iz 2007. godine, rimejk istoimene serije iz 1972. godine.Serija prati život porodice Petrović koju čine-Rodoljub, Olga, njihov sin Borko, tašta Snežana Nikolajević i kućna pomoćnica Tina. Pored njih, neizbežne likove čine: Vasa S.Tajčić, kućni prijatelj, Majka Vuka, Rođina majka, Čeda Mungos, hauzmajstor, Rajka, Čedina žena, Klativoda, pozornik, Brkić, Rođin kolega, Ana Šumović, Snežanina prijateljica iz mladosti.U seriji igraju Dragan Bjelogrlić, Nataša Šolak, Tanja...</desc>
 </programme>
+<programme start="20261101220700 +0000" stop="20261101230000 +0000" channel="1437">
+<title>Pet, ep. 11.</title>
+<desc>PetRegionalna serija Pet prati pet prijateljica iz djetinjstva koje neplanirano postaju središnja figura u sukobu zločinačkih klanova, što dovodi do dramatične preobrazbe njihovih života. Serija Pet prati njihovu neočekivanu ulogu u kriminalnom podzemlju, gdje njihova odanost i intuicija dolaze do izražaja pretvarajući ih u nepredvidive i opasne protivnike. Svaka epizoda serije Pet ne samo da istražuje dinamiku njihovog prijateljstva pod pritiskom ekstremnih okolnosti, već prikazuje i kako se...</desc>
+</programme>
 <programme start="20261031195551 +0000" stop="20261031204151 +0000" channel="1708">
 <title>Grbavica 1</title>
 <desc>Grbavica 1</desc>
@@ -52721,6 +52727,10 @@
 <programme start="20261101204014 +0000" stop="20261101220821 +0000" channel="1708">
 <title>Sekula i Njegove Zene</title>
 <desc>Sekula i Njegove Zene</desc>
+</programme>
+<programme start="20261101220821 +0000" stop="20261101234223 +0000" channel="1708">
+<title>Tesko je biti fin 2007</title>
+<desc>Tesko je biti fin 2007</desc>
 </programme>
 <programme start="20261031200011 +0000" stop="20261031202438 +0000" channel="1204">
 <title>Ghosts</title>
@@ -53757,6 +53767,10 @@
 <programme start="20261101203500 +0000" stop="20261101221000 +0000" channel="1357">
 <title>Midnight in Paris</title>
 <desc>Film, Romantische Komedie ║ US ║ 2011 ║ 12Gil reist samen met zijn verloofde Inez mee naar Parijs op een zakenreis van haar ouders. Gil is een succesvolle scenarist in Hollywood, maar hij worstelt met zijn eerste roman. Hij wordt verliefd op Parijs en `de gouden jaren 20&apos;.Woody AllenOwen WilsonRachel McAdamsMarion CotillardMichael SheenKathy BatesAdrien BrodyLéa SeydouxNina AriandaCarla BruniKurt Fuller.</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101235000 +0000" channel="1357">
+<title>Young Hearts</title>
+<desc>Drama, Film ║ BE ║ 2024 ║ 6De veertienjarige Elias ontwikkelt gevoelens voor zijn nieuwe buurjongen Alexander. Hij realiseert zich al snel dat hij voor het eerst verliefd wordt, maar wil niet &apos;anders&apos; zijn. De worsteling met zichzelf brengt hem van de ene emotie in de andere.Anthony SchattemanLou GoossensMarius De SaegerGeert van RampelbergEmilie De RooDirk Van DijckSaar RogiersEzra Van DongenJul Goossens.</desc>
 </programme>
 <programme start="20261031195817 +0000" stop="20261031201231 +0000" channel="962">
 <title>Grizzy und die Lemminge</title>
@@ -55188,6 +55202,10 @@
 <title>Turistički puls ®</title>
 <desc>Turistički pulsDinamični informativni magazin koji prati aktuelne trendove, manifestacije i skrivene destinacije širom zemlje i svijeta.</desc>
 </programme>
+<programme start="20261101221000 +0000" stop="20261101230000 +0000" channel="1739">
+<title>Agrosaznanje ®</title>
+<desc>AgrosaznanjeEmisija o selu i poljoprivredi. Afirmativo, ali i problemski pratimo dešavanja u agroprivredi. Govorimo o mjerama države za razvoj poljoprivrede, kreditnim linijama za poljoprivrednike, mogućnostima njihovog udruživanja, te problemima...Emisija je na programu nedjeljom, od 12:05 sati na TVCG 1.</desc>
+</programme>
 <programme start="20261031184722 +0000" stop="20261031202008 +0000" channel="1337">
 <title>June and John</title>
 <desc>June and John</desc>
@@ -55459,10 +55477,6 @@
 <programme start="20261101212000 +0000" stop="20261101235500 +0000" channel="1385">
 <title>Captain Phillips</title>
 <desc>USA ║ 2013Die spektakuläre Geschichte einer Schiffsentführung nach wahren Begebenheiten: Kapitän Phillips muss mit seinem Containerschiff von Oman nach Kenia fahren. Es handelt sich um eine äußerst gefährliche Route, da es am Horn von Afrika nur so von somalischen Piraten wimmelt. Deshalb lässt Phillips seine Crew für den Ernstfall trainieren. Als dieser schließlich eintritt, ist die Besatzung nicht so wehrlos, wie es sich die Piraten erhofft haben ..Paul GreengrassTom HanksCatherine KeenerMichael ChernusDavid WarshofskyBarkhad AbdiBarkhad AbdirahmanFaysal AhmedMahat M AliCorey JohnsonChris MulkeyYul VazquezOmar BerdouniMohamed AliIssak Farah SamatarRoger EdwardsMax MartiniThomas GrubeMark HoldenSan ShellaTerence AndersonMarc AnwarDavid WebberAmr El-BayoumiVincenzo NicoliKapil ArunLouis MahoneyPeter LandiAngus MacInnesIan RalphKristian Hjordt Beck.</desc>
-</programme>
-<programme start="20261031191500 +0000" stop="20261031201000 +0000" channel="168">
-<title>Schwertransport ins Museum - U17 auf letzter Fahrt</title>
-<desc>Mehr als 30 Jahre standen sie im Dienst, die U-Boote der Klasse 206 und der optimierten Version 206 A. Die damalige Bundesmarine übernahm sie Anfang der 1970er Jahre zum Zweck der Aufklärung, Überwachung oder Abriegelung der Ostsee im Bündnisfall.</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031210500 +0000" channel="168">
 <title>Die deutsche Marine - Technik, Einsatz, Geschichte</title>
@@ -56401,10 +56415,6 @@
 <programme start="20261101204000 +0000" stop="20261101222000 +0000" channel="1386">
 <title>Leto</title>
 <desc>Ova umirujuća i meditativna drama snimljena je prema istoimenom romanu finsko - švedskog autora Tove Jansona. Film prati mladu Sofiju koja, zajedno sa svojim ožalošćenim ocem, nakon smrti majke,...</desc>
-</programme>
-<programme start="20261031181649 +0000" stop="20261031200949 +0000" channel="1609">
-<title>Final Score</title>
-<desc>Final Score ║ Film, AzioneUn gruppo di terroristi prende d&apos;assalto uno stadio di Londra occupato da 35 mila persone. L&apos;ex soldato Michael Knox dovra&apos; sventare l&apos;attentato. Regia di S. Mann; GBR 2018.</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031215800 +0000" channel="1609">
 <title>Into the Sun</title>
@@ -58120,9 +58130,9 @@
 <title>Mali leteći medvjedi</title>
 <desc>The Little Flying BearsMali leteći medvjedići žive u šumi ugroženoj nemarom i pohlepom „ljudotinja“ te njihovih imitatora u životinjskom svijetu, smetlišnih lasica Smradca i Smucala. Medvjedići uz nježno vodstvo medvjeda Platona organiziraju otpor i redovito pobjeđuju. Ekološke teme svake epizode omogućuju djeci da postanu svjesna važnosti zaštite okoliša, a uz to roditeljima se pruža prilika s djecom raspraviti o tim temama i ohrabriti ih na aktivnu podršku za čistiji i zdraviji svijet oko nas.</desc>
 </programme>
-<programme start="20261031194000 +0000" stop="20261031200500 +0000" channel="1489">
-<title>The Big Bang Theory</title>
-<desc>Der Stelzen-Traum ║ USA ║ 2017Leonard und Sheldon sind brillante Physiker, die meist zusammen mit ihren Kumpels Howard und Rajesh in ihrem gemeinsamen Apartment abhängen und - natürlich nach einem festgelegten Plan - ihre Videogames pflegen. Einzig und allein Penny, die neue Nachbarin, schafft es hin und wieder, für Abwechslung zu sorgen. Sie hat zwar keine Ahnung von Physik, doch kennt sie die Welt da draußen - etwas, was den Physikern vollkommen fremd zu sein scheint ..Mark CendrowskiJohnny GaleckiJim ParsonsSimon HelbergKunal NayyarKaley CuocoMayim BialikMelissa RauchBrian Smith.</desc>
+<programme start="20261101220500 +0000" stop="20261101223000 +0000" channel="1663">
+<title>Mali leteći medvjedi</title>
+<desc>The Little Flying BearsMali leteći medvjedići žive u šumi ugroženoj nemarom i pohlepom „ljudotinja“ te njihovih imitatora u životinjskom svijetu, smetlišnih lasica Smradca i Smucala. Medvjedići uz nježno vodstvo medvjeda Platona organiziraju otpor i redovito pobjeđuju. Ekološke teme svake epizode omogućuju djeci da postanu svjesna važnosti zaštite okoliša, a uz to roditeljima se pruža prilika s djecom raspraviti o tim temama i ohrabriti ih na aktivnu podršku za čistiji i zdraviji svijet oko nas.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031203000 +0000" channel="1489">
 <title>The Big Bang Theory</title>
@@ -59434,7 +59444,7 @@
 <title>UŽIVO: LaLiga 26/27: Athletic Bilbao - Real Sociedad</title>
 <desc>LaLiga je najviši rang španjolskog muškog profesionalnog klupskog nogometa, osnovan 1929. godine. Okuplja 20 klubova iz cijele Španjolske, uključujući međunarodno poznate momčadi poput Real Madrida, Barcelone i Atlético de Madrida. Natjecanje se igra dvokružnim ligaškim sustavom, u kojem svaki klub sa svakim protivnikom igra kod kuće i u gostima, odnosno ukupno 38 utakmica tijekom sezone. Momčad koja osvoji najviše bodova postaje prvak Španjolske, a konačni poredak određuje mjesta koja vode u...</desc>
 </programme>
-<programme start="20261031192500 +0000" stop="20261031201000 +0000" channel="471">
+<programme start="20261101221000 +0000" stop="20261101224500 +0000" channel="58">
 <title>All In - Bundesliga Highlights Show 26/27: 8. Spieltag</title>
 <desc>All In - Bundesliga Highlights Show 26/27Izvještaji sa svih utakmica u kolu elitne njemačke nogometne lige - Prve Bundeslige, intervjui s trenerima i nogometašima.</desc>
 </programme>
@@ -59500,6 +59510,10 @@
 </programme>
 <programme start="20261101214500 +0000" stop="20261101221000 +0000" channel="471">
 <title>Let’s go Ballin’: Episode 1</title>
+<desc>Let’s go Ballin’&quot;Let’s Go Ballin’&quot; is an exclusive docu-series on DAZN that focuses on the growth and success of women’s basketball in Germany. The show takes a close look at players, local leagues, and teams like ALBA Berlin, exploring how the sport is changing and preparing for the upcoming World Cup.</desc>
+</programme>
+<programme start="20261101221000 +0000" stop="20261101223500 +0000" channel="471">
+<title>Let’s go Ballin’: Episode 2</title>
 <desc>Let’s go Ballin’&quot;Let’s Go Ballin’&quot; is an exclusive docu-series on DAZN that focuses on the growth and success of women’s basketball in Germany. The show takes a close look at players, local leagues, and teams like ALBA Berlin, exploring how the sport is changing and preparing for the upcoming World Cup.</desc>
 </programme>
 <programme start="20261031190000 +0000" stop="20261031211500 +0000" channel="1834">
@@ -59929,9 +59943,9 @@
 <title>Zrcalo tedna ®</title>
 <desc>Zrcalo tednaRedna tedenska oddaja Zunanjepolitične redakcije, ki gledalcu ponuja pregled dogajanj po svetu v politiki, gospodarstvu in kulturi, ustvarjajo pa jo novinarke in novinarji Zunanjepolitične redakcije. Zrcalo vedno zrcali podobo sveta: tragično, veselo, zabavno.</desc>
 </programme>
-<programme start="20261031190000 +0000" stop="20261031200500 +0000" channel="1902">
-<title>Elizabeth: Fashioning a Monarch ®</title>
-<desc>Elizabeth: Fashioning a MonarchFiona Bruce looks at the clothes worn by Her Majesty Queen Elizabeth II during her reign.</desc>
+<programme start="20261101220500 +0000" stop="20261101222000 +0000" channel="1901">
+<title>Politično s Tanjo Gobec ®</title>
+<desc>Politično s Tanjo GobecŽivimo čas množice informacij in dogodkov. Nekateri se izkažejo za muhe enodnevnice. Kaj pa v resnici zaznamuje teden ali kroji prihodnjega? V oddaji, ki se poglobi v bistvu stvari.</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031221000 +0000" channel="1902">
 <title>Godzilla minus jedan ®</title>
@@ -60024,10 +60038,6 @@
 <programme start="20261101212500 +0000" stop="20261101232500 +0000" channel="1902">
 <title>Ida Who Sang So Badly Even the Dead Rose Up and Joined Her in Song ®</title>
 <desc>Ida, ki je pela tako grdo, da so se mrtvi vstali od mrtvih in zapeli z njoTen-year-old Ida believes that the mysterious angelic singing resounding across the village graveyard is the only thing keeping her beloved Grandma alive. So she decides to join the school choir-even though she is absolutely tone deaf.</desc>
-</programme>
-<programme start="20261031190500 +0000" stop="20261031200500 +0000" channel="1738">
-<title>Prividi: Katolištvo je novi punk - mladi</title>
-<desc>bolj religiozni od starejših</desc>
 </programme>
 <programme start="20261031200500 +0000" stop="20261031203500 +0000" channel="1738">
 <title>Zgodovina Kat. Cerkve, ep. 13.</title>
@@ -61140,10 +61150,6 @@
 <programme start="20261101205000 +0000" stop="20261101221500 +0000" channel="1329">
 <title>Ozbiljna mjesečina</title>
 <desc>Serious MoonlightKad poznata odvjetnica Louise sazna da je muž Ian nakon 13 godina braka namjerava ostaviti zbog djevojke u dvadesetim godinama, impulzivno se odlučuje na drastične mjere. Zarobljuje Iana u njihovoj ladanjskoj kući te ga ne želi pustiti sve dok ne rasprave probleme. On se, dakako, opire, a sve kreće po zlu kad se u kući pojavi provalnik zbog kojeg će svi morati otkriti i priznati prave osjećaje.</desc>
-</programme>
-<programme start="20261031193500 +0000" stop="20261031201000 +0000" channel="1436">
-<title>Wonder, ep. 5.</title>
-<desc>WonderThe Body Transfer Illusion tricks the brain into feeling ownership of a fake body part, like in the rubber hand experiment. The Autokinetic Effect makes stationary lights seem to move in darkness. The Moon Illusion causes the moon to appear larger near the horizon due to visual references. Geometric illusions distort shapes and lines through clever design. Stereoscopy lets us perceive depth by merging two flat images into one 3D view.</desc>
 </programme>
 <programme start="20261031201000 +0000" stop="20261031204500 +0000" channel="1436">
 <title>Wonder, ep. 6.</title>
@@ -62902,10 +62908,6 @@
 <programme start="20261101204500 +0000" stop="20261101224000 +0000" channel="1214">
 <title>Fitoor - Verbotene Liebe</title>
 <desc>Noor, ein armer Junge aus dem Kashmirtal, verliebt sich in Firdaus, die Tochter einer wohlhabenden Familie. Ihre Liebe wird durch die Eltern getrennt, und Jahre später treffen sie sich wieder, doch ihre gemeinsame Zukunft bleibt ungewiss.</desc>
-</programme>
-<programme start="20261031191029 +0000" stop="20261031200531 +0000" channel="1300">
-<title>Die afrikanische Savanne - Ein einzigartiger Lebensraum</title>
-<desc>Ein Pavian jagt eine Gazelle, Krokodile fressen Artgenossen und eine Giraffe verschlingt Fleisch.</desc>
 </programme>
 <programme start="20261031200531 +0000" stop="20261031205654 +0000" channel="1300">
 <title>Afrikas Jäger</title>
